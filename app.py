@@ -179,6 +179,8 @@ def compute_rules_and_scores(df, settings):
     df.loc[df["gst_rate"] > 1.0, "gst_rate"] = df.loc[df["gst_rate"] > 1.0, "gst_rate"] / 100.0
 
     df["expected_gst"] = (df["subtotal"] * df["gst_rate"]).round(2)
+
+    # Note: assumes total = subtotal + gst_amount (basic)
     df["expected_total"] = (df["subtotal"] + df["gst_amount"]).round(2)
 
     gst_tol = settings["gst_tolerance"]
@@ -243,29 +245,41 @@ def compute_rules_and_scores(df, settings):
         )
     ).astype(int)
 
-    def _reason_row(r):
-        if r["pred_anomaly_rules"] == 1:
-            if r["gst_mismatch_rule"]:
-                return "gst_mismatch_rule"
-            if r["total_mismatch_rule"]:
-                return "total_mismatch_rule"
-            if r["duplicate_rule"]:
-                return "duplicate_rule"
-            if r["overprice_rule"]:
-                return "overprice_rule"
-            return "rule_flagged"
-        if r["needs_review"] == 1:
-            triggers = []
-            if r["risk_score"] >= risk_thr:
-                triggers.append("ml_risk")
-            if pd.notna(r["unit_price_dev"]) and r["unit_price_dev"] >= price_dev_thr:
-                triggers.append("price_dev")
-            if pd.notna(r["qty"]) and r["qty"] >= qty_cut:
-                triggers.append("qty_high")
-            return "+".join(triggers) if triggers else "needs_review"
-        return "none"
+    # ---------------------------
+    # Multi-reason output: flag_reasons
+    # ---------------------------
+    RULE_REASON_MAP = [
+        ("gst_mismatch_rule", "gst_mismatch"),
+        ("total_mismatch_rule", "total_mismatch"),
+        ("duplicate_rule", "duplicate"),
+        ("overprice_rule", "overprice"),
+    ]
 
-    df["final_reason"] = df.apply(_reason_row, axis=1)
+    def _reasons_row(r):
+        reasons = []
+
+        # If rules fired, include ALL rule triggers
+        if r["pred_anomaly_rules"] == 1:
+            for col, label in RULE_REASON_MAP:
+                if bool(r.get(col, False)):
+                    reasons.append(label)
+
+        # If needs_review, include triage triggers (only when not rules-flagged)
+        if r["needs_review"] == 1 and r["pred_anomaly_rules"] == 0:
+            if r["risk_score"] >= risk_thr:
+                reasons.append("ml_risk")
+            if pd.notna(r["unit_price_dev"]) and r["unit_price_dev"] >= price_dev_thr:
+                reasons.append("price_dev")
+            if pd.notna(r["qty"]) and r["qty"] >= qty_cut:
+                reasons.append("qty_high")
+
+        return "|".join(reasons) if reasons else "none"
+
+    df["flag_reasons"] = df.apply(_reasons_row, axis=1)
+
+    # Keep old name too (so nothing breaks)
+    df["final_reason"] = df["flag_reasons"]
+
     df["final_status"] = np.where(
         df["pred_anomaly_rules"] == 1, "FLAGGED",
         np.where(df["needs_review"] == 1, "NEEDS_REVIEW", "OK")
@@ -431,7 +445,7 @@ with right:
         **2) Map columns** (invoice# ho ya doc_id — sab map ho jata hai)  
         **3) Run detection**  
         **4) Filter results + download scored CSV**
-        
+
         **Buckets:**
         - 🚩 **FLAGGED** = strong rule issue (GST/total/duplicate/overprice)
         - ⚠️ **NEEDS_REVIEW** = suspicious (ML/price/qty)
@@ -463,7 +477,7 @@ if raw_df is not None and run_btn:
             "gst_mismatch_rule", "total_mismatch_rule", "duplicate_rule", "overprice_rule",
             "unit_price_median", "unit_price_dev",
             "pred_anomaly_rules", "risk_score", "needs_review",
-            "final_reason", "final_status",
+            "flag_reasons", "final_status",
             "created_by", "generated_at",
         ]
         show_cols = [c for c in base_cols + extra_cols if c in scored.columns]
@@ -512,7 +526,7 @@ if raw_df is not None and run_btn:
             st.markdown(
                 """
                 - **expected_gst**: subtotal × gst_rate  
-                - **expected_total**: subtotal + gst_amount  
+                - **expected_total**: subtotal + gst_amount (basic assumption)  
                 - **gst_mismatch_rule**: GST mismatch (tolerance se bahar)  
                 - **total_mismatch_rule**: Total mismatch (tolerance se bahar)  
                 - **duplicate_rule**: duplicate line detected  
@@ -521,7 +535,7 @@ if raw_df is not None and run_btn:
                 - **risk_score (0–100)**: ML suspiciousness score  
                 - **needs_review**: suspicious (manual check)  
                 - **final_status**: FLAGGED / NEEDS_REVIEW / OK  
-                - **final_reason**: why it got flagged/reviewed  
+                - **flag_reasons**: why it got flagged/reviewed (multiple reasons possible)  
                 - **created_by / generated_at**: report metadata
                 """
             )
