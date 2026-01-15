@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit (optional)
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows temp
+~$*.*
+
+# Secrets
+.env
+*.env
+
+# Outputs (generated)
+data/*scored*.csv
+data/*output*.csv
+*.log
