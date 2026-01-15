@@ -1,0 +1,1479 @@
+doc_id,doc_date,vendor,city,payment_terms_days,item,category,qty,unit_price,subtotal,gst_rate,gst_amount,total
+DOC-00000,2025-02-02,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,1,11975.48,11975.48,0.18,2155.59,14131.07
+DOC-00000,2025-02-02,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,20,209.99,4199.77,0,0,4199.77
+DOC-00001,2025-10-05,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,50,3436.79,171839.73,0.18,30931.15,202770.88
+DOC-00001,2025-10-05,Prime Traders,Lahore,30,Printer Service Visit,Service,5,7637.89,38189.47,0.18,6874.1,45063.58
+DOC-00002,2025-11-21,MF TRADER,Islamabad,45,Printer Service Visit,Service,2,7444.75,14889.5,0.18,2680.11,17569.61
+DOC-00002,2025-11-21,MF TRADER,Islamabad,45,UHF Long Range Tag,Accessories,5,187.56,937.79,0,0,937.79
+DOC-00003,2025-11-22,Alpha Supplies,Lahore,15,Printer Service Visit,Service,2,8103.4,16206.79,0.18,2917.22,19124.02
+DOC-00004,2025-05-14,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,1,5065.96,5065.96,0,0,5065.96
+DOC-00004,2025-05-14,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,10,4778.8,47788.01,0.18,8601.84,56389.85
+DOC-00004,2025-05-14,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,50,4979.84,248992.18,0.18,44818.59,293810.78
+DOC-00004,2025-05-14,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,5,4917.15,24585.76,0.18,4425.44,29011.2
+DOC-00005,2025-10-21,Alpha Supplies,Islamabad,30,UHF Long Range Tag,Accessories,2,200.41,400.81,0.18,72.15,472.96
+DOC-00006,2025-10-12,Vision Systems,Lahore,30,UHF Long Range Tag,Accessories,5,207.94,1039.68,0,0,1039.68
+DOC-00006,2025-10-12,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,2,5162.33,10324.67,0.18,1858.44,12183.11
+DOC-00007,2025-02-11,Prime Traders,Lahore,0,Printer Service Visit,Service,10,7977.88,79778.79,0.18,14360.18,94138.98
+DOC-00007,2025-02-11,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,3,193.95,581.85,0.18,104.73,686.58
+DOC-00007,2025-02-11,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,2,11692.51,23385.02,0.18,4209.3,27594.32
+DOC-00007,2025-02-11,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,2,22871.23,45742.47,0.18,8233.64,53976.11
+DOC-00008,2025-12-01,Alpha Supplies,Lahore,30,Printer Service Visit,Service,5,8150.14,40750.71,0.18,7335.13,48085.84
+DOC-00009,2025-10-14,PakTech,Islamabad,15,ID Card PVC Pack,Accessories,1,5091.02,5091.02,0.18,916.38,6007.4
+DOC-00010,2025-09-12,PakTech,Islamabad,0,Printer Service Visit,Service,50,8350.38,417519,0.18,20974.36,438493.36
+DOC-00010,2025-09-12,PakTech,Islamabad,0,HDP5000e Ribbon,Ribbon,2,24406.08,48812.16,0.18,8786.19,57598.35
+DOC-00010,2025-09-12,PakTech,Islamabad,0,ID Card PVC Pack,Accessories,10,4926.42,49264.21,0,0,49264.21
+DOC-00010,2025-09-12,PakTech,Islamabad,0,ID Card PVC Pack,Accessories,3,5211.77,15635.3,0.18,2814.35,18449.65
+DOC-00011,2025-12-18,PakTech,Karachi,45,Printer Cleaning Kit,Accessories,20,3684.76,73695.25,0.18,13265.14,86960.39
+DOC-00011,2025-12-18,PakTech,Karachi,45,UHF Long Range Tag,Accessories,2,200.13,400.26,0.18,72.05,472.3
+DOC-00011,2025-12-18,PakTech,Karachi,45,HDP5000e Ribbon,Ribbon,5,23439.02,117195.1,0.18,21095.12,138290.21
+DOC-00011,2025-12-18,PakTech,Karachi,45,UHF Long Range Tag,Accessories,10,202.33,2023.28,0.18,364.19,2387.47
+DOC-00012,2025-01-08,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,3,8856.23,26568.69,0.18,4782.36,31351.05
+DOC-00012,2025-01-08,Vision Systems,Lahore,30,Printer Service Visit,Service,10,8525.61,85256.08,0,0,85256.08
+DOC-00012,2025-01-08,Vision Systems,Lahore,30,HDP5000e Ribbon,Ribbon,2,26077.36,52154.71,0,0,52154.71
+DOC-00013,2025-06-30,Vision Systems,Karachi,0,UHF Long Range Tag,Accessories,2,206.11,412.21,0.18,74.2,486.41
+DOC-00013,2025-06-30,Vision Systems,Karachi,0,ID Card PVC Pack,Accessories,3,5400.99,16202.97,0,0,16202.97
+DOC-00013,2025-06-30,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,50,24664.91,1233245.5,0.18,221984.19,1455229.69
+DOC-00014,2025-01-24,MF TRADER,Karachi,15,ID Card PVC Pack,Accessories,5,4608.99,23044.95,0.18,4148.09,27193.05
+DOC-00014,2025-01-24,MF TRADER,Karachi,15,PolyGuard Lamination,Accessories,20,11121.97,222439.48,0.18,40039.11,262478.59
+DOC-00014,2025-01-24,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,20,3310.96,66219.12,0.18,11919.44,78138.56
+DOC-00015,2025-06-10,MF TRADER,Islamabad,30,Printer Cleaning Kit,Accessories,5,3157.95,15789.75,0.18,2842.16,18631.91
+DOC-00016,2025-02-13,Alpha Supplies,Karachi,30,UHF Long Range Tag,Accessories,50,205.9,10294.82,0.18,1853.07,12147.89
+DOC-00016,2025-02-13,Alpha Supplies,Karachi,30,UHF Long Range Tag,Accessories,50,194.21,9710.46,0.18,1747.88,11458.35
+DOC-00016,2025-02-13,Alpha Supplies,Karachi,30,Printer Cleaning Kit,Accessories,5,3413.75,17068.77,0.18,3072.38,20141.15
+DOC-00017,2025-05-16,Prime Traders,Karachi,0,Printer Service Visit,Service,3,7803.16,23409.48,0.18,4213.71,27623.18
+DOC-00017,2025-05-16,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,50,11917.37,595868.71,0,0,595868.71
+DOC-00017,2025-05-16,Prime Traders,Karachi,0,Printer Cleaning Kit,Accessories,5,3298.5,16492.5,0.18,2968.65,19461.15
+DOC-00017,2025-05-16,Prime Traders,Karachi,0,HDP5000e Ribbon,Ribbon,20,23632.89,472657.8,0.18,85078.4,557736.21
+DOC-00018,2025-02-12,PakTech,Lahore,15,UHF Long Range Tag,Accessories,3,212.84,638.51,0,0,638.51
+DOC-00019,2025-08-30,Vision Systems,Islamabad,15,HDP5000e Ribbon,Ribbon,50,24395.82,1219791.04,0,0,1219791.04
+DOC-00019,2025-08-30,Vision Systems,Islamabad,15,HDP5000e Ribbon,Ribbon,20,25302.99,506059.82,0,0,506059.82
+DOC-00020,2025-05-15,PakTech,Islamabad,45,Printer Cleaning Kit,Accessories,2,3674.58,7349.15,0.18,1322.85,8672
+DOC-00021,2025-04-24,PakTech,Lahore,15,PolyGuard Lamination,Accessories,1,12881.89,12881.89,0,0,12881.89
+DOC-00022,2025-01-07,Vision Systems,Islamabad,0,Printer Service Visit,Service,50,8169.93,408496.7,0,0,408496.7
+DOC-00022,2025-01-07,Vision Systems,Islamabad,0,UHF Long Range Tag,Accessories,50,217.83,10891.5,0.18,1960.47,12851.97
+DOC-00023,2025-10-21,Prime Traders,Karachi,15,Printer Service Visit,Service,50,7726.12,386306.17,0.18,69535.11,455841.28
+DOC-00024,2025-02-18,PakTech,Lahore,30,PolyGuard Lamination,Accessories,5,12101.94,60509.72,0,0,60509.72
+DOC-00024,2025-02-18,PakTech,Lahore,30,Printer Cleaning Kit,Accessories,10,3624.1,36240.96,0,0,36240.96
+DOC-00025,2025-07-22,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,50,26872.41,1343620.39,0.18,241851.67,1585472.06
+DOC-00025,2025-07-22,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,20,202.69,4053.85,0.18,729.69,4783.54
+DOC-00026,2025-11-06,MF TRADER,Lahore,0,UHF Long Range Tag,Accessories,2,177.76,355.52,0.18,63.99,419.51
+DOC-00026,2025-11-06,MF TRADER,Lahore,0,UHF Long Range Tag,Accessories,20,186.98,3739.64,0.18,673.14,4412.78
+DOC-00027,2025-08-10,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,50,11242.43,562121.32,0,0,562121.32
+DOC-00027,2025-08-10,Prime Traders,Lahore,0,Printer Cleaning Kit,Accessories,2,3317.14,6634.28,0.18,1194.17,7828.45
+DOC-00027,2025-08-10,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,1,11346.67,11346.67,0.18,2042.4,13389.07
+DOC-00028,2025-05-11,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,50,6394.88,319744,0,0,319744
+DOC-00028,2025-05-11,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,2,22708.47,45416.93,0,0,45416.93
+DOC-00029,2025-04-14,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,2,3544.94,7089.88,0.18,1276.18,9855.34
+DOC-00030,2025-07-08,Vision Systems,Islamabad,15,Printer Cleaning Kit,Accessories,50,3710.01,185500.47,0.18,33390.08,218890.55
+DOC-00030,2025-07-08,Vision Systems,Islamabad,15,Printer Service Visit,Service,5,8455.25,42276.25,0,0,42276.25
+DOC-00030,2025-07-08,Vision Systems,Islamabad,15,HDP5000e Ribbon,Ribbon,10,25734.48,257344.8,0,0,257344.8
+DOC-00030,2025-07-08,Vision Systems,Islamabad,15,Printer Service Visit,Service,1,8546.44,8546.44,0,0,8546.44
+DOC-00031,2025-05-17,MF TRADER,Islamabad,0,ID Card PVC Pack,Accessories,50,4501.4,225069.82,0.18,40512.57,265582.39
+DOC-00032,2025-10-20,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,10,196.31,1963.09,0.18,353.36,2316.44
+DOC-00032,2025-10-20,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,20,194.52,3890.37,0.18,700.27,4590.63
+DOC-00033,2025-02-19,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,3,197.04,591.11,0.18,106.4,697.51
+DOC-00033,2025-02-19,Prime Traders,Islamabad,45,HDP5000e Ribbon,Ribbon,1,22280.46,22280.46,0.18,4010.48,26290.94
+DOC-00034,2025-08-09,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,20,4990.8,99816.03,0.18,17966.88,117782.91
+DOC-00034,2025-08-09,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,2,3636.5,7273.01,0.18,1309.14,8582.15
+DOC-00034,2025-08-09,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,20,3623.63,72472.56,0.18,13045.06,85517.63
+DOC-00035,2025-06-25,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,20,3399.48,67989.66,0.18,12238.14,80227.8
+DOC-00035,2025-06-25,Prime Traders,Islamabad,15,HDP5000e Ribbon,Ribbon,3,24218.25,72654.75,0,0,72654.75
+DOC-00035,2025-06-25,Prime Traders,Islamabad,15,Printer Service Visit,Service,100,7795.16,779516,0.18,140312.88,919828.88
+DOC-00036,2025-08-21,MF TRADER,Lahore,30,HDP5000e Ribbon,Ribbon,5,22754.2,113771.02,0.18,20478.78,134249.8
+DOC-00036,2025-08-21,MF TRADER,Lahore,30,PolyGuard Lamination,Accessories,2,11916.84,23833.68,0.18,4290.06,28123.74
+DOC-00036,2025-08-21,MF TRADER,Lahore,30,UHF Long Range Tag,Accessories,50,184.22,9211.09,0.18,1658,10869.09
+DOC-00037,2025-10-18,Vision Systems,Lahore,0,Printer Service Visit,Service,10,8314.05,83140.51,0.18,14965.29,98105.81
+DOC-00038,2025-01-03,PakTech,Lahore,15,Printer Service Visit,Service,20,8342.31,166846.27,0.18,30032.33,196878.6
+DOC-00038,2025-01-03,PakTech,Lahore,15,UHF Long Range Tag,Accessories,2,202.35,404.69,0,0,404.69
+DOC-00038,2025-01-03,PakTech,Lahore,15,Printer Service Visit,Service,20,8604.85,172097.09,0.18,30977.48,203074.57
+DOC-00039,2025-02-12,Vision Systems,Lahore,45,Printer Cleaning Kit,Accessories,10,3828.92,38289.21,0.18,6892.06,45181.27
+DOC-00039,2025-02-12,Vision Systems,Lahore,45,UHF Long Range Tag,Accessories,20,213.72,4274.39,0.18,769.39,5043.78
+DOC-00039,2025-02-12,Vision Systems,Lahore,45,Printer Service Visit,Service,3,8441.2,25323.59,0,0,25323.59
+DOC-00039,2025-02-12,Vision Systems,Lahore,45,HDP5000e Ribbon,Ribbon,50,24632.13,1231606.26,0.18,221689.13,1453295.39
+DOC-00040,2025-02-16,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,3,13042.22,39126.65,0.18,7042.8,46169.45
+DOC-00040,2025-02-16,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,10,217.45,2174.49,0.18,391.41,2565.9
+DOC-00040,2025-02-16,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,3,13608.23,40824.7,0.18,7348.45,48173.14
+DOC-00040,2025-02-16,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,1,26664.37,26664.37,0.18,4799.59,31463.95
+DOC-00041,2025-02-14,PakTech,Karachi,0,UHF Long Range Tag,Accessories,20,198.26,3965.3,0.18,713.75,4679.05
+DOC-00041,2025-02-14,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,5,3652.55,18262.73,0.18,3287.29,21550.03
+DOC-00042,2025-09-27,Vision Systems,Lahore,0,PolyGuard Lamination,Accessories,1,12539.97,12539.97,0.18,2257.19,14797.16
+DOC-00042,2025-09-27,Vision Systems,Lahore,0,PolyGuard Lamination,Accessories,1,12772.75,12772.75,0,0,12772.75
+DOC-00043,2025-02-08,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,2,3690.01,7380.02,0.18,1328.4,8708.42
+DOC-00044,2025-10-23,MF TRADER,Karachi,45,Printer Service Visit,Service,50,7573.2,378660.02,0,0,378660.02
+DOC-00044,2025-10-23,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,20,21913.21,438264.26,0,0,438264.26
+DOC-00045,2025-08-10,Alpha Supplies,Islamabad,0,UHF Long Range Tag,Accessories,20,198.29,3965.81,0.18,713.85,4679.66
+DOC-00046,2025-11-05,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,5,26473.06,132365.28,0.18,23825.75,156191.03
+DOC-00046,2025-11-05,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,1,3643.84,3643.84,0.18,655.89,4299.74
+DOC-00047,2025-11-07,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,10,23977.01,239770.07,0.18,43158.61,282928.68
+DOC-00047,2025-11-07,MF TRADER,Karachi,0,Printer Service Visit,Service,1,7362.76,7362.76,0,0,7362.76
+DOC-00048,2025-03-21,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,3,6648.38,19945.14,0.18,3590.13,23535.27
+DOC-00048,2025-03-21,Prime Traders,Lahore,30,HDP5000e Ribbon,Ribbon,10,23821.92,238219.19,0.18,42879.46,281098.65
+DOC-00049,2025-06-17,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,50,3394.73,169736.37,0.18,30552.55,200288.91
+DOC-00050,2025-07-16,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,2,12669.96,25339.92,0.18,4561.18,29901.1
+DOC-00050,2025-07-16,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,50,27025.15,1351257.58,0,0,1351257.58
+DOC-00051,2025-06-23,Prime Traders,Karachi,0,Printer Service Visit,Service,3,7918.34,23755.01,0.18,4275.9,28030.92
+DOC-00051,2025-06-23,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,3,11465.99,34397.97,0,0,34397.97
+DOC-00052,2025-12-13,PakTech,Lahore,15,HDP5000e Ribbon,Ribbon,3,26156.65,78469.95,0,0,78469.95
+DOC-00052,2025-12-13,PakTech,Lahore,15,ID Card PVC Pack,Accessories,1,5203.72,5203.72,0.18,936.67,6140.39
+DOC-00052,2025-12-13,PakTech,Lahore,15,Printer Service Visit,Service,5,8285.81,41429.06,0.18,7457.23,48886.29
+DOC-00052,2025-12-13,PakTech,Lahore,15,Printer Service Visit,Service,2,8502.98,17005.97,0.18,3061.07,20067.04
+DOC-00053,2025-10-15,PakTech,Lahore,30,PolyGuard Lamination,Accessories,5,12891.44,64457.18,0.18,11602.29,76059.47
+DOC-00053,2025-10-15,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,50,24677.89,1233894.48,0.18,222101.01,1455995.49
+DOC-00054,2025-04-09,Vision Systems,Karachi,15,PolyGuard Lamination,Accessories,3,12953.72,38861.16,0,0,47058.6
+DOC-00054,2025-04-09,Vision Systems,Karachi,15,ID Card PVC Pack,Accessories,50,5358.28,267913.92,0.18,48224.51,316138.43
+DOC-00054,2025-04-09,Vision Systems,Karachi,15,PolyGuard Lamination,Accessories,5,12602.21,63011.05,0.18,11341.99,74353.04
+DOC-00055,2025-05-02,MF TRADER,Islamabad,45,ID Card PVC Pack,Accessories,20,4536.95,90739.08,0.18,16333.03,107072.11
+DOC-00056,2025-09-16,MF TRADER,Karachi,30,HDP5000e Ribbon,Ribbon,5,22428.25,112141.25,0.18,20185.42,132326.67
+DOC-00056,2025-09-16,MF TRADER,Karachi,30,ID Card PVC Pack,Accessories,5,4670.26,23351.3,0.18,4203.23,27554.54
+DOC-00056,2025-09-16,MF TRADER,Karachi,30,UHF Long Range Tag,Accessories,2,188.31,376.61,0.18,67.79,444.4
+DOC-00057,2025-09-15,Alpha Supplies,Karachi,30,UHF Long Range Tag,Accessories,5,204.01,1020.05,0,0,1020.05
+DOC-00058,2025-06-02,Prime Traders,Islamabad,45,Printer Service Visit,Service,2,8154.18,16308.35,0,0,16308.35
+DOC-00058,2025-06-02,Prime Traders,Islamabad,45,PolyGuard Lamination,Accessories,5,21292.06,106460.3,0,0,106460.3
+DOC-00058,2025-06-02,Prime Traders,Islamabad,45,ID Card PVC Pack,Accessories,20,4937.96,98759.19,0.18,17776.65,116535.85
+DOC-00058,2025-06-02,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,50,190.47,9523.31,0.18,1714.2,11237.51
+DOC-00059,2025-02-24,Prime Traders,Karachi,30,Printer Cleaning Kit,Accessories,3,3374.56,10123.68,0.18,1822.26,11945.94
+DOC-00060,2025-09-21,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,20,3631.79,72635.7,0.18,13074.43,85710.13
+DOC-00060,2025-09-21,PakTech,Karachi,0,PolyGuard Lamination,Accessories,3,12300.97,36902.92,0,0,36902.92
+DOC-00061,2025-09-02,Vision Systems,Lahore,30,PolyGuard Lamination,Accessories,3,12866.93,38600.79,0.18,6948.14,45548.93
+DOC-00061,2025-09-02,Vision Systems,Lahore,30,Printer Service Visit,Service,20,8997.72,179954.45,0.18,32391.8,212346.25
+DOC-00061,2025-09-02,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,50,5180.19,259009.46,0.18,46621.7,305631.16
+DOC-00062,2025-05-21,Alpha Supplies,Lahore,15,Printer Service Visit,Service,5,7983.04,39915.18,0.18,7184.73,47099.92
+DOC-00062,2025-05-21,Alpha Supplies,Lahore,15,HDP5000e Ribbon,Ribbon,10,23448.81,234488.15,0.18,42207.87,276696.01
+DOC-00062,2025-05-21,Alpha Supplies,Lahore,15,Printer Service Visit,Service,3,7961.68,23885.05,0.18,4299.31,28184.36
+DOC-00062,2025-05-21,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,10,3519.74,35197.37,0.18,6335.53,41532.9
+DOC-00063,2025-06-13,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,10,3625.53,36255.32,0.18,6525.96,42781.27
+DOC-00063,2025-06-13,PakTech,Karachi,15,UHF Long Range Tag,Accessories,10,213.71,2137.12,0.18,384.68,2521.81
+DOC-00064,2025-08-26,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,10,11381.75,113817.51,0,0,113817.51
+DOC-00064,2025-08-26,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,5,189.08,945.41,0.18,170.17,1115.58
+DOC-00065,2025-09-25,Prime Traders,Lahore,15,HDP5000e Ribbon,Ribbon,50,23695.72,1184785.99,0.18,213261.48,1398047.47
+DOC-00065,2025-09-25,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,20,11610.44,232208.86,0,0,232208.86
+DOC-00065,2025-09-25,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,1,3386.41,3386.41,0.18,609.55,3995.96
+DOC-00065,2025-09-25,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,50,11845.26,592262.88,0.18,106607.32,698870.2
+DOC-00066,2025-03-30,PakTech,Karachi,45,HDP5000e Ribbon,Ribbon,2,24247.89,48495.77,0.18,8729.24,57225.01
+DOC-00066,2025-03-30,PakTech,Karachi,45,Printer Service Visit,Service,5,8350.77,41753.85,0.18,7515.69,49269.54
+DOC-00066,2025-03-30,PakTech,Karachi,45,UHF Long Range Tag,Accessories,50,199.61,9980.4,0.18,1796.47,11776.87
+DOC-00067,2025-01-18,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,50,24461.09,1223054.66,0.18,220149.84,1443204.5
+DOC-00067,2025-01-18,Vision Systems,Islamabad,30,ID Card PVC Pack,Accessories,1,5202.38,5202.38,0.18,936.43,6138.81
+DOC-00067,2025-01-18,Vision Systems,Islamabad,30,Printer Cleaning Kit,Accessories,50,3713.57,185678.68,0.18,33422.16,219100.84
+DOC-00067,2025-01-18,Vision Systems,Islamabad,30,Printer Cleaning Kit,Accessories,10,3762.44,37624.37,0.18,6772.39,44396.76
+DOC-00068,2025-09-13,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,3,3595.77,10787.3,0.18,1941.71,12729.01
+DOC-00068,2025-09-13,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,50,11076.68,553834.18,0.18,99690.15,653524.33
+DOC-00069,2025-04-20,MF TRADER,Karachi,30,PolyGuard Lamination,Accessories,2,11598.21,23196.42,0.18,4175.36,27371.78
+DOC-00069,2025-04-20,MF TRADER,Karachi,30,ID Card PVC Pack,Accessories,20,4849.64,96992.71,0.18,17458.69,114451.4
+DOC-00069,2025-04-20,MF TRADER,Karachi,30,Printer Service Visit,Service,3,7523.09,22569.27,0,0,22569.27
+DOC-00069,2025-04-20,MF TRADER,Karachi,30,HDP5000e Ribbon,Ribbon,10,21616.22,216162.21,0.18,38909.2,255071.4
+DOC-00070,2025-06-30,Prime Traders,Karachi,15,HDP5000e Ribbon,Ribbon,1,22741.2,22741.2,0,0,22741.2
+DOC-00070,2025-06-30,Prime Traders,Karachi,15,ID Card PVC Pack,Accessories,5,4772.25,23861.25,0.18,4295.03,28156.28
+DOC-00071,2025-01-07,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,50,11753.8,587690.19,0.18,105784.23,693474.43
+DOC-00071,2025-01-07,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,2,11731.22,23462.43,0,0,23462.43
+DOC-00072,2025-07-24,Alpha Supplies,Islamabad,45,Printer Service Visit,Service,50,8188.36,409418.13,0.18,73695.26,483113.39
+DOC-00072,2025-07-24,Alpha Supplies,Islamabad,45,UHF Long Range Tag,Accessories,1,192.1,192.1,0.18,34.58,226.68
+DOC-00073,2025-04-20,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,2,23087.41,46174.82,0.18,8311.47,54486.29
+DOC-00073,2025-04-20,MF TRADER,Karachi,15,Printer Service Visit,Service,20,7786.22,155724.5,0.18,28030.41,183754.91
+DOC-00073,2025-04-20,MF TRADER,Karachi,15,PolyGuard Lamination,Accessories,50,11221.71,561085.38,0.18,100995.37,662080.75
+DOC-00073,2025-04-20,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,50,187.52,9375.91,0,0,9375.91
+DOC-00074,2025-03-04,PakTech,Karachi,0,Printer Service Visit,Service,3,8317.64,24952.92,0.18,4491.53,29444.45
+DOC-00074,2025-03-04,PakTech,Karachi,0,PolyGuard Lamination,Accessories,1,11525.04,11525.04,0,0,11525.04
+DOC-00075,2025-01-14,Alpha Supplies,Karachi,0,Printer Service Visit,Service,1,7780.36,7780.36,0.18,1400.47,9180.83
+DOC-00076,2025-10-16,Alpha Supplies,Karachi,0,HDP5000e Ribbon,Ribbon,10,24755.41,247554.05,0.18,44559.73,292113.78
+DOC-00076,2025-10-16,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,5,5083.78,25418.91,0.18,4575.4,29994.32
+DOC-00076,2025-10-16,Alpha Supplies,Karachi,0,Printer Cleaning Kit,Accessories,2,3498.57,6997.13,0,0,6997.13
+DOC-00076,2025-10-16,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,3,4998.19,14994.56,0.18,2699.02,17693.58
+DOC-00077,2025-11-11,Alpha Supplies,Lahore,0,ID Card PVC Pack,Accessories,5,4947.36,24736.79,0.18,4452.62,29189.41
+DOC-00077,2025-11-11,Alpha Supplies,Lahore,0,Printer Service Visit,Service,2,8270.72,16541.45,0,0,16541.45
+DOC-00078,2025-11-30,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,20,3687.99,73759.71,0,0,73759.71
+DOC-00078,2025-11-30,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,5,3653.43,18267.16,0,0,18267.16
+DOC-00079,2025-06-18,Vision Systems,Karachi,15,HDP5000e Ribbon,Ribbon,50,25560.68,1278033.82,0,0,1278033.82
+DOC-00080,2025-10-26,MF TRADER,Karachi,0,Printer Service Visit,Service,5,7870.8,39354.01,0.18,7083.72,46437.73
+DOC-00080,2025-10-26,MF TRADER,Karachi,0,Printer Cleaning Kit,Accessories,10,3334.88,33348.79,0.18,6002.78,39351.57
+DOC-00080,2025-10-26,MF TRADER,Karachi,0,PolyGuard Lamination,Accessories,5,11576.57,57882.87,0.18,10418.92,68301.79
+DOC-00081,2025-08-14,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,50,3325.55,166277.48,0.18,29929.95,196207.42
+DOC-00081,2025-08-14,Prime Traders,Islamabad,15,PolyGuard Lamination,Accessories,50,12160.8,608039.9,0.18,109447.18,717487.08
+DOC-00082,2025-02-24,Alpha Supplies,Lahore,45,Printer Service Visit,Service,3,8152.49,24457.47,0.18,4402.34,28859.81
+DOC-00083,2025-03-20,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,3,196.49,589.48,0,0,589.48
+DOC-00084,2025-08-29,Vision Systems,Islamabad,30,UHF Long Range Tag,Accessories,20,213.62,4272.46,0.18,769.04,5041.51
+DOC-00084,2025-08-29,Vision Systems,Islamabad,30,Printer Cleaning Kit,Accessories,2,3732.57,7465.14,0.18,1343.73,8808.87
+DOC-00085,2025-02-15,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,50,22764.98,1138249.06,0,0,1138249.06
+DOC-00085,2025-02-15,MF TRADER,Karachi,45,Printer Service Visit,Service,50,7803.88,390194.03,0,0,390194.03
+DOC-00085,2025-02-15,MF TRADER,Karachi,45,Printer Service Visit,Service,50,14655.12,732756,0.18,131896.08,864652.08
+DOC-00086,2025-03-02,Vision Systems,Karachi,15,HDP5000e Ribbon,Ribbon,5,35687.6,178438,0.18,32118.84,210556.84
+DOC-00086,2025-03-02,Vision Systems,Karachi,15,Printer Service Visit,Service,50,8448.79,422439.45,0.18,76039.1,498478.55
+DOC-00086,2025-03-02,Vision Systems,Karachi,15,PolyGuard Lamination,Accessories,2,13111.46,26222.92,0.18,4720.13,30943.04
+DOC-00087,2025-03-26,Vision Systems,Lahore,0,Printer Service Visit,Service,3,8576.49,25729.47,0.18,4631.3,30360.77
+DOC-00087,2025-03-26,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,5,211.16,1055.8,0.18,190.04,1245.84
+DOC-00087,2025-03-26,Vision Systems,Lahore,0,HDP5000e Ribbon,Ribbon,3,25605.79,76817.37,0,0,76817.37
+DOC-00088,2025-01-13,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,50,5349.52,267476.05,0.18,48145.69,315621.74
+DOC-00088,2025-01-13,Vision Systems,Lahore,30,HDP5000e Ribbon,Ribbon,2,25648.51,51297.02,0.18,9233.46,70966.93
+DOC-00089,2025-09-07,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,50,12114.55,605727.41,0,0,605727.41
+DOC-00090,2025-05-06,PakTech,Islamabad,30,PolyGuard Lamination,Accessories,10,12316.39,123163.9,0.18,22169.5,145333.4
+DOC-00090,2025-05-06,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,10,5211.17,52111.72,0.18,9380.11,61491.83
+DOC-00090,2025-05-06,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,5,203.65,1018.26,0.18,183.29,1201.55
+DOC-00091,2025-02-08,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,2,24816.46,49632.92,0,0,49632.92
+DOC-00092,2025-03-18,Prime Traders,Islamabad,15,UHF Long Range Tag,Accessories,50,196.77,9838.53,0.18,1770.94,11609.47
+DOC-00092,2025-03-18,Prime Traders,Islamabad,15,PolyGuard Lamination,Accessories,3,12060.33,36181,0.18,6512.58,42693.58
+DOC-00092,2025-03-18,Prime Traders,Islamabad,15,Printer Service Visit,Service,1,7754.9,7754.9,0.18,1395.88,9150.78
+DOC-00092,2025-03-18,Prime Traders,Islamabad,15,Printer Service Visit,Service,1,7847.31,7847.31,0.18,1412.52,9259.83
+DOC-00093,2025-03-13,Vision Systems,Karachi,15,Printer Cleaning Kit,Accessories,10,3494.42,34944.16,0.18,6289.95,41234.1
+DOC-00094,2025-09-23,Alpha Supplies,Karachi,0,UHF Long Range Tag,Accessories,10,195.84,1958.39,0,0,1958.39
+DOC-00094,2025-09-23,Alpha Supplies,Karachi,0,PolyGuard Lamination,Accessories,50,11853.5,592675.01,0.18,106681.5,699356.51
+DOC-00095,2025-03-09,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,5,25257.13,126285.64,0.18,22731.42,149017.06
+DOC-00096,2025-09-03,PakTech,Islamabad,0,Printer Cleaning Kit,Accessories,1,3593.82,3593.82,0.18,646.89,4240.7
+DOC-00097,2025-04-18,Vision Systems,Islamabad,0,Printer Service Visit,Service,50,8181.85,409092.52,0,0,409092.52
+DOC-00097,2025-04-18,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,1,5497.95,5497.95,0.18,989.63,6487.58
+DOC-00097,2025-04-18,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,1,7198.6,7198.6,0.18,1295.75,8494.35
+DOC-00097,2025-04-18,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,5,5235.07,26175.33,0.18,4711.56,30886.89
+DOC-00098,2025-06-15,MF TRADER,Karachi,45,Printer Service Visit,Service,5,7709.18,38545.92,0.18,6938.27,45484.18
+DOC-00098,2025-06-15,MF TRADER,Karachi,45,UHF Long Range Tag,Accessories,20,190.58,3811.69,0.18,686.1,4497.8
+DOC-00099,2025-05-28,MF TRADER,Karachi,30,ID Card PVC Pack,Accessories,1,8091.09,8091.09,0,0,8091.09
+DOC-00099,2025-05-28,MF TRADER,Karachi,30,ID Card PVC Pack,Accessories,2,4596.64,9193.27,0,0,9193.27
+DOC-00099,2025-05-28,MF TRADER,Karachi,30,Printer Service Visit,Service,3,7726.67,23180.02,0,0,23180.02
+DOC-00099,2025-05-28,MF TRADER,Karachi,30,PolyGuard Lamination,Accessories,50,11795.87,589793.5,0.18,106162.83,695956.33
+DOC-00100,2025-09-30,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,3,3466.62,10399.86,0.18,1871.97,12271.83
+DOC-00100,2025-09-30,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,1,3440,3440,0.18,619.2,4059.2
+DOC-00100,2025-09-30,Alpha Supplies,Lahore,30,PolyGuard Lamination,Accessories,2,11938.9,23877.8,0.18,4298,28175.81
+DOC-00101,2025-06-29,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,1,4965.9,4965.9,0.18,893.86,5859.77
+DOC-00102,2025-11-01,Prime Traders,Karachi,0,Printer Service Visit,Service,50,7819.33,390966.5,0,0,390966.5
+DOC-00102,2025-11-01,Prime Traders,Karachi,0,Printer Cleaning Kit,Accessories,3,3451.77,10355.32,0.18,1863.96,12219.28
+DOC-00103,2025-02-13,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,3,11634.51,34903.53,0,0,34903.53
+DOC-00103,2025-02-13,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,50,11895.08,594754.1,0.18,107055.74,701809.84
+DOC-00104,2025-05-16,PakTech,Islamabad,0,PolyGuard Lamination,Accessories,10,12095.95,120959.53,0.18,21772.71,142732.24
+DOC-00104,2025-05-16,PakTech,Islamabad,0,ID Card PVC Pack,Accessories,1,5496.53,5496.53,0.18,989.38,6485.91
+DOC-00104,2025-05-16,PakTech,Islamabad,0,UHF Long Range Tag,Accessories,10,215.99,2159.92,0.18,388.79,2548.71
+DOC-00104,2025-05-16,PakTech,Islamabad,0,UHF Long Range Tag,Accessories,5,205.32,1026.61,0,0,1026.61
+DOC-00105,2025-06-09,PakTech,Islamabad,15,PolyGuard Lamination,Accessories,1,12702.75,12702.75,0,0,12702.75
+DOC-00105,2025-06-09,PakTech,Islamabad,15,ID Card PVC Pack,Accessories,2,5133.59,10267.19,0.18,1848.09,12115.28
+DOC-00106,2025-02-25,Prime Traders,Lahore,15,UHF Long Range Tag,Accessories,20,193.58,3871.51,0.18,696.87,4568.38
+DOC-00106,2025-02-25,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,1,4968.12,4968.12,0.18,894.26,5862.38
+DOC-00107,2025-06-22,PakTech,Karachi,0,PolyGuard Lamination,Accessories,20,12594.34,251886.77,0.18,45339.62,297226.39
+DOC-00107,2025-06-22,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,50,3572.27,178613.58,0.18,32150.45,210764.03
+DOC-00107,2025-06-22,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,3,3764.98,11294.95,0.18,2033.09,13328.04
+DOC-00108,2025-09-26,Vision Systems,Lahore,15,Printer Service Visit,Service,2,8510.83,17021.66,0.18,3063.9,20085.55
+DOC-00108,2025-09-26,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,3,211.62,634.87,0.18,114.28,749.15
+DOC-00108,2025-09-26,Vision Systems,Lahore,15,ID Card PVC Pack,Accessories,10,5400.79,54007.92,0,0,54007.92
+DOC-00108,2025-09-26,Vision Systems,Lahore,15,ID Card PVC Pack,Accessories,20,5406.54,108130.85,0.18,19463.55,127594.41
+DOC-00109,2025-02-03,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,3,13270.38,39811.15,0.18,7166.01,46977.16
+DOC-00110,2025-12-10,Prime Traders,Islamabad,0,UHF Long Range Tag,Accessories,2,194.39,388.78,0,0,388.78
+DOC-00110,2025-12-10,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,2,23759.82,47519.63,0.18,8553.53,56073.17
+DOC-00110,2025-12-10,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,20,3493.4,69868.01,0.18,12576.24,82444.25
+DOC-00110,2025-12-10,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,20,3205.66,64113.13,0.18,11540.36,75653.49
+DOC-00111,2025-12-14,Alpha Supplies,Lahore,0,UHF Long Range Tag,Accessories,50,201.22,10060.83,0.18,1810.95,11871.78
+DOC-00111,2025-12-14,Alpha Supplies,Lahore,0,Printer Service Visit,Service,1,14461.67,14461.67,0.18,2603.1,17064.77
+DOC-00112,2025-12-18,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,20,12355.65,247113.03,0.18,44480.35,291593.37
+DOC-00113,2025-11-08,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,3,206.54,619.61,0.18,111.53,731.14
+DOC-00113,2025-11-08,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,50,12355.33,617766.67,0.18,111198,728964.67
+DOC-00113,2025-11-08,Vision Systems,Lahore,15,HDP5000e Ribbon,Ribbon,20,25284.25,505685.1,0.18,91023.32,596708.41
+DOC-00114,2025-02-08,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,10,3649.47,36494.68,0.18,6569.04,43063.73
+DOC-00114,2025-02-08,PakTech,Lahore,15,Printer Service Visit,Service,5,8202.01,41010.05,0,0,41010.05
+DOC-00114,2025-02-08,PakTech,Lahore,15,Printer Service Visit,Service,10,8519.89,85198.88,0,0,85198.88
+DOC-00115,2025-10-25,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,20,5216.77,104335.38,0,0,104335.38
+DOC-00115,2025-10-25,Alpha Supplies,Karachi,0,UHF Long Range Tag,Accessories,20,193.31,3866.25,0.18,695.92,4562.17
+DOC-00116,2025-06-14,Prime Traders,Karachi,0,HDP5000e Ribbon,Ribbon,1,25502.18,25502.18,0.18,4590.39,30092.57
+DOC-00116,2025-06-14,Prime Traders,Karachi,0,ID Card PVC Pack,Accessories,3,4935.83,14807.49,0,0,14807.49
+DOC-00116,2025-06-14,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,10,11781.84,117818.44,0.18,21207.32,139025.76
+DOC-00116,2025-06-14,Prime Traders,Karachi,0,UHF Long Range Tag,Accessories,2,187.78,375.56,0.18,67.6,443.16
+DOC-00117,2025-08-31,PakTech,Karachi,0,Printer Service Visit,Service,5,8242.1,41210.51,0.18,7417.89,48628.41
+DOC-00117,2025-08-31,PakTech,Karachi,0,UHF Long Range Tag,Accessories,10,201.95,2019.46,0.18,363.5,2382.96
+DOC-00118,2025-01-12,PakTech,Karachi,0,UHF Long Range Tag,Accessories,1,213.68,213.68,0.18,38.46,252.14
+DOC-00118,2025-01-12,PakTech,Karachi,0,PolyGuard Lamination,Accessories,2,12581.87,25163.73,0.18,4529.47,29693.21
+DOC-00118,2025-01-12,PakTech,Karachi,0,ID Card PVC Pack,Accessories,20,5258.26,105165.23,0.18,18929.74,124094.98
+DOC-00119,2025-05-09,Prime Traders,Islamabad,45,ID Card PVC Pack,Accessories,3,5118.65,15355.94,0.18,2764.07,18120.01
+DOC-00119,2025-05-09,Prime Traders,Islamabad,45,Printer Cleaning Kit,Accessories,5,3405.26,17026.3,0,0,17026.3
+DOC-00120,2025-07-28,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,3,22822.42,68467.27,0,0,68467.27
+DOC-00120,2025-07-28,Prime Traders,Islamabad,0,Printer Service Visit,Service,2,7663.64,15327.29,0.18,2758.91,18086.2
+DOC-00121,2025-01-01,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,20,189.44,3788.78,0,0,3788.78
+DOC-00121,2025-01-01,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,50,22188.36,1109418.11,0.18,199695.26,1309113.37
+DOC-00121,2025-01-01,MF TRADER,Karachi,15,ID Card PVC Pack,Accessories,20,4946.89,98937.87,0.18,17808.82,116746.68
+DOC-00122,2025-07-19,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,2,212.02,424.05,0.18,76.33,500.38
+DOC-00122,2025-07-19,Vision Systems,Lahore,15,Printer Service Visit,Service,3,7970.81,23912.42,0,0,23912.42
+DOC-00123,2025-05-15,Vision Systems,Islamabad,45,UHF Long Range Tag,Accessories,1,209.56,209.56,0,0,209.56
+DOC-00124,2025-01-17,Prime Traders,Karachi,15,PolyGuard Lamination,Accessories,20,11561.91,231238.18,0.18,41622.87,272861.05
+DOC-00124,2025-01-17,Prime Traders,Karachi,15,HDP5000e Ribbon,Ribbon,50,23520.95,1176047.27,0.18,211688.51,1387735.78
+DOC-00124,2025-01-17,Prime Traders,Karachi,15,ID Card PVC Pack,Accessories,50,4691.6,234580.02,0,0,234580.02
+DOC-00125,2025-11-15,PakTech,Lahore,45,Printer Cleaning Kit,Accessories,20,3498.46,69969.1,0.18,12594.44,82563.54
+DOC-00125,2025-11-15,PakTech,Lahore,45,ID Card PVC Pack,Accessories,20,5428.37,108567.38,0,0,108567.38
+DOC-00126,2025-07-13,MF TRADER,Islamabad,30,ID Card PVC Pack,Accessories,10,4607.81,46078.06,0.18,8294.05,54372.11
+DOC-00126,2025-07-13,MF TRADER,Islamabad,30,Printer Cleaning Kit,Accessories,1,3248.99,3248.99,0.18,584.82,3833.81
+DOC-00127,2025-10-29,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,3,26092.3,78276.89,0.18,14089.84,92366.73
+DOC-00127,2025-10-29,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,1,12715.94,12715.94,0,0,12715.94
+DOC-00127,2025-10-29,Vision Systems,Karachi,0,Printer Service Visit,Service,50,8572.95,428647.43,0,0,428647.43
+DOC-00128,2025-11-03,Prime Traders,Karachi,15,ID Card PVC Pack,Accessories,20,8563.25,171265,0,0,171265
+DOC-00128,2025-11-03,Prime Traders,Karachi,15,PolyGuard Lamination,Accessories,5,11326.76,56633.81,0.18,10194.09,66827.89
+DOC-00128,2025-11-03,Prime Traders,Karachi,15,Printer Service Visit,Service,1,7591.09,7591.09,0,0,7591.09
+DOC-00128,2025-11-03,Prime Traders,Karachi,15,Printer Cleaning Kit,Accessories,1,3473.24,3473.24,0,0,3473.24
+DOC-00129,2025-06-04,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,3,5160.16,15480.47,0.18,2786.49,18266.96
+DOC-00129,2025-06-04,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,2,5440.99,10881.99,0,0,10881.99
+DOC-00130,2025-10-20,Prime Traders,Karachi,45,HDP5000e Ribbon,Ribbon,20,22242.43,444848.55,0.18,80072.74,524921.29
+DOC-00130,2025-10-20,Prime Traders,Karachi,45,HDP5000e Ribbon,Ribbon,3,24454.89,73364.67,0.18,13205.64,86570.31
+DOC-00130,2025-10-20,Prime Traders,Karachi,45,HDP5000e Ribbon,Ribbon,1,23809.99,23809.99,0.18,4285.8,28095.79
+DOC-00131,2025-10-27,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,3,24292.36,72877.08,0.18,13117.87,85994.95
+DOC-00131,2025-10-27,PakTech,Karachi,0,PolyGuard Lamination,Accessories,20,12156.23,243124.52,0.18,43762.41,286886.93
+DOC-00132,2025-04-30,PakTech,Lahore,15,PolyGuard Lamination,Accessories,50,12481.26,624062.76,0.18,112331.3,736394.06
+DOC-00132,2025-04-30,PakTech,Lahore,15,ID Card PVC Pack,Accessories,5,5238.15,26190.74,0,0,26190.74
+DOC-00133,2025-02-16,Prime Traders,Karachi,45,HDP5000e Ribbon,Ribbon,10,24707.94,247079.38,0.18,44474.29,291553.67
+DOC-00133,2025-02-16,Prime Traders,Karachi,45,ID Card PVC Pack,Accessories,5,4909.99,24549.97,0.18,4418.99,28968.96
+DOC-00133,2025-02-16,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,250,194.99,48747.5,0.18,8774.55,57522.05
+DOC-00133,2025-02-16,Prime Traders,Karachi,45,Printer Cleaning Kit,Accessories,5,3586.08,17930.39,0.18,3227.47,21157.86
+DOC-00134,2025-04-17,Vision Systems,Lahore,30,Printer Cleaning Kit,Accessories,50,6451.48,322574,0,0,322574
+DOC-00134,2025-04-17,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,3,5458.89,16376.68,0.18,2947.8,19324.49
+DOC-00135,2025-03-02,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,20,195.32,3906.42,0.18,703.16,4609.57
+DOC-00135,2025-03-02,Prime Traders,Karachi,45,PolyGuard Lamination,Accessories,50,11989.41,599470.39,0.18,107904.67,707375.06
+DOC-00135,2025-03-02,Prime Traders,Karachi,45,PolyGuard Lamination,Accessories,1,12271.33,12271.33,0.18,2208.84,14480.17
+DOC-00136,2025-02-07,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,10,24663.12,246631.2,0.18,44393.62,350585.96
+DOC-00136,2025-02-07,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,1,24362.22,24362.22,0.18,4385.2,35003.82
+DOC-00136,2025-02-07,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,2,24081.54,48163.09,0,0,48163.09
+DOC-00136,2025-02-07,Prime Traders,Islamabad,30,ID Card PVC Pack,Accessories,5,4705.02,23525.1,0.18,4234.52,27759.62
+DOC-00137,2025-10-15,Prime Traders,Lahore,45,HDP5000e Ribbon,Ribbon,2,23210.2,46420.41,0.18,8355.67,54776.08
+DOC-00137,2025-10-15,Prime Traders,Lahore,45,HDP5000e Ribbon,Ribbon,5,23701.79,118508.96,0.18,21331.61,139840.57
+DOC-00137,2025-10-15,Prime Traders,Lahore,45,HDP5000e Ribbon,Ribbon,50,23053.3,1152665.21,0,0,1152665.21
+DOC-00138,2025-12-06,PakTech,Islamabad,45,ID Card PVC Pack,Accessories,1,5244.9,5244.9,0.18,944.08,6188.99
+DOC-00138,2025-12-06,PakTech,Islamabad,45,HDP5000e Ribbon,Ribbon,2,22880.31,45760.61,0.18,8236.91,53997.52
+DOC-00138,2025-12-06,PakTech,Islamabad,45,Printer Service Visit,Service,50,7553.28,377663.99,0.18,67979.52,445643.51
+DOC-00139,2025-06-05,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,200,3365.29,673058,0.18,121150.44,794208.44
+DOC-00139,2025-06-05,MF TRADER,Karachi,45,UHF Long Range Tag,Accessories,50,188.84,9442.16,0.18,1699.59,11141.75
+DOC-00139,2025-06-05,MF TRADER,Karachi,45,Printer Service Visit,Service,5,7871.41,39357.07,0,0,39357.07
+DOC-00139,2025-06-05,MF TRADER,Karachi,45,Printer Service Visit,Service,10,7594.93,75949.28,0.18,13670.87,89620.14
+DOC-00140,2025-02-19,MF TRADER,Lahore,15,Printer Service Visit,Service,50,7571.77,378588.57,0,0,378588.57
+DOC-00140,2025-02-19,MF TRADER,Lahore,15,Printer Cleaning Kit,Accessories,5,3217.79,16088.95,0.18,1082.95,17171.9
+DOC-00140,2025-02-19,MF TRADER,Lahore,15,ID Card PVC Pack,Accessories,2,4808.71,9617.41,0.18,1731.13,11348.55
+DOC-00140,2025-02-19,MF TRADER,Lahore,15,ID Card PVC Pack,Accessories,2,4843.75,9687.5,0.18,1743.75,11431.25
+DOC-00141,2025-01-30,Prime Traders,Lahore,15,HDP5000e Ribbon,Ribbon,5,23829.75,119148.75,0.18,6277.66,125426.41
+DOC-00141,2025-01-30,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,50,5239.55,261977.36,0,0,261977.36
+DOC-00142,2025-03-16,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,3,12934.56,38803.68,0.18,3905.91,42709.59
+DOC-00142,2025-03-16,Vision Systems,Lahore,15,HDP5000e Ribbon,Ribbon,50,25990.93,1299546.5,0.18,123279.86,1422826.36
+DOC-00142,2025-03-16,Vision Systems,Lahore,15,HDP5000e Ribbon,Ribbon,50,25152.87,1257643.75,0.18,226375.87,1484019.62
+DOC-00143,2025-02-26,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,5,201.39,1006.94,0.18,181.25,1188.19
+DOC-00143,2025-02-26,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,3,3390.93,10172.79,0.18,1831.1,12003.89
+DOC-00144,2025-03-14,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,1,11225.59,11225.59,0.18,2020.61,14133.27
+DOC-00144,2025-03-14,Prime Traders,Karachi,0,UHF Long Range Tag,Accessories,10,186.56,1865.61,0,0,1865.61
+DOC-00144,2025-03-14,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,50,11956.18,597809.17,0.18,107605.65,705414.82
+DOC-00145,2025-10-18,Prime Traders,Islamabad,0,ID Card PVC Pack,Accessories,10,4478.54,44785.43,0.18,8061.38,52846.81
+DOC-00145,2025-10-18,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,3,11141.86,33425.58,0.18,6016.6,39442.18
+DOC-00145,2025-10-18,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,1,22753.32,22753.32,0.18,4095.6,26848.91
+DOC-00145,2025-10-18,Prime Traders,Islamabad,0,UHF Long Range Tag,Accessories,5,192.05,960.25,0.18,172.84,1133.09
+DOC-00146,2025-02-01,MF TRADER,Karachi,0,Printer Cleaning Kit,Accessories,2,3385.11,6770.23,0.18,1218.64,7988.87
+DOC-00146,2025-02-01,MF TRADER,Karachi,0,PolyGuard Lamination,Accessories,10,10917.84,109178.42,0,0,109178.42
+DOC-00146,2025-02-01,MF TRADER,Karachi,0,PolyGuard Lamination,Accessories,5,11330.21,56651.04,0,0,56651.04
+DOC-00146,2025-02-01,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,2,23275.15,46550.31,0.18,8379.06,54929.37
+DOC-00147,2025-03-13,Alpha Supplies,Lahore,30,UHF Long Range Tag,Accessories,2,197.49,394.97,0.18,71.1,466.07
+DOC-00147,2025-03-13,Alpha Supplies,Lahore,30,Printer Service Visit,Service,50,8302.62,415131.25,0.18,74723.62,489854.87
+DOC-00147,2025-03-13,Alpha Supplies,Lahore,30,HDP5000e Ribbon,Ribbon,1,25605.08,25605.08,0.18,4608.91,30213.99
+DOC-00148,2025-08-15,Prime Traders,Islamabad,15,UHF Long Range Tag,Accessories,1,198.3,198.3,0.18,35.69,233.99
+DOC-00148,2025-08-15,Prime Traders,Islamabad,15,Printer Service Visit,Service,2,7625.63,15251.26,0.18,2745.23,17996.48
+DOC-00149,2025-08-27,Prime Traders,Karachi,45,PolyGuard Lamination,Accessories,2,11664.42,23328.83,0,0,23328.83
+DOC-00149,2025-08-27,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,1,186.38,186.38,0.18,33.55,219.93
+DOC-00149,2025-08-27,Prime Traders,Karachi,45,HDP5000e Ribbon,Ribbon,5,23209.54,116047.72,0.18,20888.59,136936.31
+DOC-00150,2025-02-06,PakTech,Lahore,15,ID Card PVC Pack,Accessories,50,4935.14,246756.96,0,0,246756.96
+DOC-00150,2025-02-06,PakTech,Lahore,15,HDP5000e Ribbon,Ribbon,20,24935.09,498701.88,0.18,89766.34,588468.22
+DOC-00150,2025-02-06,PakTech,Lahore,15,Printer Service Visit,Service,10,8164.22,81642.2,0.18,14695.6,96337.8
+DOC-00150,2025-02-06,PakTech,Lahore,15,ID Card PVC Pack,Accessories,20,5228.78,104575.59,0.18,18823.61,123399.19
+DOC-00151,2025-01-23,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,10,5665.63,56656.3,0.18,10198.13,75259.87
+DOC-00151,2025-01-23,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,3,5184.03,15552.09,0.18,2799.38,18351.47
+DOC-00152,2025-12-06,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,10,4905.92,49059.18,0.18,8830.65,57889.83
+DOC-00152,2025-12-06,Prime Traders,Islamabad,15,UHF Long Range Tag,Accessories,5,187.61,938.04,0.18,168.85,1106.89
+DOC-00152,2025-12-06,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,3,5065.38,15196.14,0.18,2735.31,17931.45
+DOC-00153,2025-02-17,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,2,201.95,403.89,0.18,72.7,476.6
+DOC-00153,2025-02-17,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,2,199.72,399.45,0.18,71.9,471.35
+DOC-00153,2025-02-17,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,5,3336.43,16682.15,0.18,3002.79,19684.94
+DOC-00153,2025-02-17,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,10,3244.25,32442.54,0.18,5839.66,38282.19
+DOC-00154,2025-10-15,PakTech,Islamabad,0,Printer Cleaning Kit,Accessories,2,3602.55,7205.09,0.18,1296.92,8502.01
+DOC-00154,2025-10-15,PakTech,Islamabad,0,Printer Cleaning Kit,Accessories,20,3566.76,71335.13,0.18,12840.32,84175.45
+DOC-00155,2025-09-15,Alpha Supplies,Islamabad,30,HDP5000e Ribbon,Ribbon,20,23149.34,462986.7,0.18,83337.61,546324.31
+DOC-00155,2025-09-15,Alpha Supplies,Islamabad,30,Printer Cleaning Kit,Accessories,2,3639.14,7278.28,0,0,7278.28
+DOC-00155,2025-09-15,Alpha Supplies,Islamabad,30,Printer Cleaning Kit,Accessories,5,3552.37,17761.83,0,0,17761.83
+DOC-00156,2025-11-29,Vision Systems,Karachi,15,Printer Cleaning Kit,Accessories,3,3771.01,11313.02,0.18,2036.34,13349.36
+DOC-00157,2025-02-17,Prime Traders,Lahore,45,Printer Service Visit,Service,20,7671.86,153437.22,0.18,27618.7,181055.92
+DOC-00158,2025-08-18,Vision Systems,Karachi,45,PolyGuard Lamination,Accessories,5,12630.66,63153.29,0.18,11367.59,74520.88
+DOC-00158,2025-08-18,Vision Systems,Karachi,45,Printer Service Visit,Service,5,8754.47,43772.33,0,0,43772.33
+DOC-00158,2025-08-18,Vision Systems,Karachi,45,UHF Long Range Tag,Accessories,10,198.42,1984.23,0.18,357.16,2341.4
+DOC-00159,2025-01-06,PakTech,Lahore,15,UHF Long Range Tag,Accessories,5,198.8,994.01,0,0,994.01
+DOC-00159,2025-01-06,PakTech,Lahore,15,UHF Long Range Tag,Accessories,2,210.63,421.26,0.18,75.83,497.09
+DOC-00159,2025-01-06,PakTech,Lahore,15,UHF Long Range Tag,Accessories,50,215.37,10768.56,0.18,1938.34,12706.9
+DOC-00160,2025-02-28,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,20,3475.15,69503.02,0.18,12510.54,82013.56
+DOC-00160,2025-02-28,Alpha Supplies,Karachi,15,Printer Service Visit,Service,50,8132.29,406614.3,0,0,406614.3
+DOC-00160,2025-02-28,Alpha Supplies,Karachi,15,Printer Service Visit,Service,2,7826.16,15652.32,0.18,2817.42,18469.73
+DOC-00161,2025-03-13,Vision Systems,Lahore,0,HDP5000e Ribbon,Ribbon,10,24883.92,248839.24,0,0,248839.24
+DOC-00161,2025-03-13,Vision Systems,Lahore,0,Printer Cleaning Kit,Accessories,20,3693.77,73875.43,0.18,13297.58,87173
+DOC-00161,2025-03-13,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,1,206.81,206.81,0.18,37.23,244.03
+DOC-00161,2025-03-13,Vision Systems,Lahore,0,ID Card PVC Pack,Accessories,2,5199.06,10398.13,0.18,1871.66,12269.79
+DOC-00162,2025-07-25,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,10,4967.01,49670.1,0.18,8940.62,58610.71
+DOC-00162,2025-07-25,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,10,3347.37,33473.72,0,0,33473.72
+DOC-00162,2025-07-25,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,10,5154.32,51543.17,0.18,9277.77,60820.94
+DOC-00162,2025-07-25,Alpha Supplies,Karachi,15,HDP5000e Ribbon,Ribbon,50,24856.53,1242826.39,0.18,223708.75,1466535.14
+DOC-00163,2025-01-15,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,3,24202.92,72608.76,0.18,13069.58,85678.33
+DOC-00164,2025-03-28,MF TRADER,Karachi,0,ID Card PVC Pack,Accessories,5,4549.08,22745.4,0.18,4094.17,26839.57
+DOC-00164,2025-03-28,MF TRADER,Karachi,0,ID Card PVC Pack,Accessories,20,4803.86,96077.22,0.18,17293.9,113371.12
+DOC-00164,2025-03-28,MF TRADER,Karachi,0,UHF Long Range Tag,Accessories,10,191.36,1913.6,0,0,1913.6
+DOC-00165,2025-05-28,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,1,12206.13,12206.13,0,0,12206.13
+DOC-00165,2025-05-28,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,2,3569.75,7139.5,0.18,1285.11,8424.61
+DOC-00165,2025-05-28,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,20,3407.6,68152,0.18,12267.36,80419.37
+DOC-00165,2025-05-28,Prime Traders,Islamabad,0,Printer Service Visit,Service,2,7780.64,15561.28,0.18,2801.03,18362.31
+DOC-00166,2025-04-11,MF TRADER,Karachi,45,ID Card PVC Pack,Accessories,50,4496.78,224838.97,0.18,40471.01,265309.98
+DOC-00166,2025-04-11,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,2,3382.6,6765.19,0.18,1217.73,7982.93
+DOC-00166,2025-04-11,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,5,33789.14,168945.7,0.18,30410.23,199355.93
+DOC-00167,2025-10-13,Vision Systems,Islamabad,0,HDP5000e Ribbon,Ribbon,2,25726.25,51452.49,0.18,9261.45,60713.94
+DOC-00167,2025-10-13,Vision Systems,Islamabad,0,Printer Service Visit,Service,3,8268.65,24805.96,0.18,4465.07,29271.03
+DOC-00167,2025-10-13,Vision Systems,Islamabad,0,Printer Service Visit,Service,1,8552.01,8552.01,0.18,1539.36,10091.37
+DOC-00167,2025-10-13,Vision Systems,Islamabad,0,HDP5000e Ribbon,Ribbon,20,26183.22,523664.37,0.18,94259.59,617923.96
+DOC-00168,2025-03-10,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,2,203.15,406.3,0,0,406.3
+DOC-00169,2025-10-01,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,5,202.88,1014.38,0.18,182.59,1196.97
+DOC-00169,2025-10-01,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,20,193.02,3860.42,0,0,3860.42
+DOC-00169,2025-10-01,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,20,193.73,3874.65,0.18,697.44,4572.09
+DOC-00170,2025-10-18,MF TRADER,Lahore,45,PolyGuard Lamination,Accessories,1,11443.99,11443.99,0.18,2059.92,13503.91
+DOC-00170,2025-10-18,MF TRADER,Lahore,45,UHF Long Range Tag,Accessories,3,189.41,568.24,0.18,102.28,670.53
+DOC-00171,2025-05-09,MF TRADER,Islamabad,0,Printer Service Visit,Service,3,7600.46,22801.37,0.18,4104.25,26905.61
+DOC-00172,2025-07-08,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,5,18680.23,93401.15,0.18,16812.21,110213.36
+DOC-00172,2025-07-08,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,2,13097.22,26194.45,0.18,4715,30909.45
+DOC-00172,2025-07-08,Vision Systems,Lahore,15,ID Card PVC Pack,Accessories,50,5255.38,262769.23,0,0,262769.23
+DOC-00173,2025-10-30,Prime Traders,Islamabad,15,Printer Service Visit,Service,5,7689.59,38447.94,0.18,6920.63,45368.57
+DOC-00173,2025-10-30,Prime Traders,Islamabad,15,UHF Long Range Tag,Accessories,50,197.46,9872.9,0.18,1777.12,11650.02
+DOC-00173,2025-10-30,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,50,8847.03,442351.5,0.18,79623.27,521974.77
+DOC-00174,2025-07-16,Alpha Supplies,Lahore,45,UHF Long Range Tag,Accessories,20,192.51,3850.11,0.18,693.02,4543.13
+DOC-00175,2025-11-20,PakTech,Islamabad,45,UHF Long Range Tag,Accessories,2,207.26,414.52,0.18,74.61,489.13
+DOC-00176,2025-06-11,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,50,224.1,11205.12,0.18,2016.92,13222.05
+DOC-00176,2025-06-11,Vision Systems,Karachi,30,Printer Service Visit,Service,1,8740.74,8740.74,0.18,1573.33,10314.07
+DOC-00177,2025-08-22,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,10,11720.07,117200.74,0.18,21096.13,138296.88
+DOC-00177,2025-08-22,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,50,3369.94,168496.96,0.18,30329.45,198826.42
+DOC-00178,2025-10-30,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,2,22346.71,44693.42,0.18,8044.82,52738.24
+DOC-00179,2025-02-13,MF TRADER,Karachi,0,Printer Service Visit,Service,20,7479.33,149586.52,0.18,26925.57,176512.09
+DOC-00180,2025-01-14,Vision Systems,Lahore,45,Printer Service Visit,Service,5,8113.16,40565.8,0.18,7301.84,47867.65
+DOC-00180,2025-01-14,Vision Systems,Lahore,45,Printer Service Visit,Service,10,8131.9,81319,0,0,81319
+DOC-00181,2025-05-07,PakTech,Islamabad,45,ID Card PVC Pack,Accessories,2,5378.26,10756.51,0.18,1936.17,12692.69
+DOC-00181,2025-05-07,PakTech,Islamabad,45,UHF Long Range Tag,Accessories,3,210.15,630.44,0.18,113.48,743.92
+DOC-00182,2025-11-18,MF TRADER,Islamabad,45,Printer Cleaning Kit,Accessories,20,3247.74,64954.85,0.18,11691.87,76646.73
+DOC-00183,2025-03-21,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,3,3387.72,10163.17,0.18,1829.37,11992.54
+DOC-00183,2025-03-21,MF TRADER,Karachi,45,ID Card PVC Pack,Accessories,50,4603.12,230156,0,0,230156
+DOC-00183,2025-03-21,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,10,3247.43,32474.34,0.18,5845.38,38319.72
+DOC-00184,2025-08-11,MF TRADER,Islamabad,15,ID Card PVC Pack,Accessories,5,4870,24350,0.18,1174.9,25524.9
+DOC-00185,2025-02-01,Prime Traders,Islamabad,45,PolyGuard Lamination,Accessories,20,11600.75,232015.03,0.18,41762.71,273777.74
+DOC-00186,2025-12-17,PakTech,Lahore,15,Printer Service Visit,Service,20,7907.07,158141.41,0.18,28465.45,186606.86
+DOC-00187,2025-12-05,Vision Systems,Lahore,45,HDP5000e Ribbon,Ribbon,1,25512.84,25512.84,0.18,4592.31,30105.15
+DOC-00187,2025-12-05,Vision Systems,Lahore,45,Printer Service Visit,Service,50,8654.97,432748.32,0.18,77894.7,510643.02
+DOC-00187,2025-12-05,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,50,12112.49,605624.39,0,0,605624.39
+DOC-00188,2025-06-05,Alpha Supplies,Karachi,0,HDP5000e Ribbon,Ribbon,10,23783.45,237834.49,0.18,42810.21,280644.7
+DOC-00188,2025-06-05,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,10,4950.9,49509.04,0,0,49509.04
+DOC-00188,2025-06-05,Alpha Supplies,Karachi,0,HDP5000e Ribbon,Ribbon,1,23681.03,23681.03,0.18,4262.59,27943.62
+DOC-00189,2025-12-10,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,3,3334.21,10002.64,0,0,10002.64
+DOC-00189,2025-12-10,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,50,3324.94,166247.19,0.18,29924.49,196171.69
+DOC-00189,2025-12-10,MF TRADER,Karachi,15,ID Card PVC Pack,Accessories,20,4471.72,89434.48,0,0,89434.48
+DOC-00190,2025-09-22,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,10,3569.76,35697.57,0.18,6425.56,42123.13
+DOC-00190,2025-09-22,Alpha Supplies,Lahore,15,Printer Service Visit,Service,1,7937.4,7937.4,0.18,1428.73,9366.13
+DOC-00190,2025-09-22,Alpha Supplies,Lahore,15,Printer Service Visit,Service,3,8293.21,24879.64,0.18,4478.34,29357.98
+DOC-00191,2025-12-07,Vision Systems,Islamabad,0,PolyGuard Lamination,Accessories,5,13314.84,66574.22,0.18,11983.36,78557.58
+DOC-00191,2025-12-07,Vision Systems,Islamabad,0,PolyGuard Lamination,Accessories,50,13005.16,650257.95,0.18,117046.43,767304.38
+DOC-00192,2025-01-14,Alpha Supplies,Lahore,30,Printer Service Visit,Service,2,8052.7,16105.4,0.18,2898.97,19004.37
+DOC-00193,2025-07-04,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,3,5301.75,15905.24,0,0,15905.24
+DOC-00193,2025-07-04,Vision Systems,Islamabad,45,Printer Service Visit,Service,20,8146.66,162933.21,0,0,162933.21
+DOC-00194,2025-02-08,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,50,24950.37,1247518.73,0.18,224553.37,1472072.1
+DOC-00195,2025-04-26,Prime Traders,Karachi,30,HDP5000e Ribbon,Ribbon,1,23031.77,23031.77,0,0,23031.77
+DOC-00196,2025-01-09,Prime Traders,Karachi,0,Printer Service Visit,Service,2,7584.9,15169.8,0,0,15169.8
+DOC-00196,2025-01-09,Prime Traders,Karachi,0,ID Card PVC Pack,Accessories,5,4942.61,24713.07,0,0,24713.07
+DOC-00196,2025-01-09,Prime Traders,Karachi,0,UHF Long Range Tag,Accessories,5,199.99,999.95,0.18,179.99,1179.94
+DOC-00197,2025-03-07,Vision Systems,Karachi,45,UHF Long Range Tag,Accessories,10,208.08,2080.81,0.18,374.55,2455.36
+DOC-00198,2025-12-17,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,50,3576.67,178833.32,0,0,178833.32
+DOC-00198,2025-12-17,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,20,5109.05,102180.99,0.18,18392.58,120573.57
+DOC-00198,2025-12-17,Prime Traders,Islamabad,15,HDP5000e Ribbon,Ribbon,3,22103.23,66309.69,0.18,11935.74,78245.44
+DOC-00199,2025-01-07,Alpha Supplies,Lahore,30,Printer Service Visit,Service,20,8130.29,162605.72,0,0,162605.72
+DOC-00199,2025-01-07,Alpha Supplies,Lahore,30,PolyGuard Lamination,Accessories,5,11590.71,57953.54,0,0,57953.54
+DOC-00199,2025-01-07,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,1,3438.93,3438.93,0.18,619.01,4057.94
+DOC-00199,2025-01-07,Alpha Supplies,Lahore,30,HDP5000e Ribbon,Ribbon,3,23676.02,71028.06,0.18,12785.05,83813.12
+DOC-00200,2025-07-27,Prime Traders,Lahore,0,PolyGuard Lamination,Accessories,5,11978.42,59892.1,0.18,10780.58,70672.68
+DOC-00200,2025-07-27,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,5,23623.95,118119.75,0.18,21261.56,139381.31
+DOC-00200,2025-07-27,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,2,22969.33,45938.65,0.18,8268.96,54207.61
+DOC-00201,2025-11-27,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,10,23114.05,231140.47,0.18,41605.28,272745.75
+DOC-00201,2025-11-27,Vision Systems,Karachi,0,Printer Service Visit,Service,10,8399.28,83992.82,0.18,15118.71,99111.53
+DOC-00201,2025-11-27,Vision Systems,Karachi,0,UHF Long Range Tag,Accessories,1,218.53,218.53,0.18,39.34,257.87
+DOC-00201,2025-11-27,Vision Systems,Karachi,0,Printer Service Visit,Service,5,8465.98,42329.91,0.18,7619.38,49949.29
+DOC-00202,2025-12-05,Prime Traders,Karachi,30,ID Card PVC Pack,Accessories,50,4647.28,232364.17,0.18,41825.55,274189.72
+DOC-00203,2025-03-05,PakTech,Islamabad,30,HDP5000e Ribbon,Ribbon,2,42228.01,84456.02,0.18,15202.08,99658.1
+DOC-00203,2025-03-05,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,20,3531.75,70635.06,0.18,12714.31,83349.37
+DOC-00203,2025-03-05,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,50,5164.65,258232.54,0.18,46481.86,304714.39
+DOC-00204,2025-08-24,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,10,22878.54,228785.37,0,0,228785.37
+DOC-00204,2025-08-24,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,3,196.33,589,0.18,106.02,695.01
+DOC-00205,2025-06-23,PakTech,Lahore,0,UHF Long Range Tag,Accessories,5,199.67,998.34,0.18,179.7,1178.04
+DOC-00205,2025-06-23,PakTech,Lahore,0,UHF Long Range Tag,Accessories,50,204.23,10211.51,0,0,10211.51
+DOC-00205,2025-06-23,PakTech,Lahore,0,ID Card PVC Pack,Accessories,50,5051.04,252552.21,0,0,252552.21
+DOC-00205,2025-06-23,PakTech,Lahore,0,Printer Cleaning Kit,Accessories,2,3525.58,7051.15,0,0,7051.15
+DOC-00206,2025-07-17,Alpha Supplies,Lahore,0,ID Card PVC Pack,Accessories,10,4964.62,49646.25,0.18,8936.32,58582.57
+DOC-00207,2025-06-01,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,3,3688.26,11064.78,0,0,11064.78
+DOC-00207,2025-06-01,PakTech,Karachi,30,ID Card PVC Pack,Accessories,1,5393.35,5393.35,0.18,970.8,6364.15
+DOC-00207,2025-06-01,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,3,3544.39,10633.16,0.18,1913.97,12547.13
+DOC-00208,2025-11-06,PakTech,Karachi,30,HDP5000e Ribbon,Ribbon,10,24151.03,241510.32,0.18,43471.86,284982.18
+DOC-00209,2025-07-08,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,50,12808.4,640420,0.18,115275.6,755695.6
+DOC-00209,2025-07-08,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,20,3753.63,75072.62,0.18,13513.07,88585.69
+DOC-00209,2025-07-08,Vision Systems,Karachi,0,Printer Service Visit,Service,10,14827.43,148274.3,0.18,26689.37,174963.67
+DOC-00209,2025-07-08,Vision Systems,Karachi,0,UHF Long Range Tag,Accessories,1,207.77,207.77,0.18,37.4,245.16
+DOC-00210,2025-07-15,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,2,11020.06,22040.12,0.18,3967.22,26007.35
+DOC-00211,2025-01-06,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,50,25208.56,1260428.21,0,0,1260428.21
+DOC-00211,2025-01-06,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,1,3776.98,3776.98,0.18,679.86,4456.84
+DOC-00212,2025-10-15,PakTech,Karachi,0,ID Card PVC Pack,Accessories,1,5152.27,5152.27,0.18,927.41,6079.68
+DOC-00212,2025-10-15,PakTech,Karachi,0,PolyGuard Lamination,Accessories,50,12334.12,616705.93,0.18,111007.07,727713
+DOC-00212,2025-10-15,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,2,3666.12,7332.24,0.18,1319.8,8652.05
+DOC-00213,2025-06-13,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,50,11585.9,579295.22,0.18,104273.14,683568.36
+DOC-00213,2025-06-13,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,1,3441.7,3441.7,0,0,3441.7
+DOC-00213,2025-06-13,Prime Traders,Lahore,15,UHF Long Range Tag,Accessories,10,201.86,2018.6,0.18,363.35,2381.94
+DOC-00214,2025-05-17,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,3,4885.48,14656.45,0.18,2638.16,17294.61
+DOC-00214,2025-05-17,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,1,203.96,203.96,0,0,203.96
+DOC-00215,2025-11-08,MF TRADER,Islamabad,15,UHF Long Range Tag,Accessories,1,183.02,183.02,0,0,218.51
+DOC-00215,2025-11-08,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,2,11525.33,23050.65,0.18,4149.12,27199.77
+DOC-00216,2025-11-27,Prime Traders,Karachi,30,UHF Long Range Tag,Accessories,3,187.49,562.47,0.18,101.25,663.72
+DOC-00217,2025-09-18,PakTech,Karachi,0,UHF Long Range Tag,Accessories,5,204.93,1024.66,0.18,184.44,1209.1
+DOC-00217,2025-09-18,PakTech,Karachi,0,ID Card PVC Pack,Accessories,1,5231.99,5231.99,0.18,941.76,6173.75
+DOC-00217,2025-09-18,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,1,3452.84,3452.84,0,0,3452.84
+DOC-00218,2025-05-03,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,2,3496.38,6992.76,0.18,1258.7,8251.46
+DOC-00218,2025-05-03,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,50,3403.91,170195.6,0,0,170195.6
+DOC-00219,2025-05-04,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,20,3823.79,76475.88,0.18,13765.66,90241.54
+DOC-00220,2025-01-17,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,1,3626.1,3626.1,0.18,652.7,4278.8
+DOC-00220,2025-01-17,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,5,211.06,1055.3,0.18,189.95,1245.25
+DOC-00220,2025-01-17,PakTech,Islamabad,30,PolyGuard Lamination,Accessories,10,12682.9,126829.01,0.18,22829.22,149658.23
+DOC-00220,2025-01-17,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,5,215.54,1077.7,0.18,193.99,1271.69
+DOC-00221,2025-02-04,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,1,22608.7,22608.7,0.18,4069.57,26678.27
+DOC-00221,2025-02-04,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,10,184.03,1840.3,0,0,1840.3
+DOC-00221,2025-02-04,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,2,192.23,384.45,0,0,384.45
+DOC-00222,2025-08-29,PakTech,Lahore,15,ID Card PVC Pack,Accessories,20,5159.69,103193.74,0.18,18574.87,121768.61
+DOC-00222,2025-08-29,PakTech,Lahore,15,ID Card PVC Pack,Accessories,50,5269.36,263467.87,0.18,47424.22,310892.09
+DOC-00222,2025-08-29,PakTech,Lahore,15,PolyGuard Lamination,Accessories,20,12059.98,241199.52,0.18,43415.91,284615.44
+DOC-00222,2025-08-29,PakTech,Lahore,15,Printer Service Visit,Service,3,8287.75,24863.26,0.18,4475.39,29338.65
+DOC-00223,2025-07-03,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,20,5315.58,106311.65,0.18,19136.1,125447.74
+DOC-00223,2025-07-03,Vision Systems,Lahore,30,HDP5000e Ribbon,Ribbon,20,25687.34,513746.9,0.18,92474.44,606221.34
+DOC-00224,2025-03-02,MF TRADER,Islamabad,30,Printer Cleaning Kit,Accessories,2,3450.6,6901.19,0.18,1242.21,8143.41
+DOC-00224,2025-03-02,MF TRADER,Islamabad,30,UHF Long Range Tag,Accessories,2,205.41,410.83,0.18,73.95,484.77
+DOC-00224,2025-03-02,MF TRADER,Islamabad,30,PolyGuard Lamination,Accessories,3,11162.56,33487.69,0.18,6027.78,39515.47
+DOC-00225,2025-09-21,MF TRADER,Islamabad,0,Printer Service Visit,Service,5,7585.52,37927.6,0.18,6826.97,44754.57
+DOC-00226,2025-05-19,MF TRADER,Lahore,45,PolyGuard Lamination,Accessories,2,11513.73,23027.45,0.18,4144.94,27172.39
+DOC-00226,2025-05-19,MF TRADER,Lahore,45,Printer Cleaning Kit,Accessories,30,3250.8,97524,0,0,97524
+DOC-00227,2025-09-20,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,5,220.28,1101.38,0.18,198.25,1299.62
+DOC-00227,2025-09-20,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,50,219.93,10996.61,0,0,10996.61
+DOC-00227,2025-09-20,Vision Systems,Karachi,30,Printer Service Visit,Service,50,8292.16,414607.85,0.18,74629.41,489237.26
+DOC-00227,2025-09-20,Vision Systems,Karachi,30,Printer Cleaning Kit,Accessories,3,3590.06,10770.19,0.18,1938.64,12708.83
+DOC-00228,2025-04-23,MF TRADER,Lahore,45,Printer Cleaning Kit,Accessories,5,3375.65,16878.23,0,0,16878.23
+DOC-00228,2025-04-23,MF TRADER,Lahore,45,UHF Long Range Tag,Accessories,1,202.09,202.09,0.18,36.38,238.47
+DOC-00228,2025-04-23,MF TRADER,Lahore,45,Printer Service Visit,Service,5,7371.46,36857.29,0.18,6634.31,43491.6
+DOC-00228,2025-04-23,MF TRADER,Lahore,45,HDP5000e Ribbon,Ribbon,3,22716.69,68150.06,0.18,12267.01,80417.07
+DOC-00229,2025-11-16,Prime Traders,Lahore,45,ID Card PVC Pack,Accessories,3,4763.13,14289.4,0.18,2572.09,16861.49
+DOC-00229,2025-11-16,Prime Traders,Lahore,45,Printer Service Visit,Service,2,7880.69,15761.38,0,0,15761.38
+DOC-00229,2025-11-16,Prime Traders,Lahore,45,UHF Long Range Tag,Accessories,2,196.08,392.17,0.18,70.59,462.76
+DOC-00230,2025-03-31,Alpha Supplies,Islamabad,30,UHF Long Range Tag,Accessories,1,203.63,203.63,0.18,36.65,240.28
+DOC-00230,2025-03-31,Alpha Supplies,Islamabad,30,ID Card PVC Pack,Accessories,3,4931.58,14794.73,0.18,2663.05,17457.78
+DOC-00230,2025-03-31,Alpha Supplies,Islamabad,30,Printer Service Visit,Service,15,7895.79,118436.85,0.18,21318.63,139755.48
+DOC-00230,2025-03-31,Alpha Supplies,Islamabad,30,HDP5000e Ribbon,Ribbon,5,24930.01,124650.07,0,0,124650.07
+DOC-00231,2025-12-27,PakTech,Lahore,0,UHF Long Range Tag,Accessories,20,205.39,4107.88,0.18,739.42,4847.3
+DOC-00232,2025-11-01,Prime Traders,Lahore,30,Printer Service Visit,Service,5,7653.24,38266.2,0.18,6887.92,45154.12
+DOC-00232,2025-11-01,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,1,196.89,196.89,0,0,196.89
+DOC-00232,2025-11-01,Prime Traders,Lahore,30,HDP5000e Ribbon,Ribbon,2,33352.9,66705.8,0.18,12007.04,78712.84
+DOC-00232,2025-11-01,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,1,11305.98,11305.98,0.18,2035.08,13341.06
+DOC-00233,2025-03-10,Alpha Supplies,Karachi,30,ID Card PVC Pack,Accessories,50,4986.47,249323.56,0,0,249323.56
+DOC-00234,2025-04-11,Alpha Supplies,Karachi,45,UHF Long Range Tag,Accessories,10,205.66,2056.56,0.18,370.18,2426.74
+DOC-00235,2025-08-11,Vision Systems,Karachi,0,Printer Service Visit,Service,1,8466.08,8466.08,0.18,1523.89,9989.98
+DOC-00235,2025-08-11,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,50,12687.75,634387.36,0.18,114189.72,748577.09
+DOC-00235,2025-08-11,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,5,3825.06,19125.3,0.18,3442.55,22567.86
+DOC-00236,2025-10-15,PakTech,Lahore,15,Printer Service Visit,Service,10,7652.33,76523.34,0,0,76523.34
+DOC-00236,2025-10-15,PakTech,Lahore,15,PolyGuard Lamination,Accessories,3,12287.7,36863.1,0.18,6635.36,43498.46
+DOC-00237,2025-05-21,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,20,21537.11,430742.11,0.18,77533.58,508275.69
+DOC-00238,2025-11-04,MF TRADER,Islamabad,0,ID Card PVC Pack,Accessories,20,4768.08,95361.57,0.18,17165.08,112526.65
+DOC-00239,2025-01-30,Alpha Supplies,Karachi,0,HDP5000e Ribbon,Ribbon,10,22571.42,225714.17,0.18,40628.55,266342.72
+DOC-00240,2025-02-26,Alpha Supplies,Karachi,45,HDP5000e Ribbon,Ribbon,20,24261.37,485227.33,0.18,87340.92,572568.25
+DOC-00240,2025-02-26,Alpha Supplies,Karachi,45,ID Card PVC Pack,Accessories,20,5145.65,102913.02,0,0,102913.02
+DOC-00241,2025-05-15,Alpha Supplies,Karachi,30,Printer Service Visit,Service,20,7897.61,157952.3,0.18,28431.41,186383.71
+DOC-00242,2025-01-01,MF TRADER,Islamabad,45,PolyGuard Lamination,Accessories,1,11295.31,11295.31,0,0,11295.31
+DOC-00242,2025-01-01,MF TRADER,Islamabad,45,HDP5000e Ribbon,Ribbon,5,20910.33,104551.65,0.18,18819.3,123370.95
+DOC-00242,2025-01-01,MF TRADER,Islamabad,45,PolyGuard Lamination,Accessories,20,11231.32,224626.36,0.18,40432.75,265059.11
+DOC-00243,2025-06-05,MF TRADER,Lahore,45,ID Card PVC Pack,Accessories,2,4867.76,9735.53,0,0,9735.53
+DOC-00243,2025-06-05,MF TRADER,Lahore,45,Printer Cleaning Kit,Accessories,5,3330.58,16652.9,0.18,2997.52,19650.42
+DOC-00243,2025-06-05,MF TRADER,Lahore,45,PolyGuard Lamination,Accessories,10,11301.41,113014.06,0.18,20342.53,133356.6
+DOC-00243,2025-06-05,MF TRADER,Lahore,45,HDP5000e Ribbon,Ribbon,3,22615.05,67845.15,0.18,12212.13,80057.27
+DOC-00244,2025-06-06,Alpha Supplies,Islamabad,15,Printer Cleaning Kit,Accessories,50,3554.25,177712.69,0.18,31988.28,209700.97
+DOC-00244,2025-06-06,Alpha Supplies,Islamabad,15,ID Card PVC Pack,Accessories,2,5025.42,10050.84,0.18,1809.15,11859.99
+DOC-00244,2025-06-06,Alpha Supplies,Islamabad,15,Printer Service Visit,Service,50,7627.4,381369.91,0,0,381369.91
+DOC-00244,2025-06-06,Alpha Supplies,Islamabad,15,PolyGuard Lamination,Accessories,5,11823.05,59115.23,0.18,10640.74,69755.97
+DOC-00245,2025-01-04,MF TRADER,Islamabad,15,ID Card PVC Pack,Accessories,20,4870.26,97405.22,0.18,17532.94,114938.16
+DOC-00246,2025-05-06,Vision Systems,Islamabad,15,HDP5000e Ribbon,Ribbon,3,24699.85,74099.55,0.18,13337.92,87437.46
+DOC-00246,2025-05-06,Vision Systems,Islamabad,15,Printer Service Visit,Service,3,8862.12,26586.35,0.18,4785.54,31371.89
+DOC-00246,2025-05-06,Vision Systems,Islamabad,15,Printer Cleaning Kit,Accessories,10,3779.18,37791.84,0.18,6802.53,44594.37
+DOC-00247,2025-08-06,PakTech,Islamabad,15,Printer Cleaning Kit,Accessories,2,3621.23,7242.46,0.18,1303.64,8546.11
+DOC-00247,2025-08-06,PakTech,Islamabad,15,PolyGuard Lamination,Accessories,3,12942.65,38827.95,0.18,6989.03,45816.99
+DOC-00247,2025-08-06,PakTech,Islamabad,15,PolyGuard Lamination,Accessories,50,12229.38,611469.01,0.18,110064.42,721533.43
+DOC-00247,2025-08-06,PakTech,Islamabad,15,PolyGuard Lamination,Accessories,5,12908.82,64544.1,0,0,64544.1
+DOC-00248,2025-12-23,PakTech,Karachi,0,PolyGuard Lamination,Accessories,20,12271.59,245431.76,0.18,44177.72,289609.47
+DOC-00248,2025-12-23,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,20,24456.96,489139.13,0.18,88045.04,577184.17
+DOC-00248,2025-12-23,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,1,50049.43,50049.43,0.18,9008.9,59058.33
+DOC-00248,2025-12-23,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,2,24517.02,49034.04,0.18,8826.13,57860.17
+DOC-00249,2025-10-04,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,10,11543.35,115433.51,0.18,20778.03,136211.54
+DOC-00249,2025-10-04,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,10,3545.57,35455.66,0.18,6382.02,41837.68
+DOC-00250,2025-05-19,Prime Traders,Lahore,0,Printer Cleaning Kit,Accessories,10,3338.68,33386.8,0.18,6009.62,39396.42
+DOC-00251,2025-07-16,MF TRADER,Karachi,15,PolyGuard Lamination,Accessories,10,11601.34,116013.37,0.18,20882.41,136895.77
+DOC-00251,2025-07-16,MF TRADER,Karachi,15,Printer Service Visit,Service,20,7664.11,153282.15,0.18,27590.79,180872.94
+DOC-00252,2025-10-19,Vision Systems,Islamabad,30,Printer Service Visit,Service,20,8553.96,171079.25,0.18,30794.27,201873.52
+DOC-00253,2025-02-06,Prime Traders,Islamabad,30,Printer Cleaning Kit,Accessories,1,3592.14,3592.14,0,0,3592.14
+DOC-00253,2025-02-06,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,100,24303.19,2430319,0.18,437457.42,2867776.42
+DOC-00253,2025-02-06,Prime Traders,Islamabad,30,PolyGuard Lamination,Accessories,10,11537,115370,0.18,20766.6,136136.6
+DOC-00254,2025-11-02,Prime Traders,Karachi,30,Printer Service Visit,Service,2,7737.52,15475.03,0,0,15475.03
+DOC-00254,2025-11-02,Prime Traders,Karachi,30,ID Card PVC Pack,Accessories,3,5209.71,15629.14,0.18,2813.24,18442.38
+DOC-00255,2025-03-12,Alpha Supplies,Lahore,45,PolyGuard Lamination,Accessories,1,12369.93,12369.93,0.18,2226.59,14596.52
+DOC-00256,2025-11-09,Alpha Supplies,Islamabad,45,UHF Long Range Tag,Accessories,10,189.94,1899.44,0.18,341.9,2241.34
+DOC-00256,2025-11-09,Alpha Supplies,Islamabad,45,HDP5000e Ribbon,Ribbon,2,24716.79,49433.58,0.18,8898.04,58331.62
+DOC-00256,2025-11-09,Alpha Supplies,Islamabad,45,ID Card PVC Pack,Accessories,50,5085.68,254283.81,0.18,45771.08,300054.89
+DOC-00256,2025-11-09,Alpha Supplies,Islamabad,45,PolyGuard Lamination,Accessories,10,12294.96,122949.64,0.18,22130.93,145080.57
+DOC-00257,2025-03-19,MF TRADER,Karachi,30,UHF Long Range Tag,Accessories,50,194.67,9733.44,0.18,1752.02,11485.46
+DOC-00257,2025-03-19,MF TRADER,Karachi,30,PolyGuard Lamination,Accessories,1,11585.07,11585.07,0.18,2085.31,13670.38
+DOC-00257,2025-03-19,MF TRADER,Karachi,30,HDP5000e Ribbon,Ribbon,5,22861.28,114306.41,0.18,20575.15,134881.56
+DOC-00258,2025-09-07,PakTech,Islamabad,0,HDP5000e Ribbon,Ribbon,10,23746.15,237461.55,0,0,237461.55
+DOC-00258,2025-09-07,PakTech,Islamabad,0,Printer Cleaning Kit,Accessories,1,3529,3529,0,0,3529
+DOC-00259,2025-03-24,Alpha Supplies,Karachi,15,UHF Long Range Tag,Accessories,3,200.1,600.29,0.18,108.05,708.34
+DOC-00259,2025-03-24,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,2,5049.16,10098.32,0.18,1817.7,11916.02
+DOC-00259,2025-03-24,Alpha Supplies,Karachi,15,PolyGuard Lamination,Accessories,20,12013.13,240262.66,0.18,43247.28,283509.94
+DOC-00260,2025-08-14,Vision Systems,Lahore,30,HDP5000e Ribbon,Ribbon,1,24767.44,24767.44,0.18,4458.14,29225.58
+DOC-00260,2025-08-14,Vision Systems,Lahore,30,PolyGuard Lamination,Accessories,2,12681.73,25363.45,0.18,4565.42,29928.87
+DOC-00260,2025-08-14,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,3,5434.83,16304.48,0.18,2934.81,19239.28
+DOC-00261,2025-07-05,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,3,12047.64,36142.93,0,0,36142.93
+DOC-00261,2025-07-05,Prime Traders,Karachi,0,Printer Service Visit,Service,3,7660.78,22982.34,0.18,4136.82,27119.16
+DOC-00261,2025-07-05,Prime Traders,Karachi,0,Printer Cleaning Kit,Accessories,5,3417.44,17087.19,0.18,3075.69,20162.88
+DOC-00262,2025-04-29,Alpha Supplies,Lahore,30,HDP5000e Ribbon,Ribbon,2,24726.24,49452.48,0,0,49452.48
+DOC-00262,2025-04-29,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,20,3596.54,71930.79,0.18,12947.54,84878.33
+DOC-00262,2025-04-29,Alpha Supplies,Lahore,30,Printer Service Visit,Service,2,8217.26,16434.52,0.18,2958.21,19392.74
+DOC-00262,2025-04-29,Alpha Supplies,Lahore,30,Printer Service Visit,Service,5,8409.62,42048.12,0.18,7568.66,49616.78
+DOC-00263,2025-01-16,MF TRADER,Islamabad,15,Printer Service Visit,Service,5,7602.5,38012.52,0.18,6842.25,44854.77
+DOC-00264,2025-05-16,PakTech,Karachi,30,UHF Long Range Tag,Accessories,20,204.68,4093.57,0.18,736.84,4830.42
+DOC-00264,2025-05-16,PakTech,Karachi,30,PolyGuard Lamination,Accessories,3,12613.03,37839.09,0,0,37839.09
+DOC-00265,2025-01-29,Vision Systems,Lahore,45,Printer Cleaning Kit,Accessories,2,3837.8,7675.6,0.18,1381.61,9057.21
+DOC-00265,2025-01-29,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,20,12775.53,255510.57,0.18,45991.9,301502.47
+DOC-00266,2025-11-12,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,5,11610.14,58050.69,0.18,10449.12,68499.82
+DOC-00266,2025-11-12,MF TRADER,Islamabad,15,HDP5000e Ribbon,Ribbon,5,23078.89,115394.45,0.18,7164.02,122558.47
+DOC-00266,2025-11-12,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,5,11384.42,56922.1,0,0,56922.1
+DOC-00267,2025-06-16,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,2,192.85,385.7,0.18,69.43,455.12
+DOC-00267,2025-06-16,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,50,3281.75,164087.28,0.18,29535.71,193622.99
+DOC-00267,2025-06-16,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,20,3287.09,65741.8,0.18,11833.52,77575.32
+DOC-00268,2025-04-20,MF TRADER,Lahore,45,UHF Long Range Tag,Accessories,50,405.38,20269,0.18,3648.42,23917.42
+DOC-00268,2025-04-20,MF TRADER,Lahore,45,PolyGuard Lamination,Accessories,3,11787.68,35363.04,0.18,6365.35,41728.39
+DOC-00268,2025-04-20,MF TRADER,Lahore,45,Printer Cleaning Kit,Accessories,2,3368.84,6737.68,0.18,1212.78,7950.47
+DOC-00269,2025-06-04,MF TRADER,Karachi,30,PolyGuard Lamination,Accessories,1,11903.91,11903.91,0.18,2142.7,14046.61
+DOC-00270,2025-07-18,Vision Systems,Islamabad,30,ID Card PVC Pack,Accessories,2,5501.34,11002.68,0.18,1980.48,12983.17
+DOC-00271,2025-06-19,Alpha Supplies,Karachi,30,UHF Long Range Tag,Accessories,20,202.04,4040.78,0.18,727.34,4768.12
+DOC-00271,2025-06-19,Alpha Supplies,Karachi,30,Printer Cleaning Kit,Accessories,3,3508.69,10526.06,0.18,1894.69,12420.75
+DOC-00271,2025-06-19,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,20,12224.71,244494.13,0.18,44008.94,288503.07
+DOC-00272,2025-01-25,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,3,191.16,573.49,0.18,103.23,676.72
+DOC-00273,2025-09-29,Alpha Supplies,Lahore,15,Printer Service Visit,Service,1,7869.49,7869.49,0.18,1416.51,9286
+DOC-00273,2025-09-29,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,3,201.23,603.68,0,0,603.68
+DOC-00273,2025-09-29,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,5,6127.91,30639.55,0.18,5515.12,36154.67
+DOC-00274,2025-08-10,MF TRADER,Islamabad,30,ID Card PVC Pack,Accessories,3,4664.08,13992.23,0.18,2518.6,16510.83
+DOC-00274,2025-08-10,MF TRADER,Islamabad,30,Printer Service Visit,Service,5,7445.19,37225.96,0.18,6700.67,43926.64
+DOC-00275,2025-06-22,MF TRADER,Lahore,45,UHF Long Range Tag,Accessories,20,186.1,3721.96,0.18,669.95,4391.91
+DOC-00275,2025-06-22,MF TRADER,Lahore,45,Printer Service Visit,Service,20,7648.21,152964.26,0.18,27533.57,180497.82
+DOC-00275,2025-06-22,MF TRADER,Lahore,45,Printer Service Visit,Service,2,7908.5,15817,0,0,15817
+DOC-00275,2025-06-22,MF TRADER,Lahore,45,UHF Long Range Tag,Accessories,10,189.76,1897.58,0.18,341.56,2239.15
+DOC-00276,2025-03-02,Prime Traders,Lahore,15,PolyGuard Lamination,Accessories,2,12185.98,24371.96,0,0,24371.96
+DOC-00277,2025-12-27,Prime Traders,Lahore,45,PolyGuard Lamination,Accessories,10,11967.67,119676.72,0.18,21541.81,141218.53
+DOC-00277,2025-12-27,Prime Traders,Lahore,45,UHF Long Range Tag,Accessories,20,190.37,3807.48,0.18,685.35,4492.82
+DOC-00277,2025-12-27,Prime Traders,Lahore,45,Printer Service Visit,Service,50,8225.81,411290.56,0,0,411290.56
+DOC-00277,2025-12-27,Prime Traders,Lahore,45,Printer Service Visit,Service,10,8402.76,84027.58,0,0,84027.58
+DOC-00278,2025-04-20,Alpha Supplies,Islamabad,0,PolyGuard Lamination,Accessories,50,11992.55,599627.29,0.18,107932.91,707560.2
+DOC-00279,2025-03-24,PakTech,Karachi,15,Printer Service Visit,Service,5,8351.19,41755.97,0.18,7516.07,49272.05
+DOC-00279,2025-03-24,PakTech,Karachi,15,UHF Long Range Tag,Accessories,3,203.85,611.56,0.18,110.08,721.64
+DOC-00279,2025-03-24,PakTech,Karachi,15,PolyGuard Lamination,Accessories,20,12404.05,248081,0.18,44654.58,292735.57
+DOC-00280,2025-07-08,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,2,3577.76,7155.52,0.18,1287.99,8443.52
+DOC-00280,2025-07-08,Prime Traders,Islamabad,0,Printer Service Visit,Service,10,7783.64,77836.42,0.18,14010.56,91846.98
+DOC-00280,2025-07-08,Prime Traders,Islamabad,0,ID Card PVC Pack,Accessories,2,4974.77,9949.55,0,0,9949.55
+DOC-00281,2025-09-15,Alpha Supplies,Islamabad,30,Printer Cleaning Kit,Accessories,20,3604.54,72090.83,0.18,12976.35,85067.18
+DOC-00282,2025-03-06,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,50,5193.03,259651.32,0.18,46737.24,306388.55
+DOC-00282,2025-03-06,Alpha Supplies,Islamabad,0,HDP5000e Ribbon,Ribbon,5,23256.94,116284.68,0.18,20931.24,137215.93
+DOC-00282,2025-03-06,Alpha Supplies,Islamabad,0,PolyGuard Lamination,Accessories,3,25498.06,76494.18,0.18,13768.95,90263.13
+DOC-00282,2025-03-06,Alpha Supplies,Islamabad,0,UHF Long Range Tag,Accessories,5,200.87,1004.37,0.18,180.79,1185.16
+DOC-00283,2025-09-04,Vision Systems,Islamabad,30,Printer Service Visit,Service,3,8692.52,26077.56,0.18,4693.96,30771.52
+DOC-00284,2025-07-04,PakTech,Karachi,30,PolyGuard Lamination,Accessories,20,12472.08,249441.55,0.18,44899.48,294341.03
+DOC-00285,2025-12-28,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,20,3380.28,67605.57,0.18,12169,79774.57
+DOC-00286,2025-07-22,PakTech,Karachi,15,HDP5000e Ribbon,Ribbon,5,23914.6,119572.98,0.18,21523.14,141096.12
+DOC-00286,2025-07-22,PakTech,Karachi,15,HDP5000e Ribbon,Ribbon,2,23433.61,46867.22,0.18,8436.1,55303.32
+DOC-00286,2025-07-22,PakTech,Karachi,15,ID Card PVC Pack,Accessories,2,5092.73,10185.45,0.18,1833.38,12018.83
+DOC-00287,2025-09-08,PakTech,Lahore,30,UHF Long Range Tag,Accessories,1,198.77,198.77,0.18,35.78,234.55
+DOC-00287,2025-09-08,PakTech,Lahore,30,UHF Long Range Tag,Accessories,20,203.14,4062.85,0.18,731.31,4794.17
+DOC-00287,2025-09-08,PakTech,Lahore,30,PolyGuard Lamination,Accessories,3,12009.81,36029.42,0.18,6485.3,42514.72
+DOC-00287,2025-09-08,PakTech,Lahore,30,ID Card PVC Pack,Accessories,50,5365.07,268253.5,0,0,268253.5
+DOC-00288,2025-06-14,PakTech,Lahore,0,Printer Cleaning Kit,Accessories,10,3730.46,37304.64,0,0,37304.64
+DOC-00288,2025-06-14,PakTech,Lahore,0,Printer Cleaning Kit,Accessories,50,3586.96,179348.16,0.18,32282.67,211630.83
+DOC-00289,2025-03-02,Alpha Supplies,Islamabad,15,ID Card PVC Pack,Accessories,1,4757.14,4757.14,0.18,856.29,5613.42
+DOC-00290,2025-10-07,PakTech,Karachi,15,PolyGuard Lamination,Accessories,20,12638.15,252763.1,0,0,252763.1
+DOC-00291,2025-04-16,Prime Traders,Islamabad,45,PolyGuard Lamination,Accessories,20,12073.68,241473.68,0,0,241473.68
+DOC-00291,2025-04-16,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,20,185.29,3705.81,0,0,3705.81
+DOC-00291,2025-04-16,Prime Traders,Islamabad,45,PolyGuard Lamination,Accessories,5,12031.62,60158.1,0.18,10828.46,70986.55
+DOC-00291,2025-04-16,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,10,194.56,1945.63,0.18,350.21,2295.85
+DOC-00292,2025-06-30,Alpha Supplies,Lahore,15,HDP5000e Ribbon,Ribbon,2,24335.16,48670.32,0.18,8760.66,57430.97
+DOC-00292,2025-06-30,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,20,196.03,3920.67,0.18,705.72,4626.39
+DOC-00292,2025-06-30,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,50,3540.4,177020.03,0.18,31863.61,208883.64
+DOC-00293,2025-03-26,Vision Systems,Lahore,30,Printer Cleaning Kit,Accessories,5,3659.97,18299.86,0.18,3293.98,21593.84
+DOC-00293,2025-03-26,Vision Systems,Lahore,30,Printer Service Visit,Service,20,8280.09,165601.87,0.18,29808.34,195410.2
+DOC-00294,2025-12-16,PakTech,Karachi,30,ID Card PVC Pack,Accessories,50,5110.21,255510.65,0.18,45991.92,301502.57
+DOC-00295,2025-06-01,PakTech,Karachi,15,PolyGuard Lamination,Accessories,1,12684.18,12684.18,0.18,2283.15,14967.33
+DOC-00295,2025-06-01,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,50,3616.76,180837.81,0.18,32550.81,213388.61
+DOC-00296,2025-11-22,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,50,3536.4,176819.86,0.18,31827.57,208647.43
+DOC-00296,2025-11-22,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,2,24324.14,48648.27,0,0,48648.27
+DOC-00297,2025-05-27,MF TRADER,Karachi,0,Printer Cleaning Kit,Accessories,5,3400.1,17000.49,0.18,3060.09,20060.58
+DOC-00298,2025-05-01,Alpha Supplies,Lahore,0,PolyGuard Lamination,Accessories,3,12003.3,36009.91,0,0,36009.91
+DOC-00298,2025-05-01,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,50,38223.25,1911162.5,0.18,344009.25,2255171.75
+DOC-00299,2025-12-25,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,50,5299.94,264997.1,0.18,47699.48,312696.57
+DOC-00300,2025-07-25,PakTech,Karachi,15,PolyGuard Lamination,Accessories,3,12803.6,38410.81,0.18,6913.95,45324.75
+DOC-00300,2025-07-25,PakTech,Karachi,15,HDP5000e Ribbon,Ribbon,10,37841.96,378419.6,0,0,378419.6
+DOC-00301,2025-08-25,PakTech,Islamabad,15,Printer Service Visit,Service,10,8099.66,80996.59,0.18,14579.39,95575.98
+DOC-00301,2025-08-25,PakTech,Islamabad,15,HDP5000e Ribbon,Ribbon,10,25443.79,254437.9,0,0,254437.9
+DOC-00301,2025-08-25,PakTech,Islamabad,15,UHF Long Range Tag,Accessories,2,214.46,428.91,0,0,428.91
+DOC-00302,2025-04-12,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,50,25180.81,1259040.67,0,0,1259040.67
+DOC-00302,2025-04-12,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,2,25923.01,51846.01,0.18,9332.28,61178.29
+DOC-00302,2025-04-12,Vision Systems,Islamabad,45,Printer Service Visit,Service,5,8203.7,41018.51,0.18,7383.33,48401.85
+DOC-00303,2025-05-14,PakTech,Karachi,45,UHF Long Range Tag,Accessories,50,209.54,10476.82,0.18,1885.83,12362.65
+DOC-00303,2025-05-14,PakTech,Karachi,45,UHF Long Range Tag,Accessories,3,199.37,598.1,0,0,598.1
+DOC-00303,2025-05-14,PakTech,Karachi,45,Printer Service Visit,Service,1,7685.57,7685.57,0,0,7685.57
+DOC-00304,2025-02-17,Prime Traders,Islamabad,0,Printer Cleaning Kit,Accessories,20,3521.97,70439.44,0.18,12679.1,83118.54
+DOC-00304,2025-02-17,Prime Traders,Islamabad,0,ID Card PVC Pack,Accessories,1,4899.72,4899.72,0,0,4899.72
+DOC-00304,2025-02-17,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,1,11809.98,11809.98,0.18,2125.8,13935.77
+DOC-00305,2025-10-11,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,2,211.4,422.8,0,0,422.8
+DOC-00305,2025-10-11,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,50,207.78,10389.11,0.18,1870.04,12259.15
+DOC-00306,2025-11-29,MF TRADER,Islamabad,30,Printer Cleaning Kit,Accessories,50,3405.65,170282.63,0.18,30650.87,200933.51
+DOC-00307,2025-07-18,MF TRADER,Lahore,45,Printer Cleaning Kit,Accessories,5,3284.21,16421.06,0,0,16421.06
+DOC-00308,2025-04-06,Prime Traders,Islamabad,30,UHF Long Range Tag,Accessories,2,193.15,386.3,0.18,69.53,455.83
+DOC-00308,2025-04-06,Prime Traders,Islamabad,30,Printer Service Visit,Service,10,7314.32,73143.2,0.18,13165.78,86308.97
+DOC-00309,2025-11-16,Vision Systems,Karachi,30,Printer Cleaning Kit,Accessories,1,3596.5,3596.5,0,0,3596.5
+DOC-00309,2025-11-16,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,5,19954.1,99770.5,0.18,17958.69,117729.19
+DOC-00309,2025-11-16,Vision Systems,Karachi,30,Printer Service Visit,Service,20,8307.96,166159.26,0.18,29908.67,196067.92
+DOC-00310,2025-11-30,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,20,5034.73,100694.5,0.18,18125.01,118819.51
+DOC-00311,2025-08-28,Vision Systems,Karachi,30,Printer Service Visit,Service,10,7783.06,77830.63,0.18,14009.51,91840.14
+DOC-00311,2025-08-28,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,1,25133.76,25133.76,0.18,4524.08,29657.84
+DOC-00311,2025-08-28,Vision Systems,Karachi,30,Printer Service Visit,Service,1,8801.86,8801.86,0.18,1584.33,10386.19
+DOC-00311,2025-08-28,Vision Systems,Karachi,30,Printer Cleaning Kit,Accessories,3,3695.3,11085.89,0.18,1995.46,13081.35
+DOC-00312,2025-06-13,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,20,204.56,4091.22,0.18,736.42,4827.64
+DOC-00312,2025-06-13,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,5,12594.79,62973.95,0.18,11335.31,74309.26
+DOC-00312,2025-06-13,Vision Systems,Lahore,15,Printer Cleaning Kit,Accessories,10,3596.68,35966.84,0.18,6474.03,42440.87
+DOC-00312,2025-06-13,Vision Systems,Lahore,15,ID Card PVC Pack,Accessories,3,5329.31,15987.93,0.18,2877.83,18865.76
+DOC-00313,2025-02-21,MF TRADER,Lahore,30,ID Card PVC Pack,Accessories,20,4645.08,92901.6,0.18,16722.29,125194.97
+DOC-00313,2025-02-21,MF TRADER,Lahore,30,ID Card PVC Pack,Accessories,2,4950.91,9901.82,0.18,1782.33,11684.15
+DOC-00314,2025-09-19,Vision Systems,Islamabad,0,Printer Cleaning Kit,Accessories,10,3706.58,37065.78,0.18,6671.84,43737.62
+DOC-00314,2025-09-19,Vision Systems,Islamabad,0,Printer Service Visit,Service,10,8560.9,85608.99,0.18,15409.62,101018.61
+DOC-00315,2025-10-07,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,10,3435.94,34359.4,0,0,34359.4
+DOC-00315,2025-10-07,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,50,3662.25,183112.47,0.18,32960.24,216072.71
+DOC-00316,2025-01-10,Vision Systems,Lahore,30,ID Card PVC Pack,Accessories,5,5333.48,26667.38,0,0,26667.38
+DOC-00316,2025-01-10,Vision Systems,Lahore,30,Printer Service Visit,Service,25,8832.02,220800.5,0.18,39744.09,260544.59
+DOC-00316,2025-01-10,Vision Systems,Lahore,30,Printer Cleaning Kit,Accessories,1,3703.43,3703.43,0.18,666.62,4370.05
+DOC-00316,2025-01-10,Vision Systems,Lahore,30,Printer Cleaning Kit,Accessories,1,3624.69,3624.69,0,0,3624.69
+DOC-00317,2025-06-12,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,1,3449.59,3449.59,0.18,620.93,4070.52
+DOC-00317,2025-06-12,MF TRADER,Islamabad,0,Printer Service Visit,Service,20,7247.09,144941.88,0.18,26089.54,171031.42
+DOC-00318,2025-08-29,Alpha Supplies,Karachi,30,Printer Service Visit,Service,20,8177.51,163550.23,0,0,163550.23
+DOC-00319,2025-04-08,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,20,205.92,4118.47,0,0,4118.47
+DOC-00319,2025-04-08,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,5,5158.58,25792.89,0.18,4642.72,30435.61
+DOC-00319,2025-04-08,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,50,4920.3,246015,0.18,29120.41,275135.41
+DOC-00319,2025-04-08,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,50,5225.19,261259.27,0,0,261259.27
+DOC-00320,2025-04-07,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,2,3398.39,6796.78,0,0,6796.78
+DOC-00320,2025-04-07,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,1,3352.23,3352.23,0.18,603.4,3955.63
+DOC-00320,2025-04-07,MF TRADER,Karachi,15,PolyGuard Lamination,Accessories,1,10979.51,10979.51,0.18,1976.31,12955.82
+DOC-00321,2025-09-04,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,3,3594.63,10783.89,0.18,1941.1,12724.99
+DOC-00321,2025-09-04,PakTech,Karachi,0,Printer Service Visit,Service,10,8551.4,85513.99,0.18,15392.52,100906.51
+DOC-00321,2025-09-04,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,2,24354.95,48709.9,0.18,8767.78,57477.68
+DOC-00321,2025-09-04,PakTech,Karachi,0,PolyGuard Lamination,Accessories,2,12539.95,25079.9,0.18,4514.38,29594.28
+DOC-00322,2025-10-20,Alpha Supplies,Islamabad,15,Printer Cleaning Kit,Accessories,10,3405.13,34051.29,0,0,34051.29
+DOC-00323,2025-03-12,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,3,25077.85,75233.56,0,0,75233.56
+DOC-00323,2025-03-12,Vision Systems,Islamabad,30,UHF Long Range Tag,Accessories,1,219.49,219.49,0.18,39.51,259
+DOC-00323,2025-03-12,Vision Systems,Islamabad,30,Printer Service Visit,Service,20,8523.38,170467.55,0.18,30684.16,201151.7
+DOC-00323,2025-03-12,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,3,25635.75,76907.26,0,0,76907.26
+DOC-00324,2025-06-20,Prime Traders,Karachi,0,UHF Long Range Tag,Accessories,3,186.76,560.28,0.18,100.85,661.13
+DOC-00324,2025-06-20,Prime Traders,Karachi,0,Printer Service Visit,Service,2,7638.39,15276.78,0,0,15276.78
+DOC-00325,2025-11-10,MF TRADER,Lahore,15,UHF Long Range Tag,Accessories,1,187.34,187.34,0.18,33.72,238.57
+DOC-00325,2025-11-10,MF TRADER,Lahore,15,HDP5000e Ribbon,Ribbon,1,22442.67,22442.67,0.18,4039.68,26482.35
+DOC-00326,2025-06-20,Alpha Supplies,Islamabad,45,PolyGuard Lamination,Accessories,50,12348.99,617449.38,0.18,111140.89,728590.26
+DOC-00327,2025-02-22,MF TRADER,Islamabad,0,HDP5000e Ribbon,Ribbon,2,24049.13,48098.25,0.18,8657.69,56755.94
+DOC-00328,2025-04-19,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,5,190.03,950.13,0,0,950.13
+DOC-00329,2025-12-26,MF TRADER,Islamabad,30,UHF Long Range Tag,Accessories,1,190.25,190.25,0.18,34.25,224.5
+DOC-00329,2025-12-26,MF TRADER,Islamabad,30,UHF Long Range Tag,Accessories,2,247.16,494.32,0,0,494.32
+DOC-00330,2025-01-10,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,2,191.64,383.28,0.18,68.99,452.26
+DOC-00330,2025-01-10,MF TRADER,Islamabad,0,PolyGuard Lamination,Accessories,3,11347.6,34042.79,0.18,6127.7,40170.49
+DOC-00330,2025-01-10,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,5,3358.27,16791.36,0.18,3022.44,19813.8
+DOC-00330,2025-01-10,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,2,193.11,386.23,0,0,386.23
+DOC-00331,2025-07-22,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,50,3526.47,176323.37,0.18,31738.21,208061.58
+DOC-00331,2025-07-22,PakTech,Islamabad,30,Printer Service Visit,Service,50,8074.45,403722.74,0,0,403722.74
+DOC-00331,2025-07-22,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,1,3548.06,3548.06,0,0,3548.06
+DOC-00331,2025-07-22,PakTech,Islamabad,30,Printer Service Visit,Service,3,8503.44,25510.31,0.18,4591.86,30102.17
+DOC-00332,2025-12-22,PakTech,Islamabad,0,UHF Long Range Tag,Accessories,20,204.59,4091.8,0.18,736.52,4828.32
+DOC-00332,2025-12-22,PakTech,Islamabad,0,ID Card PVC Pack,Accessories,1,5207.52,5207.52,0.18,937.35,6144.88
+DOC-00332,2025-12-22,PakTech,Islamabad,0,Printer Cleaning Kit,Accessories,1,3797.15,3797.15,0,0,3797.15
+DOC-00332,2025-12-22,PakTech,Islamabad,0,UHF Long Range Tag,Accessories,20,200.38,4007.65,0,0,4007.65
+DOC-00333,2025-10-22,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,5,3780.54,18902.68,0.18,3402.48,22305.16
+DOC-00333,2025-10-22,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,1,4895.27,4895.27,0,0,4895.27
+DOC-00334,2025-06-13,Prime Traders,Karachi,15,ID Card PVC Pack,Accessories,20,4950.04,99000.89,0.18,17820.16,116821.06
+DOC-00335,2025-04-28,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,1,26252.2,26252.2,0.18,4725.4,30977.6
+DOC-00335,2025-04-28,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,20,3714.38,74287.51,0.18,13371.75,87659.26
+DOC-00336,2025-02-14,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,50,3469.1,173455.22,0.18,31221.94,204677.16
+DOC-00336,2025-02-14,Prime Traders,Lahore,30,ID Card PVC Pack,Accessories,1,4795.33,4795.33,0.18,863.16,5658.49
+DOC-00337,2025-02-07,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,10,22305.31,223053.07,0.18,40149.55,263202.62
+DOC-00338,2025-11-03,Alpha Supplies,Karachi,0,Printer Cleaning Kit,Accessories,50,3376.04,168801.88,0,0,168801.88
+DOC-00338,2025-11-03,Alpha Supplies,Karachi,0,UHF Long Range Tag,Accessories,50,192.19,9609.47,0.18,1729.7,11339.17
+DOC-00339,2025-12-17,Vision Systems,Islamabad,30,Printer Service Visit,Service,20,8775.99,175519.87,0.18,31593.58,207113.44
+DOC-00339,2025-12-17,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,3,25767.39,77302.16,0.18,13914.39,91216.55
+DOC-00339,2025-12-17,Vision Systems,Islamabad,30,ID Card PVC Pack,Accessories,1,5350.95,5350.95,0,0,5350.95
+DOC-00340,2025-02-28,MF TRADER,Islamabad,30,Printer Service Visit,Service,1,7366.26,7366.26,0.18,1325.93,8692.19
+DOC-00341,2025-06-03,PakTech,Lahore,30,UHF Long Range Tag,Accessories,10,219.81,2198.07,0.18,395.65,2593.72
+DOC-00341,2025-06-03,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,50,24783.31,1239165.57,0.18,223049.8,1462215.37
+DOC-00341,2025-06-03,PakTech,Lahore,30,PolyGuard Lamination,Accessories,5,12454.58,62272.92,0.18,11209.13,73482.05
+DOC-00342,2025-06-23,Alpha Supplies,Lahore,15,PolyGuard Lamination,Accessories,1,12221.61,12221.61,0,0,12221.61
+DOC-00342,2025-06-23,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,2,209.06,418.12,0,0,418.12
+DOC-00342,2025-06-23,Alpha Supplies,Lahore,15,HDP5000e Ribbon,Ribbon,1,23650.99,23650.99,0.18,4257.18,27908.17
+DOC-00342,2025-06-23,Alpha Supplies,Lahore,15,PolyGuard Lamination,Accessories,20,12266.86,245337.23,0,0,245337.23
+DOC-00343,2025-08-14,MF TRADER,Islamabad,45,HDP5000e Ribbon,Ribbon,1,22977.53,22977.53,0,0,22977.53
+DOC-00344,2025-12-21,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,5,211.39,1056.96,0.18,190.25,1247.21
+DOC-00345,2025-08-09,MF TRADER,Islamabad,45,Printer Service Visit,Service,10,7820.28,78202.8,0.18,14076.5,92279.3
+DOC-00345,2025-08-09,MF TRADER,Islamabad,45,UHF Long Range Tag,Accessories,1,186.31,186.31,0.18,33.54,219.85
+DOC-00345,2025-08-09,MF TRADER,Islamabad,45,Printer Cleaning Kit,Accessories,3,3291.34,9874.02,0.18,1777.32,11651.35
+DOC-00346,2025-10-22,Alpha Supplies,Islamabad,30,ID Card PVC Pack,Accessories,20,5059.27,101185.43,0,0,101185.43
+DOC-00347,2025-10-27,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,20,218.88,4377.56,0.18,787.96,5165.52
+DOC-00347,2025-10-27,Vision Systems,Lahore,15,Printer Cleaning Kit,Accessories,3,3668.02,11004.06,0,0,11004.06
+DOC-00347,2025-10-27,Vision Systems,Lahore,15,PolyGuard Lamination,Accessories,1,13086.75,13086.75,0.18,2355.61,18089.09
+DOC-00348,2025-04-20,Alpha Supplies,Lahore,30,ID Card PVC Pack,Accessories,5,4916.42,24582.12,0.18,4424.78,29006.9
+DOC-00348,2025-04-20,Alpha Supplies,Lahore,30,UHF Long Range Tag,Accessories,2,206.05,412.11,0.18,74.18,486.29
+DOC-00348,2025-04-20,Alpha Supplies,Lahore,30,ID Card PVC Pack,Accessories,1,4939.08,4939.08,0.18,889.03,5828.11
+DOC-00348,2025-04-20,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,3,3529.12,10587.36,0.18,1905.73,12493.09
+DOC-00349,2025-08-25,MF TRADER,Islamabad,30,PolyGuard Lamination,Accessories,20,11551.24,231024.8,0.18,41584.46,272609.26
+DOC-00350,2025-09-22,PakTech,Lahore,0,PolyGuard Lamination,Accessories,5,12708.34,63541.69,0.18,11437.5,74979.19
+DOC-00350,2025-09-22,PakTech,Lahore,0,ID Card PVC Pack,Accessories,1,5229.72,5229.72,0.18,941.35,6171.06
+DOC-00350,2025-09-22,PakTech,Lahore,0,PolyGuard Lamination,Accessories,5,11985.88,59929.38,0.18,10787.29,70716.66
+DOC-00351,2025-03-15,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,2,23617.53,47235.06,0.18,8502.31,55737.37
+DOC-00351,2025-03-15,Prime Traders,Islamabad,30,Printer Cleaning Kit,Accessories,50,3413.36,170667.95,0.18,30720.23,201388.18
+DOC-00352,2025-11-12,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,1,23636.79,23636.79,0,0,23636.79
+DOC-00352,2025-11-12,Prime Traders,Islamabad,0,UHF Long Range Tag,Accessories,5,197.67,988.35,0.18,177.9,1166.25
+DOC-00352,2025-11-12,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,1,11522.27,11522.27,0.18,2074.01,13596.27
+DOC-00353,2025-11-17,Alpha Supplies,Karachi,45,UHF Long Range Tag,Accessories,1,197.62,197.62,0,0,197.62
+DOC-00353,2025-11-17,Alpha Supplies,Karachi,45,Printer Service Visit,Service,5,7940.76,39703.81,0.18,7146.69,46850.5
+DOC-00353,2025-11-17,Alpha Supplies,Karachi,45,Printer Service Visit,Service,2,7609.27,15218.54,0.18,2739.34,17957.88
+DOC-00354,2025-09-19,MF TRADER,Karachi,45,PolyGuard Lamination,Accessories,5,11320.53,56602.65,0.18,10188.48,66791.13
+DOC-00354,2025-09-19,MF TRADER,Karachi,45,ID Card PVC Pack,Accessories,3,4826.85,14480.55,0,0,14480.55
+DOC-00355,2025-02-26,Prime Traders,Islamabad,30,ID Card PVC Pack,Accessories,20,4781.56,95631.19,0.18,17213.61,112844.8
+DOC-00355,2025-02-26,Prime Traders,Islamabad,30,PolyGuard Lamination,Accessories,50,11540.75,577037.41,0.18,103866.73,680904.14
+DOC-00355,2025-02-26,Prime Traders,Islamabad,30,PolyGuard Lamination,Accessories,3,11818.43,35455.28,0,0,35455.28
+DOC-00355,2025-02-26,Prime Traders,Islamabad,30,Printer Service Visit,Service,10,7890.69,78906.87,0,0,78906.87
+DOC-00356,2025-01-18,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,2,11503.66,23007.32,0.18,4141.32,27148.64
+DOC-00357,2025-05-03,Alpha Supplies,Karachi,45,HDP5000e Ribbon,Ribbon,10,23579.6,235796.01,0,0,235796.01
+DOC-00357,2025-05-03,Alpha Supplies,Karachi,45,HDP5000e Ribbon,Ribbon,1,24450.15,24450.15,0.18,4401.03,28851.18
+DOC-00357,2025-05-03,Alpha Supplies,Karachi,45,Printer Cleaning Kit,Accessories,50,3470.8,173539.99,0,0,173539.99
+DOC-00357,2025-05-03,Alpha Supplies,Karachi,45,HDP5000e Ribbon,Ribbon,20,25352.43,507048.66,0.18,91268.76,598317.42
+DOC-00358,2025-05-08,MF TRADER,Lahore,15,UHF Long Range Tag,Accessories,1,181.17,181.17,0.18,32.61,213.78
+DOC-00358,2025-05-08,MF TRADER,Lahore,15,UHF Long Range Tag,Accessories,5,180.16,900.79,0.18,162.14,1062.93
+DOC-00358,2025-05-08,MF TRADER,Lahore,15,Printer Cleaning Kit,Accessories,5,3383.23,16916.16,0.18,3044.91,19961.07
+DOC-00359,2025-06-13,Alpha Supplies,Lahore,30,UHF Long Range Tag,Accessories,20,197.03,3940.68,0.18,709.32,4650
+DOC-00359,2025-06-13,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,5,3425.13,17125.65,0.18,3082.62,20208.27
+DOC-00360,2025-01-30,Prime Traders,Islamabad,30,UHF Long Range Tag,Accessories,2,193.84,387.69,0.18,69.78,457.47
+DOC-00360,2025-01-30,Prime Traders,Islamabad,30,UHF Long Range Tag,Accessories,20,195.76,3915.26,0.18,704.75,4620
+DOC-00360,2025-01-30,Prime Traders,Islamabad,30,Printer Cleaning Kit,Accessories,5,3443.32,17216.58,0.18,3098.98,20315.57
+DOC-00361,2025-08-11,Alpha Supplies,Islamabad,30,ID Card PVC Pack,Accessories,3,5141.66,15424.99,0.18,2776.5,18201.48
+DOC-00361,2025-08-11,Alpha Supplies,Islamabad,30,PolyGuard Lamination,Accessories,5,12002.88,60014.39,0.18,10802.59,70816.98
+DOC-00361,2025-08-11,Alpha Supplies,Islamabad,30,PolyGuard Lamination,Accessories,20,11647.76,232955.23,0.18,41931.94,274887.17
+DOC-00361,2025-08-11,Alpha Supplies,Islamabad,30,ID Card PVC Pack,Accessories,20,5057.12,101142.49,0.18,18205.65,119348.14
+DOC-00362,2025-07-09,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,2,11639.73,23279.46,0.18,4190.3,27469.77
+DOC-00363,2025-12-21,Prime Traders,Lahore,45,HDP5000e Ribbon,Ribbon,5,23590.68,117953.4,0.18,21231.61,139185.01
+DOC-00364,2025-08-11,Prime Traders,Islamabad,0,ID Card PVC Pack,Accessories,20,4845.1,96902.08,0,0,96902.08
+DOC-00364,2025-08-11,Prime Traders,Islamabad,0,Printer Service Visit,Service,50,7740.9,387045.07,0.18,69668.11,456713.19
+DOC-00364,2025-08-11,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,5,23493.36,117466.8,0.18,21144.02,138610.82
+DOC-00365,2025-01-18,MF TRADER,Karachi,30,Printer Cleaning Kit,Accessories,20,3470.81,69416.2,0.18,7648.63,77064.83
+DOC-00365,2025-01-18,MF TRADER,Karachi,30,UHF Long Range Tag,Accessories,2,184.62,369.25,0.18,66.46,435.71
+DOC-00365,2025-01-18,MF TRADER,Karachi,30,UHF Long Range Tag,Accessories,5,190.58,952.9,0,0,952.9
+DOC-00366,2025-02-19,Alpha Supplies,Lahore,15,ID Card PVC Pack,Accessories,50,5204.37,260218.44,0.18,46839.32,307057.76
+DOC-00366,2025-02-19,Alpha Supplies,Lahore,15,PolyGuard Lamination,Accessories,5,12337.1,61685.52,0.18,11103.39,72788.91
+DOC-00367,2025-11-12,MF TRADER,Lahore,15,HDP5000e Ribbon,Ribbon,20,39398.54,787970.8,0.18,141834.74,929805.54
+DOC-00367,2025-11-12,MF TRADER,Lahore,15,Printer Service Visit,Service,10,7549.2,75492,0.18,13588.56,103544.52
+DOC-00368,2025-08-09,PakTech,Karachi,45,Printer Cleaning Kit,Accessories,3,3746.68,11240.04,0.18,2023.21,13263.25
+DOC-00368,2025-08-09,PakTech,Karachi,45,PolyGuard Lamination,Accessories,1,17190.81,17190.81,0.18,3094.35,20285.16
+DOC-00368,2025-08-09,PakTech,Karachi,45,ID Card PVC Pack,Accessories,2,5113.34,10226.69,0.18,1840.8,12067.49
+DOC-00368,2025-08-09,PakTech,Karachi,45,UHF Long Range Tag,Accessories,50,204.26,10212.86,0.18,1838.31,12051.17
+DOC-00369,2025-06-12,MF TRADER,Islamabad,15,UHF Long Range Tag,Accessories,20,196.15,3923.04,0.18,706.15,4629.19
+DOC-00369,2025-06-12,MF TRADER,Islamabad,15,Printer Service Visit,Service,20,7544.48,150889.51,0.18,27160.11,178049.62
+DOC-00370,2025-05-26,Prime Traders,Islamabad,45,ID Card PVC Pack,Accessories,1,4873.36,4873.36,0.18,877.2,5750.56
+DOC-00370,2025-05-26,Prime Traders,Islamabad,45,ID Card PVC Pack,Accessories,5,4747.62,23738.08,0.18,4272.85,28010.94
+DOC-00370,2025-05-26,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,5,192.32,961.61,0.18,173.09,1134.7
+DOC-00370,2025-05-26,Prime Traders,Islamabad,45,HDP5000e Ribbon,Ribbon,5,23429.43,117147.16,0.18,21086.49,138233.65
+DOC-00371,2025-11-14,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,1,3501.32,3501.32,0,0,3501.32
+DOC-00371,2025-11-14,Alpha Supplies,Lahore,30,ID Card PVC Pack,Accessories,50,5006.05,250302.52,0,0,250302.52
+DOC-00372,2025-04-01,Alpha Supplies,Lahore,0,Printer Cleaning Kit,Accessories,3,3361.02,10083.07,0.18,1814.95,11898.02
+DOC-00372,2025-04-01,Alpha Supplies,Lahore,0,Printer Service Visit,Service,1,8374.68,8374.68,0.18,1507.44,9882.13
+DOC-00373,2025-11-21,PakTech,Lahore,15,PolyGuard Lamination,Accessories,3,11864.71,35594.14,0.18,6406.95,42001.09
+DOC-00374,2025-03-31,Alpha Supplies,Islamabad,15,PolyGuard Lamination,Accessories,3,12126.72,36380.16,0.18,6548.43,42928.59
+DOC-00375,2025-09-01,Alpha Supplies,Islamabad,45,HDP5000e Ribbon,Ribbon,2,25155.95,50311.9,0.18,9056.14,59368.04
+DOC-00375,2025-09-01,Alpha Supplies,Islamabad,45,Printer Service Visit,Service,10,8136.43,81364.27,0.18,14645.57,96009.83
+DOC-00375,2025-09-01,Alpha Supplies,Islamabad,45,Printer Cleaning Kit,Accessories,1,3608.55,3608.55,0,0,4395.06
+DOC-00376,2025-04-06,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,10,3489.81,34898.05,0,0,34898.05
+DOC-00376,2025-04-06,Prime Traders,Lahore,30,HDP5000e Ribbon,Ribbon,5,23599.99,117999.97,0.18,21239.99,139239.97
+DOC-00376,2025-04-06,Prime Traders,Lahore,30,HDP5000e Ribbon,Ribbon,2,24494.63,48989.26,0.18,8818.07,57807.33
+DOC-00377,2025-05-23,Vision Systems,Karachi,45,PolyGuard Lamination,Accessories,3,13044.69,39134.07,0.18,7044.13,46178.2
+DOC-00378,2025-11-15,MF TRADER,Lahore,0,ID Card PVC Pack,Accessories,100,4663.31,466331,0,0,466331
+DOC-00378,2025-11-15,MF TRADER,Lahore,0,PolyGuard Lamination,Accessories,50,11463.63,573181.5,0.18,103172.67,676354.17
+DOC-00378,2025-11-15,MF TRADER,Lahore,0,PolyGuard Lamination,Accessories,3,11620.6,34861.79,0,0,34861.79
+DOC-00378,2025-11-15,MF TRADER,Lahore,0,Printer Cleaning Kit,Accessories,3,3318.85,9956.55,0.18,1792.18,11748.73
+DOC-00379,2025-02-16,Prime Traders,Lahore,45,UHF Long Range Tag,Accessories,3,191.3,573.89,0.18,103.3,677.19
+DOC-00379,2025-02-16,Prime Traders,Lahore,45,UHF Long Range Tag,Accessories,50,203.92,10196.11,0.18,1835.3,12031.41
+DOC-00379,2025-02-16,Prime Traders,Lahore,45,Printer Cleaning Kit,Accessories,2,3391.25,6782.5,0.18,409.86,7192.36
+DOC-00380,2025-01-01,MF TRADER,Islamabad,15,ID Card PVC Pack,Accessories,1,6831.18,6831.18,0.18,1229.61,8060.79
+DOC-00380,2025-01-01,MF TRADER,Islamabad,15,Printer Cleaning Kit,Accessories,3,3470.45,10411.36,0.18,1874.04,12285.4
+DOC-00380,2025-01-01,MF TRADER,Islamabad,15,PolyGuard Lamination,Accessories,10,10836.46,108364.6,0,0,108364.6
+DOC-00381,2025-01-15,Vision Systems,Lahore,0,PolyGuard Lamination,Accessories,3,12427.89,37283.66,0,0,37283.66
+DOC-00381,2025-01-15,Vision Systems,Lahore,0,ID Card PVC Pack,Accessories,1,5005.42,5005.42,0.18,900.97,5906.39
+DOC-00381,2025-01-15,Vision Systems,Lahore,0,PolyGuard Lamination,Accessories,10,12452.37,124523.67,0,0,124523.67
+DOC-00381,2025-01-15,Vision Systems,Lahore,0,Printer Service Visit,Service,3,8563.51,25690.54,0.18,4624.3,30314.84
+DOC-00382,2025-11-18,Vision Systems,Islamabad,45,UHF Long Range Tag,Accessories,50,212.29,10614.73,0.18,1910.65,12525.38
+DOC-00383,2025-12-29,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,20,5075.02,101500.4,0.18,8408.79,109909.19
+DOC-00383,2025-12-29,Prime Traders,Islamabad,15,HDP5000e Ribbon,Ribbon,10,23399.02,233990.25,0.18,42118.24,276108.49
+DOC-00383,2025-12-29,Prime Traders,Islamabad,15,HDP5000e Ribbon,Ribbon,5,24462.95,122314.75,0.18,22016.65,144331.4
+DOC-00384,2025-11-09,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,1,192.19,192.19,0.18,34.59,226.79
+DOC-00384,2025-11-09,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,5,204.37,1021.84,0,0,1021.84
+DOC-00384,2025-11-09,Prime Traders,Lahore,0,Printer Service Visit,Service,20,7852.15,157042.97,0.18,28267.73,185310.7
+DOC-00385,2025-12-22,Prime Traders,Islamabad,45,Printer Service Visit,Service,2,7986.6,15973.2,0.18,2875.18,18848.37
+DOC-00385,2025-12-22,Prime Traders,Islamabad,45,UHF Long Range Tag,Accessories,5,207.26,1036.31,0.18,186.54,1222.85
+DOC-00386,2025-03-16,Alpha Supplies,Islamabad,45,Printer Cleaning Kit,Accessories,10,3533.05,35330.48,0.18,6359.49,41689.97
+DOC-00386,2025-03-16,Alpha Supplies,Islamabad,45,Printer Cleaning Kit,Accessories,20,3501,70020.06,0.18,12603.61,82623.67
+DOC-00386,2025-03-16,Alpha Supplies,Islamabad,45,ID Card PVC Pack,Accessories,3,5020.53,15061.59,0.18,2711.09,17772.68
+DOC-00386,2025-03-16,Alpha Supplies,Islamabad,45,ID Card PVC Pack,Accessories,1,5085.08,5085.08,0.18,915.31,6000.39
+DOC-00387,2025-12-05,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,2,3671.06,7342.12,0.18,1321.58,8663.71
+DOC-00388,2025-11-01,PakTech,Karachi,15,Printer Service Visit,Service,3,8129.18,24387.55,0.18,4389.76,28777.31
+DOC-00389,2025-08-19,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,20,5555.79,111115.84,0.18,20000.85,131116.69
+DOC-00389,2025-08-19,PakTech,Islamabad,30,Printer Service Visit,Service,1,8218.84,8218.84,0.18,1479.39,9698.23
+DOC-00389,2025-08-19,PakTech,Islamabad,30,Printer Service Visit,Service,1,8557.11,8557.11,0.18,1540.28,10097.39
+DOC-00389,2025-08-19,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,2,5124.41,10248.81,0.18,1844.79,12093.6
+DOC-00390,2025-03-13,Prime Traders,Lahore,0,ID Card PVC Pack,Accessories,10,4785.16,47851.65,0.18,8613.3,56464.95
+DOC-00390,2025-03-13,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,1,194.95,194.95,0.18,11.57,206.52
+DOC-00390,2025-03-13,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,1,23323.66,23323.66,0.18,4198.26,27521.92
+DOC-00390,2025-03-13,Prime Traders,Lahore,0,Printer Service Visit,Service,10,7805.41,78054.08,0,0,78054.08
+DOC-00391,2025-06-01,Alpha Supplies,Karachi,0,Printer Service Visit,Service,2,8106.79,16213.57,0,0,16213.57
+DOC-00391,2025-06-01,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,10,5006.93,50069.3,0.18,9012.47,59081.78
+DOC-00392,2025-04-04,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,50,25614.36,1280718.06,0.18,230529.25,1511247.31
+DOC-00392,2025-04-04,Vision Systems,Islamabad,30,Printer Service Visit,Service,3,8542.84,25628.52,0.18,4613.13,30241.65
+DOC-00392,2025-04-04,Vision Systems,Islamabad,30,ID Card PVC Pack,Accessories,2,5752.4,11504.8,0.18,2070.86,13575.67
+DOC-00392,2025-04-04,Vision Systems,Islamabad,30,UHF Long Range Tag,Accessories,3,209.16,627.49,0,0,627.49
+DOC-00393,2025-08-18,PakTech,Islamabad,15,Printer Cleaning Kit,Accessories,2,3433.31,6866.63,0.18,1235.99,8102.62
+DOC-00393,2025-08-18,PakTech,Islamabad,15,Printer Service Visit,Service,10,8396.18,83961.82,0.18,15113.13,99074.95
+DOC-00393,2025-08-18,PakTech,Islamabad,15,UHF Long Range Tag,Accessories,3,195.7,587.1,0.18,105.68,692.78
+DOC-00394,2025-01-29,PakTech,Islamabad,30,HDP5000e Ribbon,Ribbon,20,24588.03,491760.53,0.18,88516.9,580277.43
+DOC-00394,2025-01-29,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,50,202.93,10146.51,0.18,1826.37,11972.88
+DOC-00394,2025-01-29,PakTech,Islamabad,30,Printer Service Visit,Service,1,8190.85,8190.85,0.18,1474.35,9665.2
+DOC-00394,2025-01-29,PakTech,Islamabad,30,PolyGuard Lamination,Accessories,10,11697.48,116974.8,0.18,14551.41,131526.21
+DOC-00395,2025-09-15,PakTech,Lahore,30,PolyGuard Lamination,Accessories,3,12335.88,37007.64,0.18,6661.38,43669.02
+DOC-00395,2025-09-15,PakTech,Lahore,30,Printer Cleaning Kit,Accessories,2,3653.25,7306.5,0.18,1315.17,8621.67
+DOC-00396,2025-09-03,Vision Systems,Lahore,0,ID Card PVC Pack,Accessories,20,5386.83,107736.56,0.18,19392.58,127129.15
+DOC-00397,2025-01-11,Alpha Supplies,Islamabad,30,Printer Cleaning Kit,Accessories,5,3492.53,17462.64,0.18,3143.27,20605.91
+DOC-00397,2025-01-11,Alpha Supplies,Islamabad,30,UHF Long Range Tag,Accessories,5,188.89,944.43,0,0,944.43
+DOC-00398,2025-03-01,MF TRADER,Islamabad,0,PolyGuard Lamination,Accessories,10,11414.58,114145.77,0.18,20546.24,134692.01
+DOC-00398,2025-03-01,MF TRADER,Islamabad,0,ID Card PVC Pack,Accessories,2,4682.04,9364.09,0.18,1685.54,11049.62
+DOC-00398,2025-03-01,MF TRADER,Islamabad,0,HDP5000e Ribbon,Ribbon,5,23293.99,116469.93,0.18,20964.59,137434.52
+DOC-00399,2025-11-30,Alpha Supplies,Islamabad,0,Printer Service Visit,Service,50,7746.7,387334.79,0.18,69720.26,457055.06
+DOC-00400,2025-06-03,Alpha Supplies,Lahore,0,Printer Service Visit,Service,5,8072.27,40361.35,0.18,4181.07,44542.42
+DOC-00400,2025-06-03,Alpha Supplies,Lahore,0,Printer Service Visit,Service,50,7800.38,390018.87,0.18,70203.4,460222.26
+DOC-00400,2025-06-03,Alpha Supplies,Lahore,0,Printer Service Visit,Service,50,8096.81,404840.51,0,0,404840.51
+DOC-00400,2025-06-03,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,20,23620.67,472413.31,0.18,85034.4,557447.71
+DOC-00401,2025-10-23,MF TRADER,Lahore,30,HDP5000e Ribbon,Ribbon,20,22757.04,455140.8,0.18,81925.34,537066.15
+DOC-00401,2025-10-23,MF TRADER,Lahore,30,UHF Long Range Tag,Accessories,20,188.29,3765.76,0.18,677.84,4443.6
+DOC-00401,2025-10-23,MF TRADER,Lahore,30,UHF Long Range Tag,Accessories,50,189.64,9481.83,0.18,1706.73,11188.56
+DOC-00402,2025-03-06,Alpha Supplies,Lahore,30,Printer Service Visit,Service,3,8056.47,24169.41,0,0,24169.41
+DOC-00402,2025-03-06,Alpha Supplies,Lahore,30,Printer Service Visit,Service,50,8514.43,425721.36,0.18,76629.85,502351.21
+DOC-00402,2025-03-06,Alpha Supplies,Lahore,30,PolyGuard Lamination,Accessories,1,12515.2,12515.2,0.18,2252.74,14767.93
+DOC-00402,2025-03-06,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,20,3485.51,69710.1,0.18,12547.82,82257.92
+DOC-00403,2025-10-30,Vision Systems,Lahore,45,Printer Cleaning Kit,Accessories,5,3742.95,18714.74,0.18,3368.65,22083.4
+DOC-00403,2025-10-30,Vision Systems,Lahore,45,HDP5000e Ribbon,Ribbon,2,23658.56,47317.11,0.18,8517.08,55834.19
+DOC-00403,2025-10-30,Vision Systems,Lahore,45,ID Card PVC Pack,Accessories,5,5437.75,27188.76,0,0,27188.76
+DOC-00404,2025-12-05,MF TRADER,Islamabad,0,Printer Service Visit,Service,20,7620.87,152417.36,0,0,152417.36
+DOC-00404,2025-12-05,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,20,3326.03,66520.6,0.18,11973.71,85534.01
+DOC-00405,2025-02-03,MF TRADER,Lahore,15,Printer Service Visit,Service,50,7330.1,366505.15,0,0,366505.15
+DOC-00405,2025-02-03,MF TRADER,Lahore,15,HDP5000e Ribbon,Ribbon,10,22052.69,220526.93,0.18,39694.85,260221.78
+DOC-00405,2025-02-03,MF TRADER,Lahore,15,UHF Long Range Tag,Accessories,1,191.8,191.8,0.18,34.52,226.32
+DOC-00405,2025-02-03,MF TRADER,Lahore,15,Printer Service Visit,Service,1,7365.98,7365.98,0.18,1325.88,8691.86
+DOC-00406,2025-12-07,Alpha Supplies,Lahore,0,ID Card PVC Pack,Accessories,10,4831.52,48315.23,0,0,48315.23
+DOC-00406,2025-12-07,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,10,24213.4,242133.96,0.18,43584.11,285718.07
+DOC-00407,2025-12-15,Vision Systems,Karachi,30,Printer Service Visit,Service,2,8287.76,16575.53,0,0,16575.53
+DOC-00408,2025-09-08,PakTech,Islamabad,30,HDP5000e Ribbon,Ribbon,10,23818.58,238185.83,0,0,238185.83
+DOC-00408,2025-09-08,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,1,4986.79,4986.79,0,0,4986.79
+DOC-00409,2025-05-16,MF TRADER,Lahore,0,ID Card PVC Pack,Accessories,50,4659.3,232964.97,0.18,41933.69,274898.66
+DOC-00409,2025-05-16,MF TRADER,Lahore,0,UHF Long Range Tag,Accessories,1,193.78,193.78,0,0,193.78
+DOC-00409,2025-05-16,MF TRADER,Lahore,0,Printer Cleaning Kit,Accessories,1,3163.58,3163.58,0.18,569.44,3733.03
+DOC-00409,2025-05-16,MF TRADER,Lahore,0,UHF Long Range Tag,Accessories,3,184.03,552.08,0.18,99.37,651.46
+DOC-00410,2025-04-08,Alpha Supplies,Islamabad,45,Printer Cleaning Kit,Accessories,3,3361.36,10084.08,0.18,725.05,10809.13
+DOC-00410,2025-04-08,Alpha Supplies,Islamabad,45,Printer Service Visit,Service,20,7924.07,158481.4,0.18,19196.48,177677.88
+DOC-00411,2025-02-25,Alpha Supplies,Karachi,45,Printer Cleaning Kit,Accessories,50,3466.81,173340.34,0.18,31201.26,204541.61
+DOC-00412,2025-04-03,PakTech,Lahore,15,ID Card PVC Pack,Accessories,50,10585.08,529254,0,0,529254
+DOC-00412,2025-04-03,PakTech,Lahore,15,HDP5000e Ribbon,Ribbon,50,23936.67,1196833.68,0.18,215430.06,1412263.74
+DOC-00412,2025-04-03,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,20,3723.88,74477.53,0.18,13405.96,87883.49
+DOC-00412,2025-04-03,PakTech,Lahore,15,UHF Long Range Tag,Accessories,10,213.41,2134.14,0.18,384.15,2518.29
+DOC-00413,2025-08-30,Alpha Supplies,Lahore,0,UHF Long Range Tag,Accessories,10,343.55,3435.5,0,0,3435.5
+DOC-00413,2025-08-30,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,3,24506.18,73518.53,0.18,13233.34,86751.87
+DOC-00414,2025-07-14,Alpha Supplies,Karachi,45,ID Card PVC Pack,Accessories,5,4993.99,24969.93,0.18,4494.59,29464.52
+DOC-00414,2025-07-14,Alpha Supplies,Karachi,45,UHF Long Range Tag,Accessories,20,199.6,3992.06,0,0,3992.06
+DOC-00414,2025-07-14,Alpha Supplies,Karachi,45,ID Card PVC Pack,Accessories,3,5148.23,15444.7,0.18,2780.05,18224.75
+DOC-00414,2025-07-14,Alpha Supplies,Karachi,45,Printer Cleaning Kit,Accessories,5,3603.24,18016.2,0.18,3242.92,21259.12
+DOC-00415,2025-12-13,PakTech,Lahore,30,Printer Cleaning Kit,Accessories,20,3660.91,73218.25,0.18,13179.29,86397.54
+DOC-00415,2025-12-13,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,3,24123.64,72370.93,0.18,13026.77,85397.69
+DOC-00415,2025-12-13,PakTech,Lahore,30,UHF Long Range Tag,Accessories,10,202.18,2021.8,0.18,363.92,2385.73
+DOC-00415,2025-12-13,PakTech,Lahore,30,Printer Cleaning Kit,Accessories,1,3628.73,3628.73,0.18,653.17,4281.9
+DOC-00416,2025-09-27,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,20,3681.75,73634.96,0.18,13254.29,86889.25
+DOC-00416,2025-09-27,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,50,5352.06,267602.92,0.18,48168.53,315771.44
+DOC-00416,2025-09-27,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,5,3557.77,17788.84,0,0,17788.84
+DOC-00416,2025-09-27,Vision Systems,Islamabad,45,Printer Service Visit,Service,50,8194.06,409703.08,0.18,73746.55,483449.63
+DOC-00417,2025-06-14,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,5,4844.88,24224.42,0.18,4360.39,28584.81
+DOC-00417,2025-06-14,Alpha Supplies,Islamabad,0,HDP5000e Ribbon,Ribbon,10,24433.36,244333.65,0,0,244333.65
+DOC-00418,2025-06-24,MF TRADER,Islamabad,45,PolyGuard Lamination,Accessories,5,11486.6,57432.98,0.18,10337.94,67770.92
+DOC-00418,2025-06-24,MF TRADER,Islamabad,45,Printer Cleaning Kit,Accessories,2,3548.32,7096.65,0.18,1277.4,8374.04
+DOC-00418,2025-06-24,MF TRADER,Islamabad,45,Printer Service Visit,Service,5,7527.49,37637.45,0.18,6774.74,44412.19
+DOC-00419,2025-11-27,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,50,3632.74,181636.8,0.18,32694.62,214331.43
+DOC-00419,2025-11-27,PakTech,Lahore,15,HDP5000e Ribbon,Ribbon,20,24846.78,496935.61,0.18,89448.41,586384.02
+DOC-00420,2025-04-25,Alpha Supplies,Lahore,45,UHF Long Range Tag,Accessories,10,201.17,2011.72,0.18,362.11,2373.83
+DOC-00420,2025-04-25,Alpha Supplies,Lahore,45,Printer Service Visit,Service,50,7629.8,381490.18,0.18,68668.23,450158.42
+DOC-00420,2025-04-25,Alpha Supplies,Lahore,45,Printer Service Visit,Service,5,7845.48,39227.41,0.18,7060.93,46288.35
+DOC-00420,2025-04-25,Alpha Supplies,Lahore,45,ID Card PVC Pack,Accessories,10,5029.46,50294.59,0.18,9053.03,59347.62
+DOC-00421,2025-11-20,Vision Systems,Karachi,0,UHF Long Range Tag,Accessories,5,207.39,1036.96,0.18,186.65,1223.61
+DOC-00421,2025-11-20,Vision Systems,Karachi,0,Printer Service Visit,Service,20,8475.52,169510.46,0.18,30511.88,200022.34
+DOC-00421,2025-11-20,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,5,25510.35,127551.75,0,0,127551.75
+DOC-00422,2025-02-15,PakTech,Karachi,45,UHF Long Range Tag,Accessories,2,204.98,409.96,0.18,73.79,483.75
+DOC-00422,2025-02-15,PakTech,Karachi,45,UHF Long Range Tag,Accessories,20,206.38,4127.54,0.18,742.96,4870.5
+DOC-00422,2025-02-15,PakTech,Karachi,45,HDP5000e Ribbon,Ribbon,3,25015.97,75047.92,0.18,13508.63,88556.55
+DOC-00422,2025-02-15,PakTech,Karachi,45,Printer Cleaning Kit,Accessories,20,3645.64,72912.7,0,0,72912.7
+DOC-00423,2025-06-08,PakTech,Lahore,15,ID Card PVC Pack,Accessories,5,5240.96,26204.8,0,0,26204.8
+DOC-00423,2025-06-08,PakTech,Lahore,15,ID Card PVC Pack,Accessories,50,5314.31,265715.61,0.18,47828.81,313544.42
+DOC-00424,2025-03-26,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,5,3492.15,17460.75,0.18,3142.93,20603.68
+DOC-00424,2025-03-26,Alpha Supplies,Lahore,30,PolyGuard Lamination,Accessories,1,11920.95,11920.95,0.18,2145.77,14066.72
+DOC-00424,2025-03-26,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,3,3648.67,10946.01,0.18,1970.28,12916.3
+DOC-00425,2025-07-15,Alpha Supplies,Islamabad,15,Printer Cleaning Kit,Accessories,3,3458.46,10375.37,0.18,1867.57,12242.94
+DOC-00425,2025-07-15,Alpha Supplies,Islamabad,15,ID Card PVC Pack,Accessories,10,5129.09,51290.93,0.18,9232.37,60523.29
+DOC-00425,2025-07-15,Alpha Supplies,Islamabad,15,UHF Long Range Tag,Accessories,50,206.16,10307.86,0,0,10307.86
+DOC-00425,2025-07-15,Alpha Supplies,Islamabad,15,PolyGuard Lamination,Accessories,10,11382.15,113821.5,0.18,20487.87,134309.38
+DOC-00426,2025-12-20,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,2,22683.89,45367.78,0,0,45367.78
+DOC-00426,2025-12-20,Prime Traders,Lahore,0,HDP5000e Ribbon,Ribbon,3,23908.32,71724.97,0.18,12910.49,84635.47
+DOC-00426,2025-12-20,Prime Traders,Lahore,0,UHF Long Range Tag,Accessories,50,194.71,9735.42,0,0,9735.42
+DOC-00426,2025-12-20,Prime Traders,Lahore,0,Printer Cleaning Kit,Accessories,1,3349.93,3349.93,0,0,3349.93
+DOC-00427,2025-11-19,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,1,13207.1,13207.1,0.18,2377.28,15584.38
+DOC-00427,2025-11-19,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,20,12933.23,258664.54,0,0,258664.54
+DOC-00427,2025-11-19,Vision Systems,Karachi,0,Printer Service Visit,Service,5,8619.19,43095.94,0.18,7757.27,50853.21
+DOC-00427,2025-11-19,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,3,3835.43,11506.29,0,0,11506.29
+DOC-00428,2025-07-24,PakTech,Karachi,0,UHF Long Range Tag,Accessories,3,199.82,599.46,0.18,107.9,707.36
+DOC-00429,2025-01-26,PakTech,Karachi,15,UHF Long Range Tag,Accessories,3,204.12,612.36,0,0,612.36
+DOC-00430,2025-07-26,Prime Traders,Islamabad,30,Printer Cleaning Kit,Accessories,50,3422.66,171133.08,0.18,30803.95,201937.03
+DOC-00430,2025-07-26,Prime Traders,Islamabad,30,Printer Service Visit,Service,10,8165.25,81652.52,0.18,14697.45,96349.97
+DOC-00430,2025-07-26,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,10,23735.44,237354.4,0.18,42723.79,280078.19
+DOC-00430,2025-07-26,Prime Traders,Islamabad,30,HDP5000e Ribbon,Ribbon,20,23371.04,467420.81,0.18,84135.75,551556.55
+DOC-00431,2025-11-13,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,5,25511.99,127559.93,0.18,22960.79,150520.71
+DOC-00431,2025-11-13,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,2,5024.41,10048.81,0,0,10048.81
+DOC-00431,2025-11-13,Vision Systems,Islamabad,45,PolyGuard Lamination,Accessories,2,12863.51,25727.02,0.18,4630.86,30357.88
+DOC-00431,2025-11-13,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,2,3647.71,7295.41,0.18,1313.17,8608.58
+DOC-00432,2025-01-06,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,5,22583.01,112915.05,0.18,20324.71,133239.76
+DOC-00432,2025-01-06,Prime Traders,Islamabad,0,ID Card PVC Pack,Accessories,10,4866.84,48668.42,0.18,8760.31,57428.73
+DOC-00432,2025-01-06,Prime Traders,Islamabad,0,PolyGuard Lamination,Accessories,5,11398.64,56993.2,0.18,10258.78,67251.98
+DOC-00432,2025-01-06,Prime Traders,Islamabad,0,UHF Long Range Tag,Accessories,3,202.24,606.73,0.18,109.21,715.94
+DOC-00433,2025-06-04,MF TRADER,Islamabad,30,ID Card PVC Pack,Accessories,5,4643.67,23218.34,0.18,4179.3,27397.64
+DOC-00433,2025-06-04,MF TRADER,Islamabad,30,HDP5000e Ribbon,Ribbon,2,23080.4,46160.79,0.18,8308.94,54469.73
+DOC-00433,2025-06-04,MF TRADER,Islamabad,30,PolyGuard Lamination,Accessories,20,11131.3,222625.97,0.18,40072.67,262698.64
+DOC-00433,2025-06-04,MF TRADER,Islamabad,30,PolyGuard Lamination,Accessories,1,10915.38,10915.38,0.18,1964.77,12880.15
+DOC-00434,2025-10-13,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,50,22302.34,1115116.98,0.18,200721.06,1315838.04
+DOC-00434,2025-10-13,MF TRADER,Karachi,45,PolyGuard Lamination,Accessories,50,11681.1,584055.13,0,0,584055.13
+DOC-00434,2025-10-13,MF TRADER,Karachi,45,Printer Service Visit,Service,2,7891.28,15782.55,0.18,2840.86,18623.41
+DOC-00434,2025-10-13,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,3,21678.66,65035.97,0.18,11706.47,76742.45
+DOC-00435,2025-05-28,Prime Traders,Lahore,15,UHF Long Range Tag,Accessories,5,199.18,995.89,0.18,179.26,1175.15
+DOC-00435,2025-05-28,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,3,3403.52,10210.57,0,0,10210.57
+DOC-00435,2025-05-28,Prime Traders,Lahore,15,ID Card PVC Pack,Accessories,5,5064.95,25324.75,0.18,1174.47,26499.22
+DOC-00436,2025-01-06,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,2,211.24,422.47,0.18,76.05,498.52
+DOC-00436,2025-01-06,Vision Systems,Karachi,30,Printer Cleaning Kit,Accessories,5,3763.14,18815.68,0.18,3386.82,22202.5
+DOC-00436,2025-01-06,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,20,13339.33,266786.53,0.18,48021.58,314808.11
+DOC-00436,2025-01-06,Vision Systems,Karachi,30,ID Card PVC Pack,Accessories,1,5110.4,5110.4,0,0,5110.4
+DOC-00437,2025-08-14,Prime Traders,Lahore,15,HDP5000e Ribbon,Ribbon,20,23048.39,460967.9,0.18,82974.22,543942.12
+DOC-00438,2025-12-10,MF TRADER,Lahore,45,HDP5000e Ribbon,Ribbon,50,23640.86,1182042.91,0,0,1182042.91
+DOC-00438,2025-12-10,MF TRADER,Lahore,45,ID Card PVC Pack,Accessories,2,4782.22,9564.44,0.18,1721.6,11286.04
+DOC-00439,2025-01-07,PakTech,Islamabad,45,HDP5000e Ribbon,Ribbon,1,23888.53,23888.53,0,0,23888.53
+DOC-00440,2025-07-16,Vision Systems,Lahore,45,UHF Long Range Tag,Accessories,5,213.37,1066.85,0.18,192.03,1258.88
+DOC-00440,2025-07-16,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,5,13279.3,66396.48,0.18,11951.37,78347.85
+DOC-00440,2025-07-16,Vision Systems,Lahore,45,Printer Cleaning Kit,Accessories,10,3763.69,37636.9,0.18,6774.64,44411.54
+DOC-00440,2025-07-16,Vision Systems,Lahore,45,HDP5000e Ribbon,Ribbon,50,26188.75,1309437.74,0.18,235698.79,1545136.53
+DOC-00441,2025-12-14,Vision Systems,Islamabad,30,UHF Long Range Tag,Accessories,5,213.86,1069.3,0.18,83.33,1152.63
+DOC-00442,2025-12-29,Vision Systems,Lahore,0,ID Card PVC Pack,Accessories,20,5224.06,104481.22,0.18,18806.62,123287.85
+DOC-00442,2025-12-29,Vision Systems,Lahore,0,Printer Service Visit,Service,1,8774.59,8774.59,0.18,1579.43,10354.01
+DOC-00443,2025-04-14,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,2,3508.95,7017.9,0,0,7017.9
+DOC-00443,2025-04-14,MF TRADER,Karachi,45,UHF Long Range Tag,Accessories,50,194.37,9718.36,0.18,1749.31,11467.67
+DOC-00443,2025-04-14,MF TRADER,Karachi,45,UHF Long Range Tag,Accessories,3,184.54,553.61,0.18,99.65,653.26
+DOC-00444,2025-02-08,Prime Traders,Lahore,45,Printer Cleaning Kit,Accessories,5,3604.14,18020.7,0.18,3243.73,21264.42
+DOC-00444,2025-02-08,Prime Traders,Lahore,45,HDP5000e Ribbon,Ribbon,5,23427.99,117139.97,0.18,21085.19,138225.16
+DOC-00444,2025-02-08,Prime Traders,Lahore,45,Printer Cleaning Kit,Accessories,2,3268.05,6536.1,0.18,1176.5,7712.6
+DOC-00445,2025-08-27,Vision Systems,Karachi,15,ID Card PVC Pack,Accessories,2,5258.43,10516.87,0.18,1893.04,12409.9
+DOC-00445,2025-08-27,Vision Systems,Karachi,15,UHF Long Range Tag,Accessories,20,210.8,4216.06,0.18,758.89,4974.95
+DOC-00445,2025-08-27,Vision Systems,Karachi,15,UHF Long Range Tag,Accessories,5,207.41,1037.03,0.18,186.67,1223.69
+DOC-00445,2025-08-27,Vision Systems,Karachi,15,ID Card PVC Pack,Accessories,3,5300.04,15900.13,0,0,15900.13
+DOC-00446,2025-06-29,Alpha Supplies,Lahore,0,UHF Long Range Tag,Accessories,2,200.23,400.45,0.18,72.08,472.54
+DOC-00446,2025-06-29,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,50,24177.08,1208854.1,0,0,1208854.1
+DOC-00446,2025-06-29,Alpha Supplies,Lahore,0,Printer Service Visit,Service,10,8147.13,81471.31,0,0,81471.31
+DOC-00447,2025-07-06,PakTech,Lahore,0,ID Card PVC Pack,Accessories,10,5165.47,51654.72,0,0,51654.72
+DOC-00448,2025-07-27,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,50,23122.85,1156142.73,0.18,208105.69,1364248.42
+DOC-00448,2025-07-27,MF TRADER,Karachi,0,Printer Cleaning Kit,Accessories,1,3508.23,3508.23,0.18,631.48,4139.71
+DOC-00449,2025-05-16,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,3,3342.02,10026.07,0,0,10026.07
+DOC-00450,2025-04-11,Alpha Supplies,Karachi,45,PolyGuard Lamination,Accessories,5,12403.84,62019.2,0.18,6508.39,68527.59
+DOC-00450,2025-04-11,Alpha Supplies,Karachi,45,HDP5000e Ribbon,Ribbon,5,23596.56,117982.82,0,0,117982.82
+DOC-00450,2025-04-11,Alpha Supplies,Karachi,45,ID Card PVC Pack,Accessories,1,4661.72,4661.72,0.18,839.11,5500.83
+DOC-00451,2025-11-04,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,3,3439.15,10317.45,0.18,1857.14,12174.6
+DOC-00451,2025-11-04,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,1,3352.75,3352.75,0.18,603.5,3956.25
+DOC-00451,2025-11-04,Prime Traders,Lahore,15,Printer Service Visit,Service,3,7734.66,23203.99,0.18,4176.72,27380.7
+DOC-00452,2025-09-01,MF TRADER,Islamabad,0,HDP5000e Ribbon,Ribbon,3,21304.5,63913.49,0,0,63913.49
+DOC-00452,2025-09-01,MF TRADER,Islamabad,0,Printer Service Visit,Service,1,15023.7,15023.7,0.18,2704.27,17727.97
+DOC-00452,2025-09-01,MF TRADER,Islamabad,0,PolyGuard Lamination,Accessories,1,10868.29,10868.29,0.18,1956.29,12824.58
+DOC-00453,2025-01-15,Alpha Supplies,Lahore,45,Printer Service Visit,Service,20,7471.35,149427,0.18,13421.38,162848.38
+DOC-00454,2025-11-19,Vision Systems,Islamabad,45,Printer Cleaning Kit,Accessories,3,8101.31,24303.93,0.18,4374.71,28678.64
+DOC-00454,2025-11-19,Vision Systems,Islamabad,45,PolyGuard Lamination,Accessories,2,12995.62,25991.24,0.18,4678.42,30669.66
+DOC-00454,2025-11-19,Vision Systems,Islamabad,45,HDP5000e Ribbon,Ribbon,50,25906.32,1295315.83,0.18,233156.85,1528472.69
+DOC-00455,2025-07-11,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,3,24619.24,73857.72,0.18,13294.39,87152.11
+DOC-00455,2025-07-11,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,20,3737.86,74757.16,0,0,74757.16
+DOC-00456,2025-09-03,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,1,5078.07,5078.07,0.18,914.05,5992.12
+DOC-00456,2025-09-03,PakTech,Islamabad,30,HDP5000e Ribbon,Ribbon,50,24658.95,1232947.36,0.18,221930.53,1454877.89
+DOC-00456,2025-09-03,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,20,3631.47,72629.45,0.18,13073.3,85702.75
+DOC-00456,2025-09-03,PakTech,Islamabad,30,Printer Service Visit,Service,50,8593.09,429654.26,0.18,77337.77,506992.03
+DOC-00457,2025-02-14,Vision Systems,Lahore,45,Printer Service Visit,Service,20,8259.47,165189.46,0,0,165189.46
+DOC-00457,2025-02-14,Vision Systems,Lahore,45,Printer Service Visit,Service,3,8573.38,25720.14,0.18,4629.62,30349.76
+DOC-00458,2025-05-30,Vision Systems,Karachi,30,UHF Long Range Tag,Accessories,50,205.62,10280.76,0.18,1850.54,12131.3
+DOC-00459,2025-09-06,Vision Systems,Islamabad,30,Printer Service Visit,Service,10,8099.9,80998.98,0.18,14579.82,95578.79
+DOC-00459,2025-09-06,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,1,25843.6,25843.6,0.18,4651.85,30495.45
+DOC-00460,2025-09-14,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,2,23359.56,46719.12,0.18,8409.44,55128.56
+DOC-00460,2025-09-14,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,2,23027.87,46055.74,0.18,8290.03,54345.77
+DOC-00460,2025-09-14,MF TRADER,Karachi,15,ID Card PVC Pack,Accessories,2,4604.61,9209.22,0.18,1657.66,10866.89
+DOC-00460,2025-09-14,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,2,3367.32,6734.64,0,0,6734.64
+DOC-00461,2025-01-26,PakTech,Islamabad,15,HDP5000e Ribbon,Ribbon,20,24536.91,490738.19,0.18,88332.87,579071.06
+DOC-00461,2025-01-26,PakTech,Islamabad,15,ID Card PVC Pack,Accessories,1,5241.13,5241.13,0.18,943.4,6184.54
+DOC-00462,2025-12-31,Alpha Supplies,Karachi,15,UHF Long Range Tag,Accessories,1,202.29,202.29,0.18,36.41,238.7
+DOC-00462,2025-12-31,Alpha Supplies,Karachi,15,HDP5000e Ribbon,Ribbon,2,23555.77,47111.55,0.18,8480.08,55591.63
+DOC-00462,2025-12-31,Alpha Supplies,Karachi,15,HDP5000e Ribbon,Ribbon,5,23991.34,119956.69,0,0,119956.69
+DOC-00462,2025-12-31,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,10,5676.32,56763.2,0,0,56763.2
+DOC-00463,2025-05-13,Alpha Supplies,Islamabad,45,PolyGuard Lamination,Accessories,5,17817.22,89086.1,0.18,16035.5,105121.6
+DOC-00464,2025-08-30,Vision Systems,Islamabad,45,PolyGuard Lamination,Accessories,10,12802.31,128023.11,0.18,23044.16,151067.27
+DOC-00464,2025-08-30,Vision Systems,Islamabad,45,UHF Long Range Tag,Accessories,3,213.46,640.38,0.18,115.27,755.64
+DOC-00464,2025-08-30,Vision Systems,Islamabad,45,PolyGuard Lamination,Accessories,20,13366.34,267326.82,0.18,48118.83,315445.65
+DOC-00465,2025-03-27,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,50,22182.02,1109100.9,0,0,1109100.9
+DOC-00466,2025-12-01,Alpha Supplies,Karachi,15,Printer Service Visit,Service,3,7483.43,22450.3,0.18,4041.05,26491.35
+DOC-00466,2025-12-01,Alpha Supplies,Karachi,15,PolyGuard Lamination,Accessories,3,11464.3,34392.9,0.18,6190.72,40583.62
+DOC-00467,2025-09-13,Prime Traders,Karachi,30,HDP5000e Ribbon,Ribbon,50,24650.07,1232503.44,0.18,221850.62,1454354.06
+DOC-00468,2025-01-27,Vision Systems,Islamabad,15,Printer Cleaning Kit,Accessories,5,3691.15,18455.76,0.18,3322.04,21777.8
+DOC-00468,2025-01-27,Vision Systems,Islamabad,15,Printer Cleaning Kit,Accessories,5,3720.16,18600.8,0,0,18600.8
+DOC-00468,2025-01-27,Vision Systems,Islamabad,15,ID Card PVC Pack,Accessories,10,5274.62,52746.22,0.18,9494.32,62240.53
+DOC-00468,2025-01-27,Vision Systems,Islamabad,15,PolyGuard Lamination,Accessories,5,12316.94,61584.68,0,0,61584.68
+DOC-00469,2025-02-09,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,5,21987.87,109939.35,0.18,19789.08,129728.44
+DOC-00469,2025-02-09,MF TRADER,Karachi,15,UHF Long Range Tag,Accessories,10,185.99,1859.86,0.18,334.78,2194.64
+DOC-00470,2025-01-25,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,5,3709.14,18545.7,0.18,3338.23,21883.93
+DOC-00470,2025-01-25,Vision Systems,Karachi,0,Printer Cleaning Kit,Accessories,5,3743.47,18717.35,0.18,3369.12,22086.47
+DOC-00470,2025-01-25,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,10,26247.34,262473.39,0.18,47245.21,309718.61
+DOC-00470,2025-01-25,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,20,12351.07,247021.43,0.18,44463.86,291485.29
+DOC-00471,2025-06-19,PakTech,Karachi,30,Printer Service Visit,Service,3,8547.23,25641.69,0.18,4615.5,30257.19
+DOC-00472,2025-02-10,MF TRADER,Islamabad,30,HDP5000e Ribbon,Ribbon,3,23045.11,69135.34,0.18,12444.36,81579.7
+DOC-00472,2025-02-10,MF TRADER,Islamabad,30,UHF Long Range Tag,Accessories,2,192.05,384.1,0.18,69.14,453.24
+DOC-00473,2025-01-31,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,50,5251.23,262561.5,0,0,262561.5
+DOC-00473,2025-01-31,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,3,5350.64,16051.91,0.18,2889.34,18941.26
+DOC-00474,2025-01-14,Vision Systems,Islamabad,0,HDP5000e Ribbon,Ribbon,3,25930.09,77790.27,0.18,14002.25,91792.52
+DOC-00475,2025-02-18,Vision Systems,Islamabad,45,ID Card PVC Pack,Accessories,20,5561.1,111222.07,0.18,20019.97,131242.05
+DOC-00476,2025-05-01,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,3,5054.39,15163.17,0.18,2729.37,17892.54
+DOC-00476,2025-05-01,Alpha Supplies,Karachi,15,PolyGuard Lamination,Accessories,20,11828.24,236564.73,0.18,42581.65,279146.38
+DOC-00477,2025-03-31,PakTech,Lahore,15,ID Card PVC Pack,Accessories,3,5349.01,16047.02,0.18,2888.46,18935.48
+DOC-00477,2025-03-31,PakTech,Lahore,15,PolyGuard Lamination,Accessories,20,12547.58,250951.64,0.18,45171.3,296122.94
+DOC-00477,2025-03-31,PakTech,Lahore,15,UHF Long Range Tag,Accessories,3,203.17,609.5,0.18,109.71,719.21
+DOC-00478,2025-10-24,MF TRADER,Lahore,15,Printer Cleaning Kit,Accessories,1,3361.26,3361.26,0,0,3361.26
+DOC-00478,2025-10-24,MF TRADER,Lahore,15,ID Card PVC Pack,Accessories,2,4698.75,9397.5,0.18,1691.55,11089.05
+DOC-00479,2025-08-12,MF TRADER,Karachi,45,ID Card PVC Pack,Accessories,10,4756.29,47562.9,0,0,47562.9
+DOC-00479,2025-08-12,MF TRADER,Karachi,45,ID Card PVC Pack,Accessories,5,6939.34,34696.7,0.18,6245.41,40942.11
+DOC-00480,2025-12-19,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,10,5315.52,53155.17,0.18,9567.93,62723.1
+DOC-00480,2025-12-19,Vision Systems,Islamabad,0,UHF Long Range Tag,Accessories,20,207.76,4155.28,0.18,747.95,4903.23
+DOC-00480,2025-12-19,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,1,4852.84,4852.84,0.18,873.51,5726.35
+DOC-00480,2025-12-19,Vision Systems,Islamabad,0,ID Card PVC Pack,Accessories,3,5393.95,16181.85,0,0,16181.85
+DOC-00481,2025-09-30,Alpha Supplies,Karachi,15,Printer Service Visit,Service,2,8441.48,16882.96,0.18,726.45,17609.41
+DOC-00481,2025-09-30,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,3,5118.06,15354.19,0,0,15354.19
+DOC-00481,2025-09-30,Alpha Supplies,Karachi,15,Printer Service Visit,Service,5,7577.62,37888.11,0.18,6819.86,44707.97
+DOC-00482,2025-12-02,MF TRADER,Islamabad,0,Printer Service Visit,Service,1,6883.24,6883.24,0.18,1238.98,8122.23
+DOC-00483,2025-05-13,Alpha Supplies,Lahore,15,Printer Service Visit,Service,50,7852.75,392637.49,0.18,70674.75,463312.24
+DOC-00483,2025-05-13,Alpha Supplies,Lahore,15,Printer Cleaning Kit,Accessories,5,3495.56,17477.79,0.18,3146,20623.79
+DOC-00484,2025-10-30,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,5,3502.84,17514.19,0,0,17514.19
+DOC-00484,2025-10-30,PakTech,Karachi,15,Printer Service Visit,Service,5,8129.24,40646.19,0.18,7316.32,47962.51
+DOC-00484,2025-10-30,PakTech,Karachi,15,UHF Long Range Tag,Accessories,10,200.64,2006.38,0,0,2006.38
+DOC-00485,2025-01-02,Vision Systems,Karachi,15,ID Card PVC Pack,Accessories,1,5242.98,5242.98,0.18,943.74,6186.72
+DOC-00485,2025-01-02,Vision Systems,Karachi,15,Printer Service Visit,Service,3,9121.27,27363.8,0.18,4925.48,32289.29
+DOC-00486,2025-03-22,PakTech,Lahore,45,PolyGuard Lamination,Accessories,2,11410.48,22820.96,0.18,4107.77,26928.73
+DOC-00486,2025-03-22,PakTech,Lahore,45,Printer Cleaning Kit,Accessories,5,3621.39,18106.93,0.18,3259.25,21366.18
+DOC-00486,2025-03-22,PakTech,Lahore,45,ID Card PVC Pack,Accessories,50,5209.03,260451.39,0,0,260451.39
+DOC-00486,2025-03-22,PakTech,Lahore,45,PolyGuard Lamination,Accessories,50,11953.83,597691.4,0.18,107584.45,705275.85
+DOC-00487,2025-03-10,PakTech,Islamabad,30,HDP5000e Ribbon,Ribbon,2,24238.61,48477.22,0.18,8725.9,57203.12
+DOC-00487,2025-03-10,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,20,4918.19,98363.7,0.18,17705.47,116069.17
+DOC-00488,2025-09-24,PakTech,Lahore,15,Printer Service Visit,Service,2,8056.3,16112.6,0.18,2900.27,19012.87
+DOC-00488,2025-09-24,PakTech,Lahore,15,Printer Service Visit,Service,3,8417.04,25251.13,0,0,25251.13
+DOC-00489,2025-12-10,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,5,11823.65,59118.27,0.18,10641.29,69759.55
+DOC-00489,2025-12-10,Alpha Supplies,Karachi,30,ID Card PVC Pack,Accessories,2,5108.8,10217.6,0.18,1839.17,14408.12
+DOC-00489,2025-12-10,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,3,11874.51,35623.53,0,0,35623.53
+DOC-00490,2025-12-22,PakTech,Islamabad,45,PolyGuard Lamination,Accessories,2,12032.63,24065.27,0.18,4331.75,28397.01
+DOC-00490,2025-12-22,PakTech,Islamabad,45,Printer Service Visit,Service,10,8454.71,84547.13,0.18,15218.48,99765.62
+DOC-00490,2025-12-22,PakTech,Islamabad,45,UHF Long Range Tag,Accessories,50,206.96,10347.83,0,0,10347.83
+DOC-00490,2025-12-22,PakTech,Islamabad,45,HDP5000e Ribbon,Ribbon,20,24682.29,493645.84,0.18,88856.25,582502.09
+DOC-00491,2025-02-26,Vision Systems,Karachi,30,Printer Cleaning Kit,Accessories,3,3592.28,10776.85,0,0,10776.85
+DOC-00491,2025-02-26,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,10,25320.89,253208.92,0.18,45577.61,298786.53
+DOC-00492,2025-01-13,Alpha Supplies,Lahore,30,UHF Long Range Tag,Accessories,3,195.31,585.94,0.18,105.47,691.41
+DOC-00493,2025-02-15,PakTech,Lahore,30,Printer Service Visit,Service,1,8212.32,8212.32,0.18,1478.22,9690.54
+DOC-00493,2025-02-15,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,50,24580.58,1229028.99,0.18,221225.22,1450254.21
+DOC-00493,2025-02-15,PakTech,Lahore,30,PolyGuard Lamination,Accessories,10,11903.82,119038.2,0.18,21426.88,140465.07
+DOC-00494,2025-05-26,Alpha Supplies,Karachi,15,Printer Service Visit,Service,3,7656.92,22970.76,0.18,4134.74,27105.5
+DOC-00494,2025-05-26,Alpha Supplies,Karachi,15,ID Card PVC Pack,Accessories,2,5025.23,10050.46,0.18,1809.08,11859.54
+DOC-00494,2025-05-26,Alpha Supplies,Karachi,15,Printer Service Visit,Service,20,7868.88,157377.64,0.18,28327.98,185705.62
+DOC-00494,2025-05-26,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,50,3531.62,176580.9,0.18,31784.56,208365.47
+DOC-00495,2025-05-13,Vision Systems,Lahore,15,UHF Long Range Tag,Accessories,50,218.74,10937,0,0,10937
+DOC-00495,2025-05-13,Vision Systems,Lahore,15,HDP5000e Ribbon,Ribbon,10,25592.64,255926.44,0.18,46066.76,301993.2
+DOC-00496,2025-04-28,Alpha Supplies,Islamabad,15,ID Card PVC Pack,Accessories,5,5107.25,25536.25,0.18,4596.53,30132.78
+DOC-00496,2025-04-28,Alpha Supplies,Islamabad,15,Printer Cleaning Kit,Accessories,1,3492.5,3492.5,0.18,628.65,4121.15
+DOC-00497,2025-03-22,Vision Systems,Islamabad,30,Printer Service Visit,Service,3,8559.67,25679.01,0.18,4622.22,30301.23
+DOC-00497,2025-03-22,Vision Systems,Islamabad,30,HDP5000e Ribbon,Ribbon,10,24433.32,244333.16,0.18,43979.97,288313.13
+DOC-00498,2025-07-07,MF TRADER,Karachi,30,Printer Cleaning Kit,Accessories,20,3398.12,67962.4,0.18,12233.23,87188.76
+DOC-00498,2025-07-07,MF TRADER,Karachi,30,HDP5000e Ribbon,Ribbon,50,22197.59,1109879.45,0.18,199778.3,1309657.75
+DOC-00499,2025-12-10,Alpha Supplies,Islamabad,0,Printer Service Visit,Service,50,7897.74,394886.97,0.18,71079.66,465966.63
+DOC-00499,2025-12-10,Alpha Supplies,Islamabad,0,Printer Service Visit,Service,2,8130.24,16260.48,0.18,2926.89,19187.37
+DOC-00499,2025-12-10,Alpha Supplies,Islamabad,0,Printer Service Visit,Service,5,13471.78,67358.9,0,0,67358.9
+DOC-00500,2025-08-28,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,5,3612.27,18061.33,0.18,3251.04,21312.37
+DOC-00500,2025-08-28,PakTech,Karachi,30,UHF Long Range Tag,Accessories,2,205.75,411.51,0,0,411.51
+DOC-00501,2025-04-02,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,10,12941.57,129415.66,0.18,23294.82,152710.47
+DOC-00501,2025-04-02,Vision Systems,Lahore,45,ID Card PVC Pack,Accessories,1,5193.1,5193.1,0.18,934.76,6127.86
+DOC-00501,2025-04-02,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,5,26918.06,134590.3,0.18,24226.25,158816.55
+DOC-00502,2025-06-23,Vision Systems,Islamabad,30,UHF Long Range Tag,Accessories,10,203.63,2036.32,0,0,2036.32
+DOC-00502,2025-06-23,Vision Systems,Islamabad,30,Printer Cleaning Kit,Accessories,50,3619.67,180983.45,0,0,180983.45
+DOC-00502,2025-06-23,Vision Systems,Islamabad,30,PolyGuard Lamination,Accessories,5,11951.18,59755.92,0.18,10756.07,70511.99
+DOC-00503,2025-11-10,Vision Systems,Islamabad,0,UHF Long Range Tag,Accessories,2,205.62,411.24,0,0,411.24
+DOC-00504,2025-03-19,Alpha Supplies,Lahore,0,ID Card PVC Pack,Accessories,1,5094.59,5094.59,0.18,917.03,6011.62
+DOC-00505,2025-04-27,PakTech,Lahore,45,Printer Cleaning Kit,Accessories,3,3825.32,11475.95,0.18,2065.67,13541.62
+DOC-00506,2025-05-30,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,20,3547.78,70955.69,0.18,12772.02,83727.71
+DOC-00506,2025-05-30,PakTech,Karachi,15,UHF Long Range Tag,Accessories,20,209.68,4193.58,0,0,4193.58
+DOC-00506,2025-05-30,PakTech,Karachi,15,Printer Cleaning Kit,Accessories,2,3510.87,7021.74,0.18,1263.91,8285.65
+DOC-00507,2025-04-23,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,1,3615.35,3615.35,0.18,650.76,4266.11
+DOC-00507,2025-04-23,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,10,3458.8,34588.03,0.18,6225.85,40813.88
+DOC-00507,2025-04-23,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,2,3556.95,7113.9,0.18,1280.5,8394.4
+DOC-00507,2025-04-23,PakTech,Karachi,0,PolyGuard Lamination,Accessories,3,12553.93,37661.78,0,0,37661.78
+DOC-00508,2025-07-09,Vision Systems,Karachi,45,HDP5000e Ribbon,Ribbon,50,25776.84,1288842.25,0.18,231991.6,1520833.85
+DOC-00508,2025-07-09,Vision Systems,Karachi,45,HDP5000e Ribbon,Ribbon,10,26655.57,266555.7,0.18,47980.03,314535.73
+DOC-00508,2025-07-09,Vision Systems,Karachi,45,Printer Service Visit,Service,2,8622.3,17244.61,0,0,17244.61
+DOC-00509,2025-03-27,Prime Traders,Islamabad,45,HDP5000e Ribbon,Ribbon,3,23456.29,70368.87,0.18,5807.27,76176.14
+DOC-00510,2025-06-28,Vision Systems,Islamabad,15,PolyGuard Lamination,Accessories,3,12746.94,38240.81,0.18,6883.35,45124.16
+DOC-00510,2025-06-28,Vision Systems,Islamabad,15,PolyGuard Lamination,Accessories,3,13523.74,40571.22,0.18,7302.82,47874.04
+DOC-00510,2025-06-28,Vision Systems,Islamabad,15,Printer Service Visit,Service,5,8235.25,41176.24,0,0,41176.24
+DOC-00511,2025-04-28,MF TRADER,Karachi,45,HDP5000e Ribbon,Ribbon,1,23044.13,23044.13,0.18,4147.94,27192.07
+DOC-00511,2025-04-28,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,2,3335.21,6670.41,0,0,6670.41
+DOC-00511,2025-04-28,MF TRADER,Karachi,45,Printer Service Visit,Service,50,7664.12,383205.75,0,0,383205.75
+DOC-00511,2025-04-28,MF TRADER,Karachi,45,Printer Cleaning Kit,Accessories,2,3407.59,6815.17,0.18,1226.73,8041.9
+DOC-00512,2025-06-03,Alpha Supplies,Karachi,45,Printer Cleaning Kit,Accessories,20,3533.91,70678.11,0.18,12722.06,83400.17
+DOC-00512,2025-06-03,Alpha Supplies,Karachi,45,UHF Long Range Tag,Accessories,20,204.1,4082.04,0.18,734.77,4816.8
+DOC-00512,2025-06-03,Alpha Supplies,Karachi,45,Printer Cleaning Kit,Accessories,20,3556.31,71126.23,0.18,12802.72,83928.95
+DOC-00513,2025-02-13,MF TRADER,Lahore,30,PolyGuard Lamination,Accessories,10,11639.29,116392.88,0,0,116392.88
+DOC-00513,2025-02-13,MF TRADER,Lahore,30,UHF Long Range Tag,Accessories,2,187.03,374.05,0,0,374.05
+DOC-00513,2025-02-13,MF TRADER,Lahore,30,Printer Cleaning Kit,Accessories,50,3308.92,165445.87,0.18,29780.26,195226.12
+DOC-00514,2025-01-16,Alpha Supplies,Lahore,15,Printer Service Visit,Service,3,8271.19,24813.58,0.18,4466.44,29280.02
+DOC-00515,2025-04-18,Prime Traders,Lahore,30,Printer Service Visit,Service,2,8325.69,16651.39,0,0,16651.39
+DOC-00515,2025-04-18,Prime Traders,Lahore,30,HDP5000e Ribbon,Ribbon,3,23949.63,71848.9,0,0,71848.9
+DOC-00515,2025-04-18,Prime Traders,Lahore,30,ID Card PVC Pack,Accessories,10,4992.11,49921.07,0,0,49921.07
+DOC-00515,2025-04-18,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,50,11530.82,576540.96,0.18,103777.37,680318.33
+DOC-00516,2025-12-27,PakTech,Islamabad,45,Printer Cleaning Kit,Accessories,20,3585.74,71714.76,0.18,12908.66,84623.42
+DOC-00516,2025-12-27,PakTech,Islamabad,45,ID Card PVC Pack,Accessories,5,4726.85,23634.27,0.18,4254.17,27888.44
+DOC-00516,2025-12-27,PakTech,Islamabad,45,ID Card PVC Pack,Accessories,1,5172.89,5172.89,0.18,931.12,6104.01
+DOC-00516,2025-12-27,PakTech,Islamabad,45,UHF Long Range Tag,Accessories,50,201.6,10079.87,0.18,1814.38,11894.24
+DOC-00517,2025-11-11,Vision Systems,Karachi,45,UHF Long Range Tag,Accessories,20,202.85,4056.99,0,0,4056.99
+DOC-00517,2025-11-11,Vision Systems,Karachi,45,UHF Long Range Tag,Accessories,3,213.75,641.26,0.18,115.43,756.69
+DOC-00517,2025-11-11,Vision Systems,Karachi,45,ID Card PVC Pack,Accessories,2,5051.9,10103.8,0.18,1818.68,11922.49
+DOC-00518,2025-05-05,Prime Traders,Karachi,0,PolyGuard Lamination,Accessories,2,11638.9,23277.8,0,0,23277.8
+DOC-00519,2025-08-08,PakTech,Lahore,30,Printer Service Visit,Service,3,8165.97,24497.9,0.18,4409.62,28907.52
+DOC-00519,2025-08-08,PakTech,Lahore,30,UHF Long Range Tag,Accessories,5,207.45,1037.25,0.18,186.71,1223.96
+DOC-00519,2025-08-08,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,2,25034.95,50069.89,0.18,9012.58,59082.47
+DOC-00520,2025-03-07,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,3,3675.82,11027.45,0,0,11027.45
+DOC-00520,2025-03-07,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,2,4859.91,9719.82,0.18,1749.57,11469.39
+DOC-00520,2025-03-07,Alpha Supplies,Islamabad,0,HDP5000e Ribbon,Ribbon,10,24636.06,246360.57,0.18,44344.9,290705.47
+DOC-00521,2025-08-15,Vision Systems,Islamabad,15,Printer Cleaning Kit,Accessories,20,6040.54,120810.8,0.18,21745.94,142556.74
+DOC-00521,2025-08-15,Vision Systems,Islamabad,15,Printer Service Visit,Service,50,8436.72,421836.08,0.18,75930.5,497766.58
+DOC-00522,2025-02-23,MF TRADER,Islamabad,15,Printer Cleaning Kit,Accessories,1,3319.74,3319.74,0.18,597.55,3917.29
+DOC-00522,2025-02-23,MF TRADER,Islamabad,15,HDP5000e Ribbon,Ribbon,5,23287.72,116438.62,0.18,20958.95,137397.57
+DOC-00522,2025-02-23,MF TRADER,Islamabad,15,Printer Service Visit,Service,50,7343.7,367184.8,0,0,367184.8
+DOC-00523,2025-12-28,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,20,3211.12,64222.43,0.18,11560.04,75782.47
+DOC-00523,2025-12-28,Prime Traders,Lahore,30,Printer Cleaning Kit,Accessories,1,3326.14,3326.14,0.18,598.71,3924.85
+DOC-00523,2025-12-28,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,10,12119.68,121196.82,0,0,121196.82
+DOC-00524,2025-09-29,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,10,3323.22,33232.2,0.18,5981.8,39213.99
+DOC-00525,2025-01-02,PakTech,Lahore,30,Printer Service Visit,Service,1,7980.83,7980.83,0,0,7980.83
+DOC-00525,2025-01-02,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,50,24558.16,1227907.9,0.18,221023.42,1448931.33
+DOC-00526,2025-06-14,Prime Traders,Karachi,30,Printer Service Visit,Service,2,8126.94,16253.87,0.18,2925.7,19179.57
+DOC-00526,2025-06-14,Prime Traders,Karachi,30,UHF Long Range Tag,Accessories,1,207.25,207.25,0.18,37.31,244.56
+DOC-00526,2025-06-14,Prime Traders,Karachi,30,PolyGuard Lamination,Accessories,2,11773.78,23547.55,0.18,4238.56,27786.11
+DOC-00527,2025-05-06,Prime Traders,Karachi,30,PolyGuard Lamination,Accessories,2,11412.83,22825.66,0,0,22825.66
+DOC-00528,2025-08-22,MF TRADER,Islamabad,0,PolyGuard Lamination,Accessories,2,11066.26,22132.53,0.18,3983.85,26116.38
+DOC-00528,2025-08-22,MF TRADER,Islamabad,0,HDP5000e Ribbon,Ribbon,50,24188.78,1209438.76,0.18,217698.98,1427137.73
+DOC-00529,2025-03-31,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,3,3553.47,10660.41,0.18,1918.87,12579.29
+DOC-00529,2025-03-31,Alpha Supplies,Lahore,30,HDP5000e Ribbon,Ribbon,1,25664.52,25664.52,0.18,4619.61,30284.13
+DOC-00530,2025-11-15,MF TRADER,Lahore,0,ID Card PVC Pack,Accessories,20,4730.69,94613.75,0,0,94613.75
+DOC-00530,2025-11-15,MF TRADER,Lahore,0,ID Card PVC Pack,Accessories,3,4876.83,14630.49,0.18,2633.49,17263.97
+DOC-00531,2025-03-12,MF TRADER,Islamabad,0,Printer Cleaning Kit,Accessories,3,3301.56,9904.69,0.18,1782.84,11687.53
+DOC-00531,2025-03-12,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,2,199.39,398.77,0.18,71.78,470.55
+DOC-00532,2025-08-21,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,1,3623.52,3623.52,0.18,652.23,4275.75
+DOC-00532,2025-08-21,PakTech,Karachi,0,Printer Cleaning Kit,Accessories,50,3596.03,179801.73,0,0,179801.73
+DOC-00532,2025-08-21,PakTech,Karachi,0,Printer Service Visit,Service,5,8358.62,41793.08,0.18,7522.75,49315.84
+DOC-00532,2025-08-21,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,10,24780.36,247803.57,0.18,44604.64,292408.22
+DOC-00533,2025-01-23,PakTech,Islamabad,30,PolyGuard Lamination,Accessories,10,12159.94,121599.43,0.18,21887.9,143487.33
+DOC-00533,2025-01-23,PakTech,Islamabad,30,Printer Service Visit,Service,2,8354.05,16708.09,0.18,3007.46,19715.55
+DOC-00533,2025-01-23,PakTech,Islamabad,30,ID Card PVC Pack,Accessories,2,5121.87,10243.74,0.18,1843.87,12087.61
+DOC-00533,2025-01-23,PakTech,Islamabad,30,Printer Cleaning Kit,Accessories,1,3721.69,3721.69,0.18,669.9,4391.6
+DOC-00534,2025-02-16,Prime Traders,Karachi,15,PolyGuard Lamination,Accessories,10,11299.94,112999.43,0.18,20339.9,133339.33
+DOC-00534,2025-02-16,Prime Traders,Karachi,15,PolyGuard Lamination,Accessories,3,11776.45,35329.35,0.18,6359.28,41688.63
+DOC-00535,2025-05-20,Prime Traders,Islamabad,30,Printer Service Visit,Service,20,7956.41,159128.16,0.18,28643.07,187771.23
+DOC-00536,2025-12-20,Prime Traders,Karachi,15,Printer Cleaning Kit,Accessories,20,3448.19,68963.83,0.18,12413.49,81377.32
+DOC-00536,2025-12-20,Prime Traders,Karachi,15,HDP5000e Ribbon,Ribbon,20,22186.84,443736.82,0.18,79872.63,523609.45
+DOC-00536,2025-12-20,Prime Traders,Karachi,15,Printer Cleaning Kit,Accessories,10,3659.65,36596.51,0.18,6587.37,43183.88
+DOC-00536,2025-12-20,Prime Traders,Karachi,15,ID Card PVC Pack,Accessories,50,4836.5,241825.1,0.18,43528.52,285353.62
+DOC-00537,2025-10-06,Vision Systems,Karachi,15,PolyGuard Lamination,Accessories,1,13251.77,13251.77,0.18,2385.32,15637.09
+DOC-00537,2025-10-06,Vision Systems,Karachi,15,UHF Long Range Tag,Accessories,20,207.74,4154.9,0,0,4154.9
+DOC-00538,2025-05-12,Vision Systems,Karachi,45,Printer Cleaning Kit,Accessories,50,3735.48,186774.22,0.18,33619.36,220393.58
+DOC-00538,2025-05-12,Vision Systems,Karachi,45,Printer Cleaning Kit,Accessories,50,3793.78,189689.09,0.18,34144.04,223833.13
+DOC-00538,2025-05-12,Vision Systems,Karachi,45,Printer Cleaning Kit,Accessories,10,3721.85,37218.52,0,0,37218.52
+DOC-00539,2025-05-06,MF TRADER,Islamabad,0,UHF Long Range Tag,Accessories,3,195.34,586.02,0.18,105.48,691.51
+DOC-00539,2025-05-06,MF TRADER,Islamabad,0,PolyGuard Lamination,Accessories,50,11194.8,559739.91,0,0,559739.91
+DOC-00540,2025-07-14,MF TRADER,Islamabad,30,PolyGuard Lamination,Accessories,20,10835.3,216705.94,0.18,39007.07,255713.01
+DOC-00540,2025-07-14,MF TRADER,Islamabad,30,ID Card PVC Pack,Accessories,2,4607.43,9214.85,0,0,9214.85
+DOC-00541,2025-09-29,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,10,3545.58,35455.79,0.18,6382.04,41837.84
+DOC-00541,2025-09-29,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,2,3527.78,7055.56,0,0,7055.56
+DOC-00541,2025-09-29,PakTech,Lahore,15,Printer Service Visit,Service,50,8458.57,422928.56,0.18,76127.14,499055.7
+DOC-00541,2025-09-29,PakTech,Lahore,15,ID Card PVC Pack,Accessories,1,4844.51,4844.51,0.18,872.01,5716.52
+DOC-00542,2025-02-16,Vision Systems,Islamabad,0,PolyGuard Lamination,Accessories,3,12614.94,37844.83,0.18,6812.07,44656.89
+DOC-00542,2025-02-16,Vision Systems,Islamabad,0,UHF Long Range Tag,Accessories,20,217.52,4350.4,0.18,783.07,5758.92
+DOC-00543,2025-11-27,Alpha Supplies,Lahore,30,Printer Cleaning Kit,Accessories,20,3474.94,69498.76,0,0,69498.76
+DOC-00543,2025-11-27,Alpha Supplies,Lahore,30,PolyGuard Lamination,Accessories,1,11734.94,11734.94,0.18,2112.29,13847.23
+DOC-00544,2025-06-05,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,1,202.2,202.2,0,0,202.2
+DOC-00544,2025-06-05,Prime Traders,Karachi,15,UHF Long Range Tag,Accessories,5,194.64,973.22,0.18,175.18,1148.4
+DOC-00545,2025-12-30,MF TRADER,Lahore,30,Printer Cleaning Kit,Accessories,2,3467.28,6934.55,0,0,6934.55
+DOC-00545,2025-12-30,MF TRADER,Lahore,30,Printer Service Visit,Service,20,7779.02,155580.48,0.18,28004.49,183584.96
+DOC-00545,2025-12-30,MF TRADER,Lahore,30,PolyGuard Lamination,Accessories,20,19974.56,399491.2,0,0,399491.2
+DOC-00546,2025-01-21,Vision Systems,Lahore,0,Printer Cleaning Kit,Accessories,3,3769.17,11307.5,0.18,2035.35,13342.85
+DOC-00547,2025-06-16,PakTech,Lahore,45,HDP5000e Ribbon,Ribbon,5,25269.26,126346.3,0.18,22742.33,149088.64
+DOC-00547,2025-06-16,PakTech,Lahore,45,Printer Cleaning Kit,Accessories,3,3724.87,11174.6,0.18,2011.43,13186.03
+DOC-00547,2025-06-16,PakTech,Lahore,45,HDP5000e Ribbon,Ribbon,1,24229.69,24229.69,0,0,24229.69
+DOC-00547,2025-06-16,PakTech,Lahore,45,Printer Service Visit,Service,3,8123.6,24370.8,0.18,4386.74,28757.54
+DOC-00548,2025-05-24,Vision Systems,Lahore,15,HDP5000e Ribbon,Ribbon,20,26133.19,522663.7,0.18,94079.47,616743.17
+DOC-00549,2025-03-24,MF TRADER,Islamabad,30,Printer Service Visit,Service,2,7811.41,15622.83,0.18,2812.11,18434.93
+DOC-00549,2025-03-24,MF TRADER,Islamabad,30,ID Card PVC Pack,Accessories,1,4622.12,4622.12,0,0,4622.12
+DOC-00550,2025-01-17,Alpha Supplies,Islamabad,15,ID Card PVC Pack,Accessories,20,4993.69,99873.74,0.18,17977.27,117851.02
+DOC-00550,2025-01-17,Alpha Supplies,Islamabad,15,UHF Long Range Tag,Accessories,1,195.4,195.4,0.18,35.17,230.57
+DOC-00550,2025-01-17,Alpha Supplies,Islamabad,15,Printer Service Visit,Service,10,8285.97,82859.72,0.18,14914.75,97774.47
+DOC-00550,2025-01-17,Alpha Supplies,Islamabad,15,PolyGuard Lamination,Accessories,1,12048.46,12048.46,0.18,2168.72,14217.19
+DOC-00551,2025-06-11,Alpha Supplies,Islamabad,15,Printer Service Visit,Service,20,7751.93,155038.55,0.18,27906.94,182945.49
+DOC-00552,2025-10-05,MF TRADER,Karachi,0,UHF Long Range Tag,Accessories,2,197.58,395.16,0.18,71.13,466.29
+DOC-00552,2025-10-05,MF TRADER,Karachi,0,UHF Long Range Tag,Accessories,5,193.96,969.8,0.18,174.56,1144.36
+DOC-00553,2025-04-09,Vision Systems,Lahore,30,HDP5000e Ribbon,Ribbon,1,26682.38,26682.38,0.18,4802.83,31485.21
+DOC-00553,2025-04-09,Vision Systems,Lahore,30,PolyGuard Lamination,Accessories,2,12920.93,25841.87,0.18,4651.54,30493.4
+DOC-00554,2025-03-06,MF TRADER,Karachi,30,Printer Cleaning Kit,Accessories,1,3434.97,3434.97,0,0,3434.97
+DOC-00554,2025-03-06,MF TRADER,Karachi,30,HDP5000e Ribbon,Ribbon,1,23410.38,23410.38,0,0,23410.38
+DOC-00555,2025-02-08,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,1,5018.19,5018.19,0,0,5018.19
+DOC-00555,2025-02-08,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,10,4899.76,48997.62,0.18,8819.57,57817.2
+DOC-00555,2025-02-08,Alpha Supplies,Islamabad,0,UHF Long Range Tag,Accessories,2,203.03,406.05,0,0,406.05
+DOC-00555,2025-02-08,Alpha Supplies,Islamabad,0,PolyGuard Lamination,Accessories,2,12106.62,24213.24,0.18,4358.38,28571.63
+DOC-00556,2025-08-29,Prime Traders,Islamabad,0,HDP5000e Ribbon,Ribbon,3,22153.96,66461.87,0.18,11963.14,78425.01
+DOC-00557,2025-05-08,Alpha Supplies,Islamabad,45,UHF Long Range Tag,Accessories,2,200.83,401.65,0.18,72.3,473.95
+DOC-00557,2025-05-08,Alpha Supplies,Islamabad,45,Printer Service Visit,Service,3,8070.01,24210.03,0,0,24210.03
+DOC-00557,2025-05-08,Alpha Supplies,Islamabad,45,PolyGuard Lamination,Accessories,3,12653.28,37959.85,0.18,6832.77,44792.62
+DOC-00557,2025-05-08,Alpha Supplies,Islamabad,45,PolyGuard Lamination,Accessories,50,12270.07,613503.62,0,0,613503.62
+DOC-00558,2025-07-21,Alpha Supplies,Islamabad,0,Printer Service Visit,Service,10,7996.85,79968.53,0.18,14394.34,94362.87
+DOC-00558,2025-07-21,Alpha Supplies,Islamabad,0,HDP5000e Ribbon,Ribbon,5,23772.03,118860.16,0.18,21394.83,140254.99
+DOC-00558,2025-07-21,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,50,5183.77,259188.71,0,0,259188.71
+DOC-00559,2025-10-14,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,3,219.29,657.87,0.18,118.42,776.28
+DOC-00559,2025-10-14,Vision Systems,Lahore,0,Printer Service Visit,Service,2,8243.25,16486.51,0,0,16486.51
+DOC-00560,2025-08-14,PakTech,Lahore,15,Printer Cleaning Kit,Accessories,2,3515.39,7030.78,0.18,1265.54,8296.32
+DOC-00560,2025-08-14,PakTech,Lahore,15,ID Card PVC Pack,Accessories,20,5217.59,104351.72,0,0,104351.72
+DOC-00561,2025-12-01,MF TRADER,Islamabad,45,UHF Long Range Tag,Accessories,3,196.77,590.32,0.18,106.26,696.58
+DOC-00561,2025-12-01,MF TRADER,Islamabad,45,PolyGuard Lamination,Accessories,3,10947.39,32842.17,0.18,5911.59,38753.76
+DOC-00561,2025-12-01,MF TRADER,Islamabad,45,ID Card PVC Pack,Accessories,3,4914.69,14744.08,0.18,2653.94,17398.02
+DOC-00561,2025-12-01,MF TRADER,Islamabad,45,UHF Long Range Tag,Accessories,1,183.81,183.81,0.18,33.09,216.9
+DOC-00562,2025-01-06,PakTech,Lahore,30,Printer Service Visit,Service,10,8576.41,85764.15,0.18,15437.55,101201.7
+DOC-00563,2025-04-16,Vision Systems,Islamabad,0,PolyGuard Lamination,Accessories,3,12257.97,36773.91,0.18,6619.3,43393.21
+DOC-00563,2025-04-16,Vision Systems,Islamabad,0,Printer Service Visit,Service,2,8434.63,16869.25,0.18,3036.47,19905.72
+DOC-00564,2025-11-14,Alpha Supplies,Lahore,15,UHF Long Range Tag,Accessories,3,206.04,618.12,0.18,111.26,729.38
+DOC-00564,2025-11-14,Alpha Supplies,Lahore,15,HDP5000e Ribbon,Ribbon,10,24227.05,242270.46,0.18,43608.68,285879.15
+DOC-00565,2025-02-06,Vision Systems,Karachi,30,PolyGuard Lamination,Accessories,2,12495.13,24990.27,0.18,4498.25,29488.52
+DOC-00565,2025-02-06,Vision Systems,Karachi,30,HDP5000e Ribbon,Ribbon,2,25809.16,51618.32,0.18,9291.3,60909.62
+DOC-00565,2025-02-06,Vision Systems,Karachi,30,ID Card PVC Pack,Accessories,50,5415.72,270785.9,0,0,270785.9
+DOC-00566,2025-02-09,Prime Traders,Lahore,30,PolyGuard Lamination,Accessories,20,12217.21,244344.24,0.18,43981.96,288326.21
+DOC-00567,2025-10-02,PakTech,Karachi,45,UHF Long Range Tag,Accessories,20,199.64,3992.74,0.18,718.69,4711.43
+DOC-00567,2025-10-02,PakTech,Karachi,45,HDP5000e Ribbon,Ribbon,3,23343.58,70030.73,0.18,12605.53,82636.26
+DOC-00567,2025-10-02,PakTech,Karachi,45,ID Card PVC Pack,Accessories,3,5288.93,15866.79,0.18,2856.02,18722.82
+DOC-00568,2025-07-29,MF TRADER,Islamabad,30,Printer Service Visit,Service,10,7710.84,77108.43,0.18,13879.52,90987.95
+DOC-00569,2025-12-01,PakTech,Lahore,45,ID Card PVC Pack,Accessories,1,5104.09,5104.09,0.18,918.74,6022.83
+DOC-00569,2025-12-01,PakTech,Lahore,45,Printer Service Visit,Service,5,8144.46,40722.3,0,0,40722.3
+DOC-00569,2025-12-01,PakTech,Lahore,45,ID Card PVC Pack,Accessories,10,5013.79,50137.89,0.18,9024.82,59162.7
+DOC-00570,2025-08-09,MF TRADER,Lahore,30,Printer Cleaning Kit,Accessories,50,3326.65,166332.32,0,0,166332.32
+DOC-00570,2025-08-09,MF TRADER,Lahore,30,Printer Service Visit,Service,2,7781.46,15562.92,0.18,2801.33,18364.24
+DOC-00570,2025-08-09,MF TRADER,Lahore,30,ID Card PVC Pack,Accessories,50,4609.51,230475.64,0.18,41485.62,271961.26
+DOC-00570,2025-08-09,MF TRADER,Lahore,30,HDP5000e Ribbon,Ribbon,5,21189.49,105947.44,0,0,105947.44
+DOC-00571,2025-08-23,Prime Traders,Lahore,15,Printer Service Visit,Service,20,7698.72,153974.32,0.18,27715.38,181689.7
+DOC-00571,2025-08-23,Prime Traders,Lahore,15,Printer Cleaning Kit,Accessories,3,3350.92,10052.75,0.18,1809.49,11862.24
+DOC-00571,2025-08-23,Prime Traders,Lahore,15,HDP5000e Ribbon,Ribbon,1,22750.43,22750.43,0.18,4095.08,26845.51
+DOC-00572,2025-07-07,Alpha Supplies,Karachi,30,HDP5000e Ribbon,Ribbon,2,24123.2,48246.4,0.18,8684.35,56930.76
+DOC-00572,2025-07-07,Alpha Supplies,Karachi,30,Printer Service Visit,Service,10,8002.97,80029.67,0.18,14405.34,94435.01
+DOC-00573,2025-10-14,Prime Traders,Karachi,45,UHF Long Range Tag,Accessories,1,193.61,193.61,0,0,193.61
+DOC-00573,2025-10-14,Prime Traders,Karachi,45,PolyGuard Lamination,Accessories,50,12262.93,613146.55,0.18,110366.38,723512.93
+DOC-00573,2025-10-14,Prime Traders,Karachi,45,Printer Cleaning Kit,Accessories,3,3499.81,10499.42,0,0,10499.42
+DOC-00574,2025-09-15,Prime Traders,Islamabad,45,HDP5000e Ribbon,Ribbon,20,23841.19,476823.82,0,0,476823.82
+DOC-00575,2025-09-30,Alpha Supplies,Lahore,0,HDP5000e Ribbon,Ribbon,2,24439.29,48878.59,0.18,8798.15,57676.73
+DOC-00576,2025-08-07,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,50,183.01,9150.5,0.18,1647.09,10797.59
+DOC-00576,2025-08-07,Prime Traders,Lahore,30,Printer Service Visit,Service,10,7871.18,78711.8,0.18,14168.12,92879.93
+DOC-00576,2025-08-07,Prime Traders,Lahore,30,Printer Service Visit,Service,10,7556.82,75568.15,0.18,13602.27,89170.42
+DOC-00577,2025-03-02,Alpha Supplies,Lahore,45,Printer Service Visit,Service,3,8081,24243,0.18,4363.74,28606.73
+DOC-00577,2025-03-02,Alpha Supplies,Lahore,45,PolyGuard Lamination,Accessories,3,23214.6,69643.8,0,0,69643.8
+DOC-00577,2025-03-02,Alpha Supplies,Lahore,45,Printer Service Visit,Service,2,7958.5,15916.99,0.18,2865.06,18782.05
+DOC-00577,2025-03-02,Alpha Supplies,Lahore,45,Printer Cleaning Kit,Accessories,5,3551.84,17759.2,0.18,3196.66,20955.86
+DOC-00578,2025-07-18,Prime Traders,Karachi,30,Printer Cleaning Kit,Accessories,2,3476.04,6952.08,0.18,1251.37,8203.45
+DOC-00579,2025-02-15,PakTech,Karachi,15,HDP5000e Ribbon,Ribbon,1,23820.52,23820.52,0.18,4287.69,28108.21
+DOC-00579,2025-02-15,PakTech,Karachi,15,Printer Service Visit,Service,5,8453.72,42268.62,0.18,7608.35,49876.97
+DOC-00579,2025-02-15,PakTech,Karachi,15,ID Card PVC Pack,Accessories,20,5245.98,104919.5,0.18,18885.51,123805.01
+DOC-00579,2025-02-15,PakTech,Karachi,15,Printer Service Visit,Service,20,8340.18,166803.51,0.18,30024.63,196828.14
+DOC-00580,2025-12-18,Vision Systems,Lahore,0,Printer Cleaning Kit,Accessories,5,3877.19,19385.93,0,0,19385.93
+DOC-00580,2025-12-18,Vision Systems,Lahore,0,UHF Long Range Tag,Accessories,50,213,10650.22,0,0,10650.22
+DOC-00581,2025-02-06,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,20,12023.68,240473.56,0.18,43285.24,283758.8
+DOC-00581,2025-02-06,Alpha Supplies,Karachi,30,PolyGuard Lamination,Accessories,3,12141.53,36424.59,0.18,6556.43,42981.02
+DOC-00581,2025-02-06,Alpha Supplies,Karachi,30,HDP5000e Ribbon,Ribbon,2,23864.48,47728.96,0.18,8591.21,56320.17
+DOC-00581,2025-02-06,Alpha Supplies,Karachi,30,UHF Long Range Tag,Accessories,50,198,9900.06,0.18,1782.01,11682.07
+DOC-00582,2025-11-28,Vision Systems,Islamabad,30,PolyGuard Lamination,Accessories,2,12238.76,24477.51,0.18,4405.95,28883.46
+DOC-00583,2025-05-19,Prime Traders,Islamabad,15,ID Card PVC Pack,Accessories,10,5035.44,50354.36,0,0,50354.36
+DOC-00583,2025-05-19,Prime Traders,Islamabad,15,PolyGuard Lamination,Accessories,50,12271.86,613593.11,0.18,110446.76,724039.87
+DOC-00583,2025-05-19,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,1,3418.97,3418.97,0.18,615.41,4034.38
+DOC-00583,2025-05-19,Prime Traders,Islamabad,15,Printer Cleaning Kit,Accessories,20,3478.64,69572.78,0.18,12523.1,82095.88
+DOC-00584,2025-03-24,MF TRADER,Islamabad,15,Printer Cleaning Kit,Accessories,1,3447.57,3447.57,0.18,620.56,4068.14
+DOC-00584,2025-03-24,MF TRADER,Islamabad,15,HDP5000e Ribbon,Ribbon,3,23466.99,70400.98,0.18,12672.18,83073.16
+DOC-00585,2025-09-29,Vision Systems,Lahore,45,PolyGuard Lamination,Accessories,10,13299.8,132997.98,0.18,23939.64,156937.62
+DOC-00585,2025-09-29,Vision Systems,Lahore,45,UHF Long Range Tag,Accessories,20,211.94,4238.9,0,0,4238.9
+DOC-00586,2025-12-25,PakTech,Karachi,0,HDP5000e Ribbon,Ribbon,10,24414.7,244147.01,0.18,43946.46,288093.47
+DOC-00586,2025-12-25,PakTech,Karachi,0,UHF Long Range Tag,Accessories,50,216.81,10840.67,0.18,1951.32,12792
+DOC-00587,2025-02-01,MF TRADER,Lahore,0,Printer Service Visit,Service,2,7236.8,14473.6,0.18,2605.25,17078.85
+DOC-00587,2025-02-01,MF TRADER,Lahore,0,PolyGuard Lamination,Accessories,20,10910.85,218217.07,0.18,39279.07,257496.14
+DOC-00587,2025-02-01,MF TRADER,Lahore,0,UHF Long Range Tag,Accessories,20,186.88,3737.51,0,0,3737.51
+DOC-00587,2025-02-01,MF TRADER,Lahore,0,Printer Cleaning Kit,Accessories,1,3291.86,3291.86,0.18,592.53,4357.09
+DOC-00588,2025-08-30,PakTech,Lahore,45,Printer Service Visit,Service,5,8310.75,41553.74,0.18,7479.67,49033.41
+DOC-00588,2025-08-30,PakTech,Lahore,45,ID Card PVC Pack,Accessories,10,5199.07,51990.68,0.18,9358.32,61349.01
+DOC-00588,2025-08-30,PakTech,Lahore,45,UHF Long Range Tag,Accessories,3,209.23,627.69,0.18,112.98,740.68
+DOC-00589,2025-09-23,Alpha Supplies,Karachi,15,UHF Long Range Tag,Accessories,5,198.03,990.16,0.18,178.23,1168.38
+DOC-00589,2025-09-23,Alpha Supplies,Karachi,15,Printer Service Visit,Service,20,13925.37,278507.4,0.18,50131.33,328638.73
+DOC-00589,2025-09-23,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,3,3444.2,10332.59,0.18,1859.87,12192.46
+DOC-00589,2025-09-23,Alpha Supplies,Karachi,15,Printer Cleaning Kit,Accessories,3,3408.11,10224.34,0.18,1840.38,12064.72
+DOC-00590,2025-06-24,Vision Systems,Karachi,0,ID Card PVC Pack,Accessories,5,5157.52,25787.6,0,0,25787.6
+DOC-00590,2025-06-24,Vision Systems,Karachi,0,HDP5000e Ribbon,Ribbon,3,25234.68,75704.04,0.18,13626.73,89330.77
+DOC-00591,2025-07-11,Prime Traders,Karachi,45,ID Card PVC Pack,Accessories,10,4841.64,48416.36,0,0,48416.36
+DOC-00591,2025-07-11,Prime Traders,Karachi,45,PolyGuard Lamination,Accessories,50,11661.71,583085.57,0.18,104955.4,688040.97
+DOC-00592,2025-01-28,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,10,3426.03,34260.28,0.18,6166.85,40427.13
+DOC-00592,2025-01-28,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,1,3245.5,3245.5,0,0,3245.5
+DOC-00592,2025-01-28,MF TRADER,Karachi,15,PolyGuard Lamination,Accessories,10,11530.93,115309.33,0.18,20755.68,136065.01
+DOC-00592,2025-01-28,MF TRADER,Karachi,15,HDP5000e Ribbon,Ribbon,20,22634.9,452698.07,0.18,81485.65,534183.72
+DOC-00593,2025-11-12,PakTech,Karachi,30,PolyGuard Lamination,Accessories,10,12416.47,124164.73,0.18,22349.65,146514.38
+DOC-00593,2025-11-12,PakTech,Karachi,30,PolyGuard Lamination,Accessories,2,13539.09,27078.19,0,0,27078.19
+DOC-00593,2025-11-12,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,10,3420.01,34200.13,0.18,6156.02,40356.15
+DOC-00593,2025-11-12,PakTech,Karachi,30,Printer Service Visit,Service,3,7909.88,23729.63,0.18,4271.33,28000.96
+DOC-00594,2025-02-15,MF TRADER,Karachi,0,Printer Service Visit,Service,5,7176.26,35881.32,0,0,35881.32
+DOC-00594,2025-02-15,MF TRADER,Karachi,0,Printer Cleaning Kit,Accessories,1,3147.27,3147.27,0.18,566.51,3713.78
+DOC-00594,2025-02-15,MF TRADER,Karachi,0,HDP5000e Ribbon,Ribbon,5,23574.5,117872.52,0.18,21217.05,139089.57
+DOC-00595,2025-03-06,Alpha Supplies,Karachi,0,ID Card PVC Pack,Accessories,20,4727.19,94543.73,0.18,17017.87,111561.6
+DOC-00596,2025-05-19,MF TRADER,Lahore,15,HDP5000e Ribbon,Ribbon,20,23564.1,471282,0.18,20461.76,491743.76
+DOC-00596,2025-05-19,MF TRADER,Lahore,15,PolyGuard Lamination,Accessories,20,11481.59,229631.86,0.18,41333.73,270965.6
+DOC-00597,2025-08-03,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,1,3865.78,3865.78,0.18,695.84,4561.62
+DOC-00597,2025-08-03,PakTech,Karachi,30,PolyGuard Lamination,Accessories,1,13074.67,13074.67,0,0,13074.67
+DOC-00597,2025-08-03,PakTech,Karachi,30,UHF Long Range Tag,Accessories,1,202.99,202.99,0.18,36.54,239.53
+DOC-00597,2025-08-03,PakTech,Karachi,30,Printer Cleaning Kit,Accessories,50,3621.17,181058.34,0.18,32590.5,213648.84
+DOC-00598,2025-07-31,Alpha Supplies,Islamabad,0,PolyGuard Lamination,Accessories,5,12114.27,60571.34,0.18,10902.84,71474.18
+DOC-00598,2025-07-31,Alpha Supplies,Islamabad,0,HDP5000e Ribbon,Ribbon,10,24943.51,249435.09,0.18,44898.32,294333.41
+DOC-00598,2025-07-31,Alpha Supplies,Islamabad,0,Printer Cleaning Kit,Accessories,50,3338.57,166928.42,0.18,30047.12,196975.54
+DOC-00599,2025-10-11,PakTech,Lahore,30,HDP5000e Ribbon,Ribbon,20,25117.49,502349.85,0.18,90422.97,592772.82
+DOC-00576,2025-08-07,Prime Traders,Lahore,30,UHF Long Range Tag,Accessories,50,183.01,9150.5,0.18,1647.09,10797.59
+DOC-00471,2025-06-19,PakTech,Karachi,30,Printer Service Visit,Service,3,8547.23,25641.69,0.18,4615.5,30257.19
+DOC-00009,2025-10-14,PakTech,Islamabad,15,ID Card PVC Pack,Accessories,1,5091.02,5091.02,0.18,916.38,6007.4
+DOC-00324,2025-06-20,Prime Traders,Karachi,0,UHF Long Range Tag,Accessories,3,186.76,560.28,0.18,100.85,661.13
+DOC-00267,2025-06-16,MF TRADER,Karachi,15,Printer Cleaning Kit,Accessories,20,3287.09,65741.8,0.18,11833.52,77575.32
+DOC-00067,2025-01-18,Vision Systems,Islamabad,30,ID Card PVC Pack,Accessories,1,5202.38,5202.38,0.18,936.43,6138.81
+DOC-00022,2025-01-07,Vision Systems,Islamabad,0,UHF Long Range Tag,Accessories,50,217.83,10891.5,0.18,1960.47,12851.97
+DOC-00590,2025-06-24,Vision Systems,Karachi,0,ID Card PVC Pack,Accessories,5,5157.52,25787.6,0,0,25787.6
+DOC-00220,2025-01-17,PakTech,Islamabad,30,UHF Long Range Tag,Accessories,5,215.54,1077.7,0.18,193.99,1271.69
+DOC-00312,2025-06-13,Vision Systems,Lahore,15,ID Card PVC Pack,Accessories,3,5329.31,15987.93,0.18,2877.83,18865.76
+DOC-00555,2025-02-08,Alpha Supplies,Islamabad,0,ID Card PVC Pack,Accessories,1,5018.19,5018.19,0,0,5018.19
+DOC-00209,2025-07-08,Vision Systems,Karachi,0,PolyGuard Lamination,Accessories,50,12808.4,640420,0.18,115275.6,755695.6
+DOC-00287,2025-09-08,PakTech,Lahore,30,ID Card PVC Pack,Accessories,50,5365.07,268253.5,0,0,268253.5
